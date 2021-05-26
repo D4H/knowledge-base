@@ -1,10 +1,7 @@
 # Table of contents
 
 * [Introduction 👋](README.md)
-
-## 🤓 Getting Started
-
-* [Quick Start Guide](getting-started/quick-start-guide.md)
+* [Quick Start Guide](quick-start-guide.md)
 
 ## Personnel & Training
 
