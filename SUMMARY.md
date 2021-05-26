@@ -9,6 +9,7 @@
 ## Personnel & Training
 
 * [Getting Started](personnel-and-training/getting-started.md)
+* [Signing-in](personnel-and-training/signing-in.md)
 * [Members](personnel-and-training/untitled/README.md)
   * [Member Profiles](personnel-and-training/untitled/member-profiles.md)
 * [Qualifications](personnel-and-training/qualifications.md)
