@@ -1,14 +1,21 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Introduction 👋](README.md)
+
+## 🤓 Getting Started
+
+* [Quick Start Guide](getting-started/quick-start-guide.md)
 
 ## Personnel & Training
 
-* [Untitled](personnel-and-training/untitled.md)
+* [Getting Started](personnel-and-training/getting-started.md)
+* [Members](personnel-and-training/untitled/README.md)
+  * [Member Profiles](personnel-and-training/untitled/member-profiles.md)
+* [Qualifications](personnel-and-training/qualifications.md)
 
 ## Equipment Management
 
-* [Untitled](equipment-management/untitled.md)
+* [Categories & Kinds](equipment-management/untitled.md)
 
 ## Incident Management
 
