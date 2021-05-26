@@ -9,7 +9,6 @@
 
 
 **Getting Started Guide**  
-  
 
 
 1. [Signing-in](signing-in.md) 
@@ -35,8 +34,6 @@
 21. [Application Programming Interface \(API\)](https://support.d4h.org/d4h-incident-reporting/api-access) 
 22. [Personal & Training Integrations](https://support.d4h.org/d4h-personnel-training2/integrations3) 
 23. [Personnel & Training Mobile App](https://d4htechnologies.com/resources/mobile-apps)
-
-Once you're strong enough, save the world:
 
 
 
