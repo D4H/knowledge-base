@@ -23,6 +23,7 @@
 * [Roles](personnel-and-training/roles.md)
 * [Exercises and Events](personnel-and-training/exercises-and-events.md)
 * [K9 & Handlers](personnel-and-training/k9-and-handlers.md)
+* [Health & Safety Reports](personnel-and-training/health-and-safety-reports.md)
 
 ## Equipment Management
 
