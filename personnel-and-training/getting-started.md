@@ -12,8 +12,8 @@
   
 
 
-1. [Signing-In](https://support.d4h.org/d4h-personnel-training2/signing-in) 
-2. [Members](https://support.d4h.org/d4h-incident-reporting/members) 
+1. [Signing-in](signing-in.md) 
+2. [Members](untitled/) 
 3. [Qualifications](https://support.d4h.org/d4h-personnel-training2/qualifications) 
 4. [Groups](https://support.d4h.org/d4h-personnel-training2/groups) 
 5. [On-Call Planner](https://support.d4h.org/d4h-personnel-training2/on-call-planner) 

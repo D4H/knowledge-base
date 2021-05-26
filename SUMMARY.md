@@ -16,6 +16,13 @@
 * [Members](personnel-and-training/untitled/README.md)
   * [Member Profiles](personnel-and-training/untitled/member-profiles.md)
 * [Qualifications](personnel-and-training/qualifications.md)
+* [Groups](personnel-and-training/groups.md)
+* [On-Call Planner](personnel-and-training/on-call-planner.md)
+* [Communications](personnel-and-training/communications.md)
+* [Availability](personnel-and-training/availability.md)
+* [Roles](personnel-and-training/roles.md)
+* [Exercises and Events](personnel-and-training/exercises-and-events.md)
+* [K9 & Handlers](personnel-and-training/k9-and-handlers.md)
 
 ## Equipment Management
 
