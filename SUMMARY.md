@@ -3,6 +3,12 @@
 * [Introduction 👋](README.md)
 * [Quick Start Guide](quick-start-guide.md)
 
+## Getting Started <a id="user-accounts"></a>
+
+* [User Accounts](user-accounts/user-accounts/README.md)
+  * [Signing In](user-accounts/user-accounts/signing-in.md)
+  * [Permissions](user-accounts/user-accounts/permissions.md)
+
 ## Personnel & Training
 
 * [Getting Started](personnel-and-training/getting-started.md)
@@ -22,4 +28,8 @@
 ## Incident Reporting
 
 * [Untitled](incident-reporting/untitled.md)
+
+## Data Protection & Security
+
+* [Geographical Regions](data-protection-and-security/geographical-regions.md)
 
