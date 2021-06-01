@@ -15,6 +15,7 @@
 * [Signing-in](personnel-and-training/signing-in.md)
 * [Members](personnel-and-training/untitled/README.md)
   * [Member Profiles](personnel-and-training/untitled/member-profiles.md)
+  * [Granting Access to Members](personnel-and-training/untitled/granting-access-to-members.md)
 * [Qualifications](personnel-and-training/qualifications.md)
 * [Groups](personnel-and-training/groups.md)
 * [On-Call Planner](personnel-and-training/on-call-planner.md)

@@ -14,15 +14,15 @@ To invite members into your account:
 
 
 * Go to ![](https://support.d4h.org/desk/file/10285715/image.png) Access 
-* Click the \[+ Add Members\] button 
+* Click the \[`+ Add Members`\] button 
 * Add the member's name and their email address and any other relevant details 
 
 > **Note:** you may want to change the join date to a year in the past rather than the current year. A member cannot be added to an activity that occurs before their join date.
 
 * If you wish to add multiple members at the same time you can simply click \[+ Add Another\] for each and enter their details 
-* Next, click \[![](https://support.d4h.org/desk/file/10285471/image.png)Import All Members\] 
-* Now that the member has been added you will need to [grant them access](https://support.d4h.org/d4h-incident-reporting/granting-access-to-members) 
-* If you have the [Personnel & Training](https://support.d4h.org/d4h-personnel-training2/personnel-training) module, you can also add members by selecting \[Members\] from the Planning drop-down menu on the navigation toolbar 
+* Next, click \[![](https://support.d4h.org/desk/file/10285471/image.png)`Import All Members`\] 
+* Now that the member has been added you will need to [grant them access](granting-access-to-members.md) 
+* If you have the [Personnel & Training](../getting-started.md) module, you can also add members by selecting \[Members\] from the Planning drop-down menu on the navigation toolbar 
 
 > **Note:** You cannot grant an access level higher than your own to another member. You are also unable to change your own access level.
 
