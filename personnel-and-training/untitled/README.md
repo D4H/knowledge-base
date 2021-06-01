@@ -17,14 +17,7 @@ To invite members into your account:
 * Click the \[`+ Add Members`\] button 
 * Add the member's name and their email address and any other relevant details 
 
-> **Note:** you may want to change the join date to a year in the past rather than the current year. A member cannot be added to an activity that occurs before their join date.   
->
->
->
->
-> {% hint style="info" %}  
-> Hello world  
-> {% endhint %}
+> **Note:** you may want to change the join date to a year in the past rather than the current year. A member cannot be added to an activity that occurs before their join date.
 
 * If you wish to add multiple members at the same time you can simply click \[+ Add Another\] for each and enter their details 
 * Next, click \[![](https://support.d4h.org/desk/file/10285471/image.png)`Import All Members`\] 
