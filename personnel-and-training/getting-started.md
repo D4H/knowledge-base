@@ -22,7 +22,7 @@
 9. [Exercises and Events](exercises-and-events.md) 
 10. [K9 & Handlers](k9-and-handlers.md) 
 11. [Health & Safety Reports](health-and-safety-reports.md) 
-12. [Tags](https://support.d4h.org/d4h-personnel-training2/tags3) 
+12. [Tags](tags.md) 
 13. [Resources](https://support.d4h.org/d4h-personnel-training2/resources) 
 14. [Calendar](https://support.d4h.org/d4h-personnel-training2/calendar) 
 15. [Charts](https://support.d4h.org/d4h-personnel-training2/charts3) 
