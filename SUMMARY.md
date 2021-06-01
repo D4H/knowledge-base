@@ -28,15 +28,16 @@
 
 ## Equipment Management
 
+* [Getting Started](equipment-management/getting-started.md)
 * [Categories & Kinds](equipment-management/untitled.md)
 
 ## Incident Management
 
-* [Untitled](incident-management/untitled.md)
+* [Getting Started](incident-management/getting-started.md)
 
 ## Incident Reporting
 
-* [Untitled](incident-reporting/untitled.md)
+* [Getting Started](incident-reporting/getting-started.md)
 
 ## Data Protection & Security
 
