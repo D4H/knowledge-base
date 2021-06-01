@@ -36,14 +36,14 @@ We recommend you use our Bulk-Upload Template. Make sure all your rows match our
   
 
 
-* From the ![](https://support.d4h.org/desk/file/10285715/image.png) Access menu click the \[+ Add Members\] button 
-* Click \[Upload Spreadsheet\] 
+* From the ![](https://support.d4h.org/desk/file/10285715/image.png) Access menu click the \[`+ Add Members`\] button 
+* Click \[`Upload Spreadsheet`\] 
 * Download the Bulk-Upload Template 
 * Once populated, go back to this screen 
 * Upload your CSV file 
 * You can review the data before importing 
-* Once you are happy click \[![](https://support.d4h.org/desk/file/10285471/image.png)Import All Members\] 
-* Now that your members have been added you will need to [grant them access](https://support.d4h.org/d4h-incident-reporting/granting-access-to-members) 
+* Once you are happy click \[![](https://support.d4h.org/desk/file/10285471/image.png)`Import All Members`\] 
+* Now that your members have been added you will need to [grant them access](granting-access-to-members.md) 
 
 > **Note:** If you plan on importing data into [custom fields](https://support.d4h.org/custom-fields3/custom-fields2), the custom fields must be created before doing the import. You also need to make sure that the name of the spreadsheet column you are importing data from is an exact match to the name of the custom field.
 
