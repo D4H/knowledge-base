@@ -9,7 +9,7 @@ This is how you will sign in for any of the below modules:
 
 
 * [Personnel & Training ](getting-started.md)
-* [Equipment Management](../equipment-management/getting-started.md) 
+* [Equipment Management ](../equipment-management/getting-started.md)
 * [Incident Reporting](../incident-reporting/getting-started.md) 
 
 ![](https://support.d4h.org/desk/file/8867536/CreateAccount.gif)
