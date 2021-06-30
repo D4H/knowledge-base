@@ -8,9 +8,13 @@ The following sample templates are available to be used in your account. To get 
 
 ## Airline
 
-* [Disrupted Flights](airline-templates/disrupted-flights.md)
-* Passenger Manifest
-* Crew
+{% page-ref page="airline-templates/disrupted-flights.md" %}
+
+{% page-ref page="airline-templates/crew.md" %}
+
+{% page-ref page="airline-templates/passenger-manifest.md" %}
+
+
 
 ## Emergency Management / EOC
 
