@@ -8,9 +8,9 @@ This is how you will sign in for any of the below modules:
   
 
 
-* [Personnel & Training ](getting-started.md)
-* [Equipment Management ](../equipment-management/getting-started.md)
-* [Incident Reporting](../incident-reporting/getting-started.md) 
+* [Personnel & Training ](../../personnel-and-training/getting-started.md)
+* [Equipment Management ](../../equipment-management/getting-started.md)
+* [Incident Reporting](../../incident-reporting/getting-started.md) 
 
 ![](https://support.d4h.org/desk/file/8867536/CreateAccount.gif)
 
@@ -25,7 +25,7 @@ To sign into your D4H app, you will use the same username and password that you 
 ![Image Placeholder](https://support.d4h.org/desk/file/10291308/2020-07-07%20at%2014.58.png)  
 [D4H Incident Management](https://d4htechnologies.com/incident-management)  
   
-You will use the same username and password that you use to login to the web version of [Incident Management](../incident-management/getting-started.md).   
+You will use the same username and password that you use to login to the web version of [Incident Management](../../incident-management/getting-started.md).   
   
 Sign-in with SSO is only to be used if your organization has set up Single Sign On \(SSO\) with D4H.   
   

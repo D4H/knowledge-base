@@ -1,4 +1,4 @@
-# Getting Started
+# D4H Personnel & Training Guide
 
 ## Personnel & Training
 
@@ -11,7 +11,7 @@
 **Getting Started Guide**  
 
 
-1. [Signing-in](signing-in.md) 
+1. [Signing-in](../user-accounts/quick-start-guide/signing-in-1.md) 
 2. [Members](untitled/) 
 3. [Qualifications](qualifications.md) 
 4. [Groups](groups.md) 
@@ -22,7 +22,7 @@
 9. [Exercises and Events](exercises-and-events.md) 
 10. [K9 & Handlers](k9-and-handlers.md) 
 11. [Health & Safety Reports](health-and-safety-reports.md) 
-12. [Tags](tags.md) 
+12. [Tags](../shared-services/tags.md) 
 13. [Resources](https://support.d4h.org/d4h-personnel-training2/resources) 
 14. [Calendar](https://support.d4h.org/d4h-personnel-training2/calendar) 
 15. [Charts](https://support.d4h.org/d4h-personnel-training2/charts3) 

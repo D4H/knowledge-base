@@ -1,18 +1,22 @@
 # Table of contents
 
 * [Introduction 👋](README.md)
-* [Quick Start Guide](quick-start-guide.md)
 
 ## Getting Started <a id="user-accounts"></a>
 
-* [User Accounts](user-accounts/user-accounts/README.md)
-  * [Signing In](user-accounts/user-accounts/signing-in.md)
-  * [Permissions](user-accounts/user-accounts/permissions.md)
+* [Quick Start Guide](user-accounts/quick-start-guide/README.md)
+  * [Signing-in](user-accounts/quick-start-guide/signing-in-1.md)
+  * [Password Reset](user-accounts/quick-start-guide/password-reset.md)
+  * [Switching Teams](user-accounts/quick-start-guide/switching-teams.md)
+
+## User Access
+
+* [Inviting New Users](user-access/inviting-new-users.md)
+* [User Permissions](user-access/permissions.md)
 
 ## Personnel & Training
 
-* [Getting Started](personnel-and-training/getting-started.md)
-* [Signing-in](personnel-and-training/signing-in.md)
+* [D4H Personnel & Training Guide](personnel-and-training/getting-started.md)
 * [Members](personnel-and-training/untitled/README.md)
   * [Member Profiles](personnel-and-training/untitled/member-profiles.md)
   * [Granting Access to Members](personnel-and-training/untitled/granting-access-to-members.md)
@@ -25,20 +29,19 @@
 * [Exercises and Events](personnel-and-training/exercises-and-events.md)
 * [K9 & Handlers](personnel-and-training/k9-and-handlers.md)
 * [Health & Safety Reports](personnel-and-training/health-and-safety-reports.md)
-* [Tags](personnel-and-training/tags.md)
 
 ## Equipment Management
 
-* [Getting Started](equipment-management/getting-started.md)
+* [D4H Equipment Management Guide](equipment-management/getting-started.md)
 * [Categories & Kinds](equipment-management/untitled.md)
 
 ## Incident Management
 
-* [Getting Started](incident-management/getting-started.md)
+* [D4H Incident Management Guide](incident-management/getting-started.md)
 
 ## Incident Reporting
 
-* [Getting Started](incident-reporting/getting-started.md)
+* [D4H Incident Reporting Guide](incident-reporting/getting-started.md)
 * [Sample Templates](incident-reporting/sample-templates/README.md)
   * [Importing Sample Templates](incident-reporting/sample-templates/importing-sample-templates.md)
   * [General Templates](incident-reporting/sample-templates/general-templates/README.md)
@@ -82,9 +85,11 @@
     * [Energy](incident-reporting/sample-templates/emergency-management-templates/energy.md)
     * [Shelters](incident-reporting/sample-templates/emergency-management-templates/shelters.md)
 
-## Data Protection & Security
+## Shared Services
 
-* [Geographical Regions](data-protection-and-security/geographical-regions.md)
+* [Dashboard](shared-services/dashboard.md)
+* [Organizations](shared-services/organizations.md)
+* [Tags](shared-services/tags.md)
 
 ## PRODUCT HELP GUIDES
 

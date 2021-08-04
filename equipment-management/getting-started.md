@@ -1,2 +1,2 @@
-# Getting Started
+# D4H Equipment Management Guide
 
