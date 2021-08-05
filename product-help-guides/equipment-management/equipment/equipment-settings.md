@@ -1,6 +1,0 @@
----
-description: DRAFT
----
-
-# Equipment Settings
-

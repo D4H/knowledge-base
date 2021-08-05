@@ -1,6 +1,0 @@
----
-description: DRAFT
----
-
-# Funding Sources
-

@@ -1,6 +1,0 @@
----
-description: DRAFT
----
-
-# Persons Involved
-

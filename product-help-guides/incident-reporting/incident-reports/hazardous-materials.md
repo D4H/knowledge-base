@@ -1,6 +1,0 @@
----
-description: DRAFT
----
-
-# Hazardous Materials
-

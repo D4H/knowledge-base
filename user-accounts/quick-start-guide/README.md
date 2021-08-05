@@ -14,7 +14,7 @@ More.
 
 ## Step 2 - Sign-In to D4H.
 
-Use your username and password you created to sign-in. If you need additional help, see our guide to [Signing In](). Once signed-in, your username may give you access to multiple teams, see our guide to [Switching Teams](switching-teams.md).
+Use your username and password you created to sign-in. If you need additional help, see our guide to [Signing In](signing-in-1.md). Once signed-in, your username may give you access to multiple teams, see our guide to [Switching Teams](switching-teams.md).
 
 ## Step 3 - Download the apps.
 
@@ -33,7 +33,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 
 ### Incident Management
 
-* View the [Situation](../../product-help-guides/incident-management/situation.md) Report.
+* View the [Situation]() Report.
 * Post an update in the log. 
 
 
