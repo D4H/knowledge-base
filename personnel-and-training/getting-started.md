@@ -13,7 +13,7 @@
 
 1. [Signing-in](../user-accounts/quick-start-guide/signing-in-1.md) 
 2. [Members](untitled/) 
-3. [Qualifications](qualifications.md) 
+3. [Qualifications](qualifications/) 
 4. [Groups](groups.md) 
 5. [On-Call Planner ](on-call-planner.md)
 6. [Communications](communications.md) 
@@ -21,7 +21,7 @@
 8. [Roles](roles.md) 
 9. [Exercises and Events](exercises-and-events.md) 
 10. [K9 & Handlers](k9-and-handlers.md) 
-11. [Health & Safety Reports](health-and-safety-reports.md) 
+11. [Health & Safety Reports](../shared-services/health-and-safety-reports.md) 
 12. [Tags](../shared-services/tags.md) 
 13. [Resources](https://support.d4h.org/d4h-personnel-training2/resources) 
 14. [Calendar](https://support.d4h.org/d4h-personnel-training2/calendar) 

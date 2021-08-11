@@ -17,7 +17,7 @@ To invite members into your account:
 * Click the **+ Add Members** button 
 * Add the member's name and their email address and any other relevant details
 
-{% hint style="warning" %}
+{% hint style="info" %}
 You may want to change the join date to a year in the past rather than the current year. A member cannot be added to an activity that occurs before their join date.
 {% endhint %}
 
