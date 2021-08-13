@@ -1,35 +1,29 @@
 # Groups
 
 Groups are used to organize members of your team for communications and other management functions.   
-
+  
+You can target communication messages, set attendance, and document qualification expectation by grouping.
 
 {% hint style="info" %}
 Potential groupings could be dependent on rank, skills or specialty.
 {% endhint %}
 
-  
-You can target communication messages, set attendance, and document qualification expectation by grouping.  
-
-
 ## Creating a Group
 
-To create a group:  
+To create a group:
 
-
-* Go to \[Planning\] and select \[Groups\]
-* Click \[Add Group\]
-* Fill in the details. The [bundle](/d4h-incident-reporting/bundles) field is to help organise similar groups together
+* Go to **Planning** and select **Groups**
+* Click **Add Group**
+* Fill in the details. The [bundle](/d4h-incident-reporting/bundles) field is to help organize similar groups together
 * You can enter an SMS Shortcode for use in SMS messages and set a required on-call threshold
 * Add your members from the drop down menu
-* Click \[Save Group...\]
+* Click **Save Group...**
 
 ## Sending an email to a group
 
-It is possible to [send an email](/personnel-and-training-exercises-events2/sending-an-email-to-a-group) to a group, look out for the \[![](https://support.d4h.org/desk/file/10323352/image.png)Send Message\] button
+It is possible to [send an email](/personnel-and-training-exercises-events2/sending-an-email-to-a-group) to a group, look out for the ![](https://support.d4h.org/desk/file/10323352/image.png)**Send Message** button
 
-
-
-![](/desk/file/10323536/2020-07-20%20at%2015.46.gif)
+![](../.gitbook/assets/sending-an-email-to-a-group.gif)
 
 ## Set Groups Required On-Call Numbers
 

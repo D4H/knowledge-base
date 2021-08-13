@@ -4,5 +4,13 @@ Make the administration of qualifications and training records easy. Customizabl
 
 {% page-ref page="adding-a-qualification.md" %}
 
+{% page-ref page="deleting-a-qualification.md" %}
+
+{% page-ref page="adding-an-animal-qualification.md" %}
+
+{% page-ref page="bulk-uploading-qualifications.md" %}
+
+
+
 
 
