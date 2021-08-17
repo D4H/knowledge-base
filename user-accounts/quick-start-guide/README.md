@@ -23,7 +23,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 ### Personnel & Training
 
 * View your team [calendar](../../personnel-and-training/calendar.md).
-* Change your availability in the [on-call planner](../../personnel-and-training/on-call-planner.md).
+* Change your availability in the [on-call planner](../../personnel-and-training/on-call-planner/).
 * Update your profile on Personnel & Training.
 * Add your calendar to your mobile phone.
 
