@@ -22,14 +22,14 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 
 ### Personnel & Training
 
-* View your team [calendar](../../personnel-and-training/calendar.md).
+* View your team [calendar](../../personnel-and-training/calendar/).
 * Change your availability in the [on-call planner](../../personnel-and-training/on-call-planner/).
 * Update your profile on Personnel & Training.
 * Add your calendar to your mobile phone.
 
 ### Equipment Management
 
-* Document [repairs](../../equipment-management/repairs.md) to equipment.
+* Document [repairs](../../equipment-management/repairs/) to equipment.
 * Use the [app](../../equipment-management/equipment-management-app.md) to track regular [inspections](../../equipment-management/inspections.md).
 * View the locations of your equipment
 
@@ -43,7 +43,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 ### Incident Reporting
 
 * Create a new [incident](../../incident-reporting/incident-reports.md).
-* Run [reports ](../../shared-services/reports.md)on your past incidents.
+* Run [reports ](../../shared-services/reports/)on your past incidents.
 * Add [persons involved](../../incident-reporting/persons-involved.md) to an incident.
 
 

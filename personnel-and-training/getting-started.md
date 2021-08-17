@@ -1,39 +1,61 @@
 # D4H Personnel & Training Guide
 
-## Personnel & Training
-
 ![](../.gitbook/assets/image.png)
 
 [D4H Personnel & Training](https://d4htechnologies.com/personnel-training) allows you to easily manage the administration of personnel, qualifications, training, attendance, and availability.
 
-
-
 **Getting Started Guide**  
 
 
-1. [Signing-in](../user-accounts/quick-start-guide/signing-in-1.md) 
-2. [Members](untitled/) 
-3. [Qualifications](qualifications/) 
-4. [Groups](groups/) 
-5. [On-Call Planner ](on-call-planner/)
-6. [Communications](communications/) 
-7. [Availability](availability/) 
-8. [Roles](roles/) 
-9. [Exercises and Events](exercises-and-events/) 
-10. [K9 & Handlers](k9-and-handlers/) 
-11. [Health & Safety Reports](../shared-services/health-and-safety-reports.md) 
-12. [Tags](../shared-services/tags.md) 
-13. [Resources](https://support.d4h.org/d4h-personnel-training2/resources) 
-14. [Calendar](https://support.d4h.org/d4h-personnel-training2/calendar) 
-15. [Charts](https://support.d4h.org/d4h-personnel-training2/charts3) 
-16. [Reports](https://support.d4h.org/d4h-personnel-training2/reports3) 
-17. [Cost Recovery & Billing](https://support.d4h.org/d4h-incident-reporting/cost-recovery-billing) 
-18. [Whiteboard](https://support.d4h.org/personnel-and-training-whiteboard/whiteboard) 
-19. [Address Book](https://support.d4h.org/d4h-personnel-training2/address-book) 
-20. [Custom Fields](https://support.d4h.org/d4h-personnel-training2/custom-fields2) 
-21. [Application Programming Interface \(API\)](https://support.d4h.org/d4h-incident-reporting/api-access) 
-22. [Personal & Training Integrations](https://support.d4h.org/d4h-personnel-training2/integrations3) 
-23. [Personnel & Training Mobile App](https://d4htechnologies.com/resources/mobile-apps)
+{% page-ref page="../user-accounts/quick-start-guide/signing-in-1.md" %}
+
+{% page-ref page="untitled/" %}
+
+{% page-ref page="qualifications/" %}
+
+{% page-ref page="groups/" %}
+
+{% page-ref page="on-call-planner/" %}
+
+{% page-ref page="communications/" %}
+
+{% page-ref page="availability/" %}
+
+{% page-ref page="roles/" %}
+
+{% page-ref page="exercises-and-events/" %}
+
+{% page-ref page="k9-and-handlers/" %}
+
+{% page-ref page="../shared-services/health-and-safety-reports/" %}
+
+{% page-ref page="../shared-services/tags/adding-new-tags.md" %}
+
+{% page-ref page="../shared-services/resources/" %}
+
+{% page-ref page="calendar/" %}
+
+{% page-ref page="../shared-services/charts/" %}
+
+{% page-ref page="../shared-services/reports/" %}
+
+{% page-ref page="../shared-services/cost-recovery/" %}
+
+{% page-ref page="whiteboard/" %}
+
+{% page-ref page="../shared-services/address-book/" %}
+
+{% page-ref page="../shared-services/custom-fields/" %}
+
+{% page-ref page="../shared-services/api.md" %}
+
+{% page-ref page="personnel-and-training-integrations.md" %}
+
+{% page-ref page="personnel-and-training-app/" %}
+
+
+
+
 
 
 
