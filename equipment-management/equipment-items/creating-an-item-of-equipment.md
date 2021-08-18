@@ -16,6 +16,10 @@ You can give your item a different reference if you are already using references
 
 ![](../../.gitbook/assets/creating-an-item-of-equipment.png)
 
+
+
+{% embed url="https://youtu.be/E1RR0f0ptZg" %}
+
 You can attach an image to the item's profile. However, if you have several items of the same [manufacturer and model](../manufacturers-and-models.md), it is advised to attach the image of the item to the model. This will set the photo as the profile photo for all items of that model.  
 
 
