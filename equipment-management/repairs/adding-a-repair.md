@@ -1,13 +1,19 @@
-# Adding a repair
+# Creating a repair
 
 To add a repair to an item of equipment:
 
-* You must go to the item of equipment that you want to assign a repair to
-* Click on **Add Repair**
-* Fill in the details
-* Click **Quick Add** if you do not need to add any further details
-* Otherwise, click **Create Repair** to add instructions and a due date
+* Go to the item of equipment
+* Click **Add Repair**
+* Enter the repair that is needed
+* Choose what caused the damage \(this may be useful to track across your cache\)
+* You can assign the repair to a member of your team
+* Setting 'Out Of Service' to 'Yes' means the item will be marked as out of service until the repair has been completed
+* Click **Create Repair**, this allows you to add further details and a due date
+* It is possible to track on which incident/event/exercise the item was damaged by selecting it from the 'Caused on Activity' drop down
+* You can add costing details related to the repair
 * Click **Save Changes**
 
-**YOUTUBE VIDEO HERE**
+{% embed url="https://youtu.be/7WptLysno7U" %}
+
+\*\*\*\*
 
