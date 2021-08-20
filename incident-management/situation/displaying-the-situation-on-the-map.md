@@ -4,7 +4,7 @@ You can display the Situation Report on the map so that it is easy to see the ex
 
 #### WEB APP
 
-To display the [Situation ](./)on the [Map](../map.md), you must complete the location field on your Situation Report \(SITREP\)
+To display the [Situation ](./)on the [Map](../map/), you must complete the location field on your Situation Report \(SITREP\)
 
 * Click into the location field on your SITREP
 * Search for an address by clicking on the magnifying glass or drag and drop the pin to the location

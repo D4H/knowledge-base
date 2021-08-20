@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-The header row of columns that appears along the top of your [Status Board](../status-boards.md) or [Task Board](../task-boards.md) on their list view can be modified.
+The header row of columns that appears along the top of your [Status Board](../status-boards/) or [Task Board](../task-boards.md) on their list view can be modified.
 
 ![](../../.gitbook/assets/list-layout-columns.png)
 

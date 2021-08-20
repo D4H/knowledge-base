@@ -38,7 +38,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 * View the [Situation](../../incident-management/situation/) Report.
 * Post an [update](../../incident-management/updates/) in the log. 
 * Mark a [task](../../incident-management/task-boards.md) as complete.
-* Fill out a [form](../../incident-management/forms.md).
+* Fill out a [form](../../incident-management/forms/).
 
 ### Incident Reporting
 

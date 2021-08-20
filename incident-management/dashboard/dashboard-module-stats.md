@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Dashboard module stats allow you to display the summed value of number fields from a [status board](../status-boards.md) on the [dashboard](./). 
+Dashboard module stats allow you to display the summed value of number fields from a [status board](../status-boards/) on the [dashboard](./). 
 
 ![](../../.gitbook/assets/dashboard-module-stats.png)
 

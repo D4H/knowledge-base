@@ -7,7 +7,7 @@
 Within your [Incident Management](../getting-started.md) account go to the [Admin Area](../admin-area.md) and follow the steps below.
 
 * Go to **Collections**
-* Click on the module you want to pre-load data into \(this will be a [Form](../forms.md), [Status Board](../status-boards.md) or [Task Board](../task-boards.md) you have already created\)
+* Click on the module you want to pre-load data into \(this will be a [Form](../forms/), [Status Board](../status-boards/) or [Task Board](../task-boards.md) you have already created\)
 * Click **Add**
 * Fill in the details for your item.
 * Add as many items as you would like to pre-load available in all channels.

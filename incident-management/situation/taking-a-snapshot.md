@@ -6,7 +6,7 @@ You can take a snapshot of the Situation Report and Forms in your [Incident Mana
 
 ## Taking a snapshot of the SITREP
 
-This takes a screenshot of the form with all of the current data on it. It saves an uneditable PDF copy of it in [Forms](../forms.md) in an auto generated folder called [Situation](./).
+This takes a screenshot of the form with all of the current data on it. It saves an uneditable PDF copy of it in [Forms](../forms/) in an auto generated folder called [Situation](./).
 
 * Click on **More Options \[⋮\]**
 * Select ![Image Placeholder](https://support.d4h.org/desk/file/10182655/image.png) **Take Snapshot** 

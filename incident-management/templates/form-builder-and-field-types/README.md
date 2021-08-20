@@ -79,7 +79,7 @@ The form builder is used to create all form [templates](../) for all modules in 
 * **Table:** this adds a table field to your template. You can add columns to the table, each column can be a different field type. You can specify what column you want to sort the table by and what direction i.e. ascending or descending. 
 
 {% hint style="info" %}
-It is possible to populate a table field with the contents of a [status board](../../status-boards.md), [task board](../../task-boards.md), [personnel](../../personnel.md), or [roles](../../../personnel-and-training/roles/). 
+It is possible to populate a table field with the contents of a [status board](../../status-boards/), [task board](../../task-boards.md), [personnel](../../personnel.md), or [roles](../../../personnel-and-training/roles/). 
 {% endhint %}
 
 {% embed url="https://youtu.be/SKFMof54\_gQ" %}
