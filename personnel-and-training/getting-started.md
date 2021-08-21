@@ -49,7 +49,7 @@
 
 {% page-ref page="../shared-services/api.md" %}
 
-{% page-ref page="personnel-and-training-integrations.md" %}
+{% page-ref page="personnel-and-training-integrations/" %}
 
 {% page-ref page="personnel-and-training-app/" %}
 

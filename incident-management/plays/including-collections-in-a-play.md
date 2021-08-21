@@ -2,12 +2,12 @@
 
 #### WEB APP
 
-Within [Incident Management](../getting-started.md), it is possible to create and store pre-loaded content in [collections](../collections/). This content can be added to a play so that it is available when you start a new event or incident.   
+Within [Incident Management](../getting-started.md), it is possible to create and store pre-loaded content in [collections](../admin-area/collections/). This content can be added to a play so that it is available when you start a new event or incident.   
   
 For example, to add a team and the respective roles to your play follow the steps below
 
-* Go to [Plays](./) in the [Admin Area](../admin-area.md)
-* Click **Select items** next to the [Personnel](../personnel.md) & [Roles](../../personnel-and-training/roles/) module
+* Go to [Plays](./) in the [Admin Area](../admin-area/)
+* Click **Select items** next to the [Personnel](../personnel/) & [Roles](../../personnel-and-training/roles/) module
 
 ![](../../.gitbook/assets/including-collections-in-a-play.png)
 

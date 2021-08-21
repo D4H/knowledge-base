@@ -2,11 +2,11 @@
 
 #### WEB APP
 
-To create a new [Form](./) template, navigate to the [Admin Area](../admin-area.md) in your D4H [Incident Management](../getting-started.md) account.
+To create a new [Form](./) template, navigate to the [Admin Area](../admin-area/) in your D4H [Incident Management](../getting-started.md) account.
 
 * Open **Templates** &gt; **Forms**
 * Click on **New form template**
-* Fill in the details and create your template using the [Form Builder](../templates/form-builder-and-field-types/)
+* Fill in the details and create your template using the [Form Builder](../admin-area/templates/form-builder-and-field-types/)
 * Click **Save** at the bottom of the screen
 
 {% embed url="https://youtu.be/u8m9XCrwxjI" %}

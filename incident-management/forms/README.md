@@ -22,22 +22,22 @@ Ideas for your Forms:
 
 ## Templates
 
-Each form has a [Template](../templates/) which outlines its layout.
+Each form has a [Template](../admin-area/templates/) which outlines its layout.
 
 {% page-ref page="creating-a-new-form.md" %}
 
-{% page-ref page="../templates/form-builder-and-field-types/" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/" %}
 
-{% page-ref page="../templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
 
 ## Collections
 
-[Collections](../collections/) are used to pre-load data into a Form. For example you might have a Meeting Schedule and you could enter all the unchanging details into the collections in advance. They are then available pre-loaded to import during an Incident.  
+[Collections](../admin-area/collections/) are used to pre-load data into a Form. For example you might have a Meeting Schedule and you could enter all the unchanging details into the collections in advance. They are then available pre-loaded to import during an Incident.  
 
 
-{% page-ref page="../collections/creating-collections.md" %}
+{% page-ref page="../admin-area/collections/creating-collections.md" %}
 
-{% page-ref page="../collections/importing-collections-into-a-channel.md" %}
+{% page-ref page="../admin-area/collections/importing-collections-into-a-channel.md" %}
 
 {% page-ref page="../plays/including-collections-in-a-play.md" %}
 

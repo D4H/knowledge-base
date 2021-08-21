@@ -7,7 +7,7 @@ To assign a role in your [Incident Management ](../getting-started.md)account, g
 * Select the checkmark icon to save
 
   
-[Roles](../../personnel-and-training/roles/) can also be assigned from the [Personnel](../personnel.md) menu following similar instructions. Locate the person whom you wish to assign the role too, select the edit icon next to their name then select the role you wish to assign from the drop-down menu. Select the checkmark icon to save.  
+[Roles](../../personnel-and-training/roles/) can also be assigned from the [Personnel](../personnel/) menu following similar instructions. Locate the person whom you wish to assign the role too, select the edit icon next to their name then select the role you wish to assign from the drop-down menu. Select the checkmark icon to save.  
   
 
 

@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-You can create an Org Chart in the[ Roles](../../personnel-and-training/roles/) module in your [Incident Management](../getting-started.md) account. You can also pre-load Org Charts into [Collections](../collections/) in the [Admin Area](../admin-area.md). 
+You can create an Org Chart in the[ Roles](../../personnel-and-training/roles/) module in your [Incident Management](../getting-started.md) account. You can also pre-load Org Charts into [Collections](../admin-area/collections/) in the [Admin Area](../admin-area/). 
 
 * Go to Roles
 * Click on the Org Chart button

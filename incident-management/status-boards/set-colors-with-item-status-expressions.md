@@ -6,10 +6,10 @@ Item status expressions allow you to specify what color a row within a [status b
 
 ![](../../.gitbook/assets/set-color-with-item-status-expressions.png)
 
-To do this go to the [Admin Area](../admin-area.md) and follow the steps below:
+To do this go to the [Admin Area](../admin-area/) and follow the steps below:
 
-* Open up [Templates](../templates/) and click edit on the status board you wish to edit
-* If you do not already have a **Status** [field](../templates/form-builder-and-field-types/), you will need to add one in now. 
+* Open up [Templates](../admin-area/templates/) and click edit on the status board you wish to edit
+* If you do not already have a **Status** [field](../admin-area/templates/form-builder-and-field-types/), you will need to add one in now. 
 * In this example the options for statuses are '**No Damage**', '**Minor Damage**', '**Severe Damage**' and '**Destroyed**'
 
 ![](../../.gitbook/assets/set-colors-with-item-status-expressions-2.png)

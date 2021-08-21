@@ -6,7 +6,7 @@
 
 You can pin any field from the [Situation ](../situation/)to the [Dashboard](./). To do this:
 
-* Go to the [Admin Area ](../admin-area.md)and Templates
+* Go to the [Admin Area ](../admin-area/)and Templates
 * Open the Situation template
 * Hover your mouse over the field you wish to pin and further options will appear on the right hand side of the field
 * Click on the pin ![Image Placeholder](https://support.d4h.org/desk/file/10179987/image.png) symbol

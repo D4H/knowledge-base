@@ -4,7 +4,7 @@
 
 The Situation provides the latest updates on an event / incident.  
   
-You can configure your Situation form in the [Admin Area ](../admin-area.md)under Templates. You can also change the name of your Situation form by typing in the name field at the top of the template. Incident Summary, SITREP, and Incident Report are all common alternate names.   
+You can configure your Situation form in the [Admin Area ](../admin-area/)under Templates. You can also change the name of your Situation form by typing in the name field at the top of the template. Incident Summary, SITREP, and Incident Report are all common alternate names.   
   
 The first 5 fields in the Situation Report \(SITREP\) are built in.
 
@@ -20,13 +20,13 @@ The first 5 fields in the Situation Report \(SITREP\) are built in.
 
 There will only be one Situation Report template in your Incident Management account and this will be the form visible in all channels. The Template outlines the layout of the form behind it.
 
-{% page-ref page="../templates/form-builder-and-field-types/" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/" %}
 
 {% page-ref page="../dashboard/pinning-a-field-to-the-dashboard.md" %}
 
 {% page-ref page="linking-fields-to-the-situation.md" %}
 
-{% page-ref page="../templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
 
 
 

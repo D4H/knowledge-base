@@ -28,17 +28,17 @@ Data in a Status Board can be sorted and grouped, while rules can be designed to
   
 Opening the [Map](../map/) on the side-bar will display information about the Status Board while opening the [Updates ](../updates/)on the side-bar will allow you to see any posts relevant to what you're viewing.  
   
-Each Status Board is designed by creating a [Template](../templates/). [Collections](../collections/) can be used to pre-load items into it during an event.
+Each Status Board is designed by creating a [Template](../admin-area/templates/). [Collections](../admin-area/collections/) can be used to pre-load items into it during an event.
 
 ## Templates
 
-Each Status Board has a [Template](../templates/) which outlines the layout of the form behind it and which columns should display on the list view.
+Each Status Board has a [Template](../admin-area/templates/) which outlines the layout of the form behind it and which columns should display on the list view.
 
 {% page-ref page="creating-a-new-status-board/" %}
 
-{% page-ref page="../templates/form-builder-and-field-types/" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/" %}
 
-{% page-ref page="../templates/list-layout-columns.md" %}
+{% page-ref page="../admin-area/templates/list-layout-columns.md" %}
 
 {% page-ref page="set-colors-with-item-status-expressions.md" %}
 
@@ -46,15 +46,15 @@ Each Status Board has a [Template](../templates/) which outlines the layout of t
 
 {% page-ref page="module-header-stats.md" %}
 
-{% page-ref page="../templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
 
 ## Collections
 
-[Collections](../collections/) are used to pre-load data into a Status Board. For example you might have a Status Board of 'Shelters' and you could enter all the county storm shelters in to the collections in advance. They are then available pre-loaded to import during an Incident
+[Collections](../admin-area/collections/) are used to pre-load data into a Status Board. For example you might have a Status Board of 'Shelters' and you could enter all the county storm shelters in to the collections in advance. They are then available pre-loaded to import during an Incident
 
-{% page-ref page="../collections/creating-collections.md" %}
+{% page-ref page="../admin-area/collections/creating-collections.md" %}
 
-{% page-ref page="../collections/importing-collections-into-a-channel.md" %}
+{% page-ref page="../admin-area/collections/importing-collections-into-a-channel.md" %}
 
 {% page-ref page="../plays/including-collections-in-a-play.md" %}
 

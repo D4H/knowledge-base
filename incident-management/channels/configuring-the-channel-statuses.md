@@ -6,7 +6,7 @@
 
 You can configure the Status field on your [Situation Report](../situation/) to list the statuses that you currently use when logging an incident / event.
 
-* Go to the[ Admin Area](../admin-area.md)
+* Go to the[ Admin Area](../admin-area/)
 * Open Settings &gt; **Channel statuses**
 * Click **New channel status**
 

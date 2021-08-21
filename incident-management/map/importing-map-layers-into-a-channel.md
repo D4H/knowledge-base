@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Once you have [loaded map layers](loading-map-layers-in-collections.md) into [Collections](../collections/) in the [Admin Area](../admin-area.md), they become available to use within a channel. To import map layers into a channel
+Once you have [loaded map layers](loading-map-layers-in-collections.md) into [Collections](../admin-area/collections/) in the [Admin Area](../admin-area/), they become available to use within a channel. To import map layers into a channel
 
 * Go to your open channel 
 * Go to the [Map](./)

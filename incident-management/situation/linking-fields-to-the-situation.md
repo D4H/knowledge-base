@@ -4,7 +4,7 @@
 
 Linked Fields allow data to be auto-filled from specific fields in the [Situation](./) form. You can link a field from any template to auto fill from a field on the Situation.
 
-* Go to the [Admin Area ](../admin-area.md)and [Templates](../templates/)
+* Go to the [Admin Area ](../admin-area/)and [Templates](../admin-area/templates/)
 * Open the template where you wish to link a field to the Situation
 * Hover your mouse over the field you wish to link and then click the \[⋮\] that will appear on the right hand side of the field
 * Click on the ![](https://support.d4h.org/desk/file/10190220/image.png) chain link icon

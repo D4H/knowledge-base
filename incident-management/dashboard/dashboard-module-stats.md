@@ -6,7 +6,7 @@ Dashboard module stats allow you to display the summed value of number fields fr
 
 ![](../../.gitbook/assets/dashboard-module-stats.png)
 
-To do this go to the [Admin Area](../admin-area.md) and follow the steps below:
+To do this go to the [Admin Area](../admin-area/) and follow the steps below:
 
 * Open up Templates and click edit on the status board you wish to edit
 * As this only works with number fields you must have a number field on your status board template

@@ -8,23 +8,23 @@ You can customize the roles displayed in the channel based on the organizational
 
 ## Templates
 
-Your roles have a [Template](../templates/) which outlines the layout of the form behind each role, and which columns should display on the list view. There is only one Role template for all of your channels across your Incident Management account. 
+Your roles have a [Template](../admin-area/templates/) which outlines the layout of the form behind each role, and which columns should display on the list view. There is only one Role template for all of your channels across your Incident Management account. 
 
 * [Configuring the Roles template](https://support.d4h.org/roles/configuring-the-roles-template) 
 
-{% page-ref page="../templates/form-builder-and-field-types/" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/" %}
 
-{% page-ref page="../templates/list-layout-columns.md" %}
+{% page-ref page="../admin-area/templates/list-layout-columns.md" %}
 
-{% page-ref page="../templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
+{% page-ref page="../admin-area/templates/form-builder-and-field-types/show-or-hide-a-form-section-based-on-the-value-of-a-field-option.md" %}
 
 ## Collections
 
 Collections are used to pre-load data into the Roles module. For example you might have a team called Operations Team and you could enter all the roles into the collections in advance. They are then available pre-loaded to import during an Incident. You can also have the roles pre-assigned in collections before importing them, if the same person will be in the same role for every incident. 
 
-{% page-ref page="../collections/creating-collections.md" %}
+{% page-ref page="../admin-area/collections/creating-collections.md" %}
 
-{% page-ref page="../collections/importing-collections-into-a-channel.md" %}
+{% page-ref page="../admin-area/collections/importing-collections-into-a-channel.md" %}
 
 {% page-ref page="../plays/including-collections-in-a-play.md" %}
 

@@ -6,7 +6,7 @@ Within[ Incident Management](../getting-started.md), Plays are the automations t
 
 ![](../../.gitbook/assets/plays.png)
 
-You can configure your play to automatically add modules such as [Task Boards](../task-boards.md) and [Status Boards](../status-boards/) to your channel when you start it. You can also build out data in [collections ](../collections/)and choose what you want available in a play by selecting those items. 
+You can configure your play to automatically add modules such as [Task Boards](../task-boards/) and [Status Boards](../status-boards/) to your channel when you start it. You can also build out data in [collections ](../admin-area/collections/)and choose what you want available in a play by selecting those items. 
 
 ![](../../.gitbook/assets/plays-2.png)
 
@@ -41,7 +41,7 @@ Here are some ideas from other customers to get you started.
 
 ## Admin Area
 
-Each play will be configured in the [Admin Area](../admin-area.md) to specify which modules should be turned on and what data from the collections should be available. 
+Each play will be configured in the [Admin Area](../admin-area/) to specify which modules should be turned on and what data from the collections should be available. 
 
 {% page-ref page="./" %}
 
@@ -49,9 +49,9 @@ Each play will be configured in the [Admin Area](../admin-area.md) to specify wh
 
 ## Collections
 
-[Collections](../collections/) are used to pre-load data into a Play. For example you might have a Play called 'Tropical Storm' and you could enter all the county storm shelters into the collections in advance. You can then add these collections and a [status board](../status-boards/) of 'Shelters' to your 'Tropical Storm' play and they will appear in the channel every time you start a 'Tropical Storm' play.
+[Collections](../admin-area/collections/) are used to pre-load data into a Play. For example you might have a Play called 'Tropical Storm' and you could enter all the county storm shelters into the collections in advance. You can then add these collections and a [status board](../status-boards/) of 'Shelters' to your 'Tropical Storm' play and they will appear in the channel every time you start a 'Tropical Storm' play.
 
-{% page-ref page="../collections/creating-collections.md" %}
+{% page-ref page="../admin-area/collections/creating-collections.md" %}
 
 {% page-ref page="including-collections-in-a-play.md" %}
 

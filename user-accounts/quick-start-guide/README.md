@@ -37,14 +37,14 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 
 * View the [Situation](../../incident-management/situation/) Report.
 * Post an [update](../../incident-management/updates/) in the log. 
-* Mark a [task](../../incident-management/task-boards.md) as complete.
+* Mark a [task](../../incident-management/task-boards/) as complete.
 * Fill out a [form](../../incident-management/forms/).
 
 ### Incident Reporting
 
 * Create a new [incident](../../incident-reporting/incident-reports.md).
 * Run [reports ](../../shared-services/reports/)on your past incidents.
-* Add [persons involved](../../incident-reporting/persons-involved.md) to an incident.
+* Add [persons involved](../../incident-reporting/persons-involved/) to an incident.
 
 
 

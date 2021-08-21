@@ -4,7 +4,7 @@ You can display your tasks on the map which makes it easy to see the location sp
 
 #### WEB APP
 
-To display tasks on the [Map](./), you must have a [location field](../templates/form-builder-and-field-types/) on your [Tasks](../task-boards.md) form 
+To display tasks on the [Map](./), you must have a [location field](../admin-area/templates/form-builder-and-field-types/) on your [Tasks](../task-boards/) form 
 
 * Click into the location field on your task
 * Search for an address by clicking on the magnifying glass or drag and drop the pin to the location

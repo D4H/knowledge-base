@@ -2,7 +2,7 @@
 
 You can display your status boards on the map which makes it easy to see the location spread of an event / incident in relation to the information within your different status boards.  
   
-To display them on the [Map](./), you must have a [location field ](../templates/form-builder-and-field-types/)on your [Status Board](../status-boards/) form 
+To display them on the [Map](./), you must have a [location field ](../admin-area/templates/form-builder-and-field-types/)on your [Status Board](../status-boards/) form 
 
 * Click into the location field within a row
 * Search for an address by clicking on the magnifying glass or by dragging and dropping the pin to the location

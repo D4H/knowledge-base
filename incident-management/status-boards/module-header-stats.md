@@ -6,9 +6,9 @@ Module header stats allow you to display the summed value of number fields as a 
 
 ![](../../.gitbook/assets/module-header-stats.png)
 
-To do this go to the [Admin Area](../admin-area.md) and follow the steps below:
+To do this go to the [Admin Area](../admin-area/) and follow the steps below:
 
-* Open up [Templates ](../templates/)and click edit on the status board you wish to edit
+* Open up [Templates ](../admin-area/templates/)and click edit on the status board you wish to edit
 * As this only works with number fields you must have a number field on your status board template
 
 ![](../../.gitbook/assets/module-header-stats-2.png)

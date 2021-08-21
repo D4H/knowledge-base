@@ -2,9 +2,9 @@
 
 #### WEB APP
 
-[Collections](../collections/) allow you to create and store pre-loaded content for use during an event or incident. This includes map layers. Before you can use customized may layers in a [Channel](../channels/), first you need to add them in the Admin Area. 
+[Collections](../admin-area/collections/) allow you to create and store pre-loaded content for use during an event or incident. This includes map layers. Before you can use customized may layers in a [Channel](../channels/), first you need to add them in the Admin Area. 
 
-Within your [Incident Management ](../getting-started.md)account go to the [Admin Area](../admin-area.md) and follow the steps below.
+Within your [Incident Management ](../getting-started.md)account go to the [Admin Area](../admin-area/) and follow the steps below.
 
 * Go to **Collections**
 * Click on [Map](./) layers

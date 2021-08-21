@@ -2,11 +2,11 @@
 
 #### WEB APP
 
-To create a new [Status Board](../) template, navigate to the [Admin Area](../../admin-area.md) in your D4H [Incident Management](../../getting-started.md) account.
+To create a new [Status Board](../) template, navigate to the [Admin Area](../../admin-area/) in your D4H [Incident Management](../../getting-started.md) account.
 
 * Open **Templates** &gt; **Status Boards**
 * Click on **New Status Board**
-* Fill in the details and create your template using the [Form Builder](../../templates/form-builder-and-field-types/)
+* Fill in the details and create your template using the [Form Builder](../../admin-area/templates/form-builder-and-field-types/)
 * Click **Save** at the bottom of the screen
 
 {% embed url="https://youtu.be/DxIiwJ1F8uQ" %}
@@ -39,7 +39,7 @@ Setting a default color for your board will change the default background color 
 
 ## Name Field Label \(Optional\)
 
-The name field is by default set to 'Name' but you could change it to anything you'd like such as 'Ref' or 'Incident Number' as examples. This is the title of each row and always displays first column in the [List Layout Columns](../../templates/list-layout-columns.md). It's also how we reference the row in[ Relationship Fields ](../../templates/form-builder-and-field-types/)and when you [Tag an Item in the Log](../../updates/tagging-items-in-the-log.md).
+The name field is by default set to 'Name' but you could change it to anything you'd like such as 'Ref' or 'Incident Number' as examples. This is the title of each row and always displays first column in the [List Layout Columns](../../admin-area/templates/list-layout-columns.md). It's also how we reference the row in[ Relationship Fields ](../../admin-area/templates/form-builder-and-field-types/)and when you [Tag an Item in the Log](../../updates/tagging-items-in-the-log.md).
 
 ## Name Field Template \(Optional\)
 

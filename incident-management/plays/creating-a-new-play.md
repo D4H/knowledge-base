@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-To create a new [Play](./), navigate to the [Admin Area](../admin-area.md) in your D4H [Incident Management ](../getting-started.md)account.
+To create a new [Play](./), navigate to the [Admin Area](../admin-area/) in your D4H [Incident Management ](../getting-started.md)account.
 
 * Open **Plays**
 * Click **New Play**
@@ -48,13 +48,13 @@ Here you can specify what modules should be turned on when you start this play. 
 
 Here is a list of the modules you can turn on or off within a play and the data you can have available:
 
-* \*\*\*\*[**Personnel**](../personnel.md) **&** [**Roles**](../../personnel-and-training/roles/): you can select which teams are switched on 
+* \*\*\*\*[**Personnel**](../personnel/) **&** [**Roles**](../../personnel-and-training/roles/): you can select which teams are switched on 
 * \*\*\*\*[**Map**](../map/) **annotations**: you can select what map layers you want turned on 
 * \*\*\*\*[**Forms**](../forms/): you can choose what forms you want in your play 
 * \*\*\*\*[**Weather**](../weather.md)**:** can be turned on or off 
-* \*\*\*\*[**Library**](../library.md): you can add documents to the library from [collections](../collections/) 
+* \*\*\*\*[**Library**](../library/): you can add documents to the library from [collections](../admin-area/collections/) 
 * \*\*\*\*[**Status Board**](../status-boards/): you can select the data you want available from collections 
-* \*\*\*\*[**Task Board**](../task-boards.md): you can choose which task lists you want available
+* \*\*\*\*[**Task Board**](../task-boards/): you can choose which task lists you want available
 
   
 
