@@ -10,6 +10,10 @@ Make the administration of qualifications and training records easy. Customizabl
 
 {% page-ref page="bulk-uploading-qualifications.md" %}
 
+{% page-ref page="uploading-qualification-certificates.md" %}
+
+
+
 
 
 

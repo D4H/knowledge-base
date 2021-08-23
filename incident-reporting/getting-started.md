@@ -12,7 +12,7 @@
 
 {% page-ref page="location-bookmarks.md" %}
 
-{% page-ref page="incident-timestamps.md" %}
+{% page-ref page="incident-timestamps/" %}
 
 {% page-ref page="../shared-services/reports/" %}
 
@@ -24,7 +24,7 @@
 
 {% page-ref page="../shared-services/custom-fields/" %}
 
-{% page-ref page="automatic-weather-data.md" %}
+{% page-ref page="automatic-weather-data/" %}
 
 {% page-ref page="../shared-services/charts/" %}
 

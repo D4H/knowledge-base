@@ -12,5 +12,13 @@ It is now possible to assign a unique ref to your incidents
 
 {% page-ref page="shutting-down-a-channel.md" %}
 
+{% page-ref page="configuring-the-channel-statuses.md" %}
+
+{% page-ref page="assigning-a-unique-identifier-to-an-incident.md" %}
+
+
+
+
+
 
 
