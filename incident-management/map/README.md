@@ -23,7 +23,7 @@ When you start a new [channel](../channels/), the first thing you will start fil
 
 {% page-ref page="displaying-tasks-on-the-map.md" %}
 
-{% page-ref page="../situation/displaying-the-situation-on-the-map.md" %}
+{% page-ref page="displaying-the-situation-on-the-map.md" %}
 
 {% page-ref page="display-a-status-board-on-the-map.md" %}
 

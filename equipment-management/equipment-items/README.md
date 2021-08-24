@@ -24,5 +24,9 @@ These are your physical items of [equipment](https://support.d4h.org/d4h-equipme
 
 {% page-ref page="duplicating-an-item-of-equipment.md" %}
 
+{% page-ref page="setting-the-profile-photo-for-an-item-of-equipment.md" %}
+
+
+
 
 

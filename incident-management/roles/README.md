@@ -10,7 +10,7 @@ You can customize the roles displayed in the channel based on the organizational
 
 Your roles have a [Template](../admin-area/templates/) which outlines the layout of the form behind each role, and which columns should display on the list view. There is only one Role template for all of your channels across your Incident Management account. 
 
-* [Configuring the Roles template](https://support.d4h.org/roles/configuring-the-roles-template) 
+{% page-ref page="configuring-the-roles-template.md" %}
 
 {% page-ref page="../admin-area/templates/form-builder-and-field-types/" %}
 

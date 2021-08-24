@@ -38,7 +38,7 @@ When you start a new channel, the first thing you will start filling out is the 
 
 {% page-ref page="taking-a-snapshot.md" %}
 
-{% page-ref page="displaying-the-situation-on-the-map.md" %}
+{% page-ref page="../map/displaying-the-situation-on-the-map.md" %}
 
 {% page-ref page="tagging-the-situation-in-the-log.md" %}
 

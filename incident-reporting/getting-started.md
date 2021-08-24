@@ -34,5 +34,5 @@
 
 {% page-ref page="../shared-services/address-book/" %}
 
-{% page-ref page="../shared-services/api.md" %}
+{% page-ref page="../shared-services/api/" %}
 
