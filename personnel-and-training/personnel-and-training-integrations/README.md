@@ -4,8 +4,11 @@ It is possible to connect 3rd party products to the [Communications](../communic
 
 You can connect a communication provider which will allow you to target communications across multiple channels. 
 
-* Connect Rocket
-* Twilio
-* Net24
-* World Text
+{% page-ref page="connect-rocket.md" %}
+
+{% page-ref page="net24.md" %}
+
+{% page-ref page="twilio.md" %}
+
+{% page-ref page="../../incident-management/integrations/world-text.md" %}
 

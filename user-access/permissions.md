@@ -2,7 +2,7 @@
 
 ## Personnel & Training, Equipment Management, Incident Reporting
 
-Most D4H products have four main permission profiles: member, member+, editor, and owner. 
+Most D4H products have four main permission profiles: member, member+, editor, and owner. View more granular permissions on the [Access & Permissions](../shared-services/access-and-permissions.md) article. 
 
 **Member:**
 

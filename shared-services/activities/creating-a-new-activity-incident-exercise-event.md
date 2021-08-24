@@ -71,34 +71,18 @@ Record [hazardous materials](../../incident-reporting/hazardous-materials.md) da
 
 ## Lost Behavior \(incidents only\)
 
-Record [lost person behavior](https://support.d4h.org/incidents2/lost-person-behavior-by-isrid) here in order to export all lost person behavior statistics for submission to the international databases.
+Record [lost person behavior](../../incident-reporting/lost-person-behavior/) here in order to export all lost person behavior statistics for submission to the international databases.
 
-## Costing 
+## Costing
 
-Here you can edit the [costing](https://support.d4h.org/d4h-incident-reporting/cost-recovery-billing) for personnel and equipment if you do not want to apply the defaults that may already be set in your account.   
-  
+Here you can edit the [costing](../cost-recovery/) for personnel and equipment if you do not want to apply the defaults that may already be set in your account. 
 
+## Documents
 
-## Documents 
+Here you can upload relevant [documents](../documents/). 
 
-Here you can upload relevant [documents](https://support.d4h.org/documents3/documents5).   
-  
+## Finished
 
+By clicking on the finished tab, your activity will be saved as a draft activity report. Only someone with Editor or Owner [permission levels](../../user-access/permissions.md) will be able to approve the report.   
 
-## Finished 
-
-By clicking on the finished tab, your activity will be saved as a draft activity report. Only someone with Editor or Owner [permission levels](https://support.d4h.org/d4h-incident-reporting/access-permissions) will be able to approve the report.   
-  
-
-
-### Viewing the Audit History of an Activity 
-
-  
-**Access Level Required: Owner, Editor.**  
-  
-
-
-* Scroll to the bottom of the activity 
-* Here you will see a link \[+Show History & Audit\], click this 
-* This will give you date and timestamped details about who made changes on that specific activity 
 

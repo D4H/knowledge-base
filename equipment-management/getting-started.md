@@ -10,7 +10,7 @@
 
 {% page-ref page="equipment-items/" %}
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="untitled/" %}
 
 {% page-ref page="equipment-locations/" %}
 

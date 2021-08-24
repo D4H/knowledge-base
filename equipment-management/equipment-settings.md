@@ -24,7 +24,7 @@ Here you can turn on or off certain modules within Equipment Management:
 
 ## Categories & Kinds, Manufacturers, and Suppliers 
 
-You can configure and edit your [categories & kinds](untitled.md), [manufacturers](manufacturers-and-models/), and suppliers. 
+You can configure and edit your [categories & kinds](untitled/), [manufacturers](manufacturers-and-models/), and suppliers. 
 
 ![](../.gitbook/assets/categories-and-kinds-settings.png)
 

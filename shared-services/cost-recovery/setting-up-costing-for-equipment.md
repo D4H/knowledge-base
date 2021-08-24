@@ -11,7 +11,7 @@ To set up costing based on Equipment Kinds:
 
 * Go to ![](https://support.d4h.org/desk/file/10302050/image.png) Settings
 * Under **Equipment** select Categories & Kinds
-* Click the [kind](../../equipment-management/untitled.md) you want to apply costing values to
+* Click the [kind](../../equipment-management/untitled/) you want to apply costing values to
 * Select **Edit** and enter the appropriate costing
 * Costs can be set Per Hour, Per Use and Per Distance 
 

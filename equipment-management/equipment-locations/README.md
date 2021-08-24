@@ -11,5 +11,11 @@ Permissioned members can filter equipment by location and create printable lists
 
 {% page-ref page="updating-an-equipment-location.md" %}
 
+{% page-ref page="issuing-equipment-to-a-team-member.md" %}
+
+{% page-ref page="nesting-items-of-equipment-within-other-items.md" %}
+
+{% page-ref page="bulk-moving-items-of-equipment.md" %}
+
 
 

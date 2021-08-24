@@ -10,5 +10,9 @@ The purpose of the calendar is to display information about upcoming Events and 
 
 {% page-ref page="selecting-a-year-that-isnt-on-the-calendar-picker.md" %}
 
+{% page-ref page="exporting-my-d4h-calendar-to-my-personal-calendar.md" %}
+
+
+
 
 
