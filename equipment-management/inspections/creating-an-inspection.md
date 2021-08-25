@@ -32,14 +32,6 @@ The first time you look at the inspection you'll see that all the items are due 
   
 **Item Kinds:** Select the equipment kind or kinds that you wish to include in your inspection.  
   
-**Located In:** Select the location or locations you wish to include in your inspection. 
-
-
-
-{% embed url="https://youtu.be/ZaGB3I-UWUk" %}
-
-
-
-  
+**Located In:** Select the location or locations you wish to include in your inspection.   
 
 

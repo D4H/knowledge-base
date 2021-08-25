@@ -1,8 +1,8 @@
 # Groups
 
-Groups are used to organize members of your team for communications and other management functions.   
+Groups are used to organize [members](../untitled/) of your team for [communications](../communications/) and other management functions.   
   
-You can target communication messages, set attendance, and document qualification expectation by grouping.
+You can target communication messages, set attendance, and document [qualification expectation](../qualifications/setting-a-qualification-expectation-for-a-group.md) by grouping.
 
 {% hint style="info" %}
 Potential groupings could be dependent on rank, skills or specialty.

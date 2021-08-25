@@ -30,7 +30,7 @@ M**ember+:**
 
 ## Incident Management
 
-Incident Management allows specific granular permissions. A basic overview of the permission levels is provided below, but more details can be found in the Incident Management permissions article. To create a new profile see our guide on creating permission profiles.
+Incident Management allows specific granular permissions. A basic overview of the permission levels is provided below, but more details can be found in the Incident Management permissions article. To create a new profile see our guide on [creating permission profiles](../incident-management/admin-area/incident-management-settings/permission-profiles.md).
 
 **Account Owner:** 
 

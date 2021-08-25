@@ -2,7 +2,7 @@
 
 ### Exercises
 
-Build a schedule of pre-planned training exercises and request [personnel](../../incident-management/personnel/) to attend and collect their responses in real-time. Training exercises are directly comparable with D4H [Incident Reporting](../../incident-reporting/getting-started.md) entries so you can compare training versus your responses by [resources](../../shared-services/resources/), [tags](../../shared-services/tags/), attendance, and more.
+Build a schedule of pre-planned training exercises and request [personnel](../untitled/) to attend and collect their responses in real-time. Training exercises are directly comparable with D4H [Incident Reporting](../../incident-reporting/getting-started.md) entries so you can compare training versus your responses by [resources](../../shared-services/resources/), [tags](../../shared-services/tags/), attendance, and more.
 
 ### Events
 

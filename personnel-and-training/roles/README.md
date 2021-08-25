@@ -1,6 +1,6 @@
 # Roles
 
-Roles are used to help track positions held by [members](../untitled/) of your team during activities. Track those roles and responsibilities and produce year-end reports on frequency and currency for each member of [personnel](../../incident-management/personnel/) in each role.
+Roles are used to help track positions held by [members](../untitled/) of your team during activities. Track those roles and responsibilities and produce year-end reports on frequency and currency for each member of personnel in each role.
 
 {% page-ref page="creating-a-role.md" %}
 

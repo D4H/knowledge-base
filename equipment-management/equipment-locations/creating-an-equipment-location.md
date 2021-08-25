@@ -25,6 +25,10 @@ To create a location to store your equipment:
 * Click **Select On Map** if you want to pin the equipment location to the map
 * Click **Save Changes**
 
-**YOUTUBE VIDEO HERE**  
+{% embed url="https://youtu.be/EAN7wjMfIF0" %}
+
+\*\*\*\*
+
+  
 
 

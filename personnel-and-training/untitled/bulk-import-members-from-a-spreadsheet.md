@@ -13,10 +13,10 @@ We recommend you use our Bulk-Upload Template. Make sure all your rows match our
 * Upload your CSV file
 * You can review the data before importing
 * Once you are happy click **Import All Members**
-* Now that your members have been added you will need to [grant them access](https://support.d4h.org/d4h-incident-reporting/granting-access-to-members)
+* Now that your members have been added you will need to [grant them access](granting-access-to-members.md)
 
 {% hint style="info" %}
-If you plan on importing data into [custom fields](https://support.d4h.org/custom-fields3/custom-fields2), the custom fields must be created before doing the import. You also need to make sure that the name of the spreadsheet column you are importing data from is an exact match to the name of the custom field. 
+If you plan on importing data into [custom fields](../../shared-services/custom-fields/), the custom fields must be created before doing the import. You also need to make sure that the name of the spreadsheet column you are importing data from is an exact match to the name of the custom field. 
 {% endhint %}
 
 ![](../../.gitbook/assets/bulk-importing-members.gif)

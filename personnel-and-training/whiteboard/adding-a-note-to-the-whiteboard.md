@@ -2,7 +2,7 @@
 
 ### WEB APP
 
-To add a note to the whiteboard:
+To add a note to the [whiteboard](./):
 
 * Click **+Add Note** on the dashboard or go to Logistics -&gt; Whiteboard
 * You can select the messages priority, if **important** is selected the message will appear in red text on the whiteboard
@@ -10,7 +10,7 @@ To add a note to the whiteboard:
 
 ### **MOBILE APP** 
 
-* Click on More Options![Image Placeholder](https://support.d4h.org/desk/file/10349452/image.png)to access the whiteboard 
+* Click on More Options![Image Placeholder](../../.gitbook/assets/three-lines.png)to access the whiteboard 
 
 ![](../../.gitbook/assets/adding-a-note-to-the-whiteboard.png)
 

@@ -1,6 +1,6 @@
 # Equipment Items
 
-These are your physical items of [equipment](https://support.d4h.org/d4h-equipment-management/equipment-management). See below examples of [Categories and Kinds](https://support.d4h.org/equipment-management-categories-and-kinds/categories-and-kinds2) and the items of equipment in each. 
+These are your physical items of equipment. See below examples of [Categories and Kinds](../untitled/) and the items of equipment in each. 
 
 |  Category  |  Kind  |  Item  |
 | :--- | :--- | :--- |

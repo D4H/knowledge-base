@@ -24,14 +24,14 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 
 * View your team [calendar](../../personnel-and-training/calendar/).
 * Change your availability in the [on-call planner](../../personnel-and-training/on-call-planner/).
-* Update your profile on Personnel & Training.
-* Add your calendar to your mobile phone.
+* [Update your profile](../../personnel-and-training/untitled/updating-my-personal-profile.md) on Personnel & Training.
+* Add your [calendar to your mobile phone](../../personnel-and-training/calendar/exporting-my-d4h-calendar-to-my-personal-calendar.md).
 
 ### Equipment Management
 
 * Document [repairs](../../equipment-management/repairs/) to equipment.
 * Use the [app](../../equipment-management/equipment-management-app.md) to track regular [inspections](../../equipment-management/inspections/).
-* View the locations of your equipment
+* View the [locations](../../equipment-management/equipment-locations/) of your equipment
 
 ### Incident Management
 

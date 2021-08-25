@@ -15,6 +15,6 @@ Or
 
 To delete an availability status:
 
-* Select \[Delete\] next to the status you wish to delete
-* Click \[Delete Status\]
+* Select **Delete** next to the status you wish to delete
+* Click **Delete Status**
 

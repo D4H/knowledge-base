@@ -2,7 +2,7 @@
 
 **Access Level Required: Owner**
 
-To turn off the whiteboard:
+To turn off the [whiteboard](./):
 
 * Go to Settings and under **Modules** select Whiteboard
 * Select ON or OFF

@@ -2,7 +2,7 @@
 
 **Access Level Required: Owner, Editor.**  
   
-Once you have [added members](https://support.d4h.org/d4h-incident-reporting/members) to the account you will want to grant some of them access and assign them a [permission level](https://support.d4h.org/d4h-equipment-management/access-permissions).  
+Once you have [added members](../../user-access/inviting-new-users.md) to the account you will want to grant some of them access and assign them a [permission level](../../shared-services/access-and-permissions/).  
   
 To grant members access to your account:
 
@@ -11,7 +11,7 @@ To grant members access to your account:
 * Each member must have a valid email address for the system to send the email invite to
 * Select the permission level you wish to grant the member
 * Click **Send invite**
-* This member will now receive [an email invite](https://support.d4h.org/d4h-incident-reporting/signing-in) asking them to create their D4H account 
+* This member will now receive an email invite asking them to create their D4H account 
 
 To change a members permission level:
 
