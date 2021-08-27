@@ -16,7 +16,7 @@ The "Situation" is the first page you will be directed to after opening a new [c
 
 You can add data fields specific to the personnel in the channel such as Time In/Out, Roles, and Assigned Tasks.
 
-## [Roles](../../../personnel-and-training/roles/)
+## [Roles](../../roles/)
 
 You can customize the roles displayed in the channel based on the organizational structure of your organization such as Incident Commander, Captain, Team Leader or Officer In Charge.
 

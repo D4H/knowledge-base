@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Item status expressions allow you to specify what color a row within a [status board](https://support.d4h.org/d4h-incident-management/status-boards) should be based on what status is selected from a drop down field.
+Item status expressions allow you to specify what color a row within a [status board ](./)should be based on what status is selected from a drop down field.
 
 ![](../../.gitbook/assets/set-color-with-item-status-expressions.png)
 

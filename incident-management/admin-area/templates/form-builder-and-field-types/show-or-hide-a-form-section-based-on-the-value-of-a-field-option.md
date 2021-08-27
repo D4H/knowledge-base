@@ -1,6 +1,6 @@
 # Show or hide a form section based on the value of a field option
 
-It is possible to display a section on a form based on what you chose in an [option selection](./) or [checkbox field](./) by using conditional settings. This can be done on your [Situation](../../../situation/), [Personnel](../../../personnel/), [Roles](../../../../personnel-and-training/roles/), [Status Board](../../../status-boards/), [Task Board](../../../task-boards/) and Form templates.   
+It is possible to display a section on a form based on what you chose in an [option selection](./) or [checkbox field](./) by using conditional settings. This can be done on your [Situation](../../../situation/), [Personnel](../../../personnel/), [Roles](../../../roles/), [Status Board](../../../status-boards/), [Task Board](../../../task-boards/) and Form templates.   
 
 
 ## Conditional settings on an Option Selection field

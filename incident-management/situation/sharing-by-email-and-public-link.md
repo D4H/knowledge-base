@@ -22,7 +22,7 @@ All personnel who have been added to the Channel will appear as potential recipi
 
 ## Share by Public Link
 
-Our public links allow you to make the content of [Task Boards](https://support.d4h.org/incident-management-tasks/task-boards) and [Forms](https://support.d4h.org/incident-management-forms/forms) \(including the forms behind [Status Boards](https://support.d4h.org/incident-management-status-boards/status-boards)\) accessible to those without credentials to your account. The link generated is 'secret' in such that it is too complex to guess and cannot be found by browsing or searching the internet.
+Our public links allow you to make the content of [Task Boards](../task-boards/) and [Forms](../forms/) \(including the forms behind [Status Boards](../status-boards/)\) accessible to those without credentials to your account. The link generated is 'secret' in such that it is too complex to guess and cannot be found by browsing or searching the internet.
 
 * Click on **More Options \[⋮\]**
 * Select **Share by public link...**

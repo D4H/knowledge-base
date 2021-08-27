@@ -31,7 +31,7 @@ Each task board has a [Template](../admin-area/templates/) which outlines the la
 
 ## Task Board Collections
 
-[Collections](https://support.d4h.org/incident-management-admin-area/collections) are used to pre-load data into a task board. For example you might have a task board of 'Checklists' and you could enter all the initial response tasks into the collections in advance. They are then available pre-loaded to be available to import during an actual incident.
+[Collections](../admin-area/collections/) are used to pre-load data into a task board. For example you might have a task board of 'Checklists' and you could enter all the initial response tasks into the collections in advance. They are then available pre-loaded to be available to import during an actual incident.
 
 {% page-ref page="../admin-area/collections/creating-collections.md" %}
 

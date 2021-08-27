@@ -1,6 +1,6 @@
 # Track Equipment Usage
 
-When adding or editing an activity, you will be able to track the equipment used on the activity. You can do this from the [Equipment](https://support.d4h.org/d4h-equipment-management/equipment-management) tab highlighted below in green:
+When adding or editing an activity, you will be able to track the equipment used on the activity. You can do this from the [Equipment](../../equipment-management/equipment-items/) tab highlighted below in green:
 
 ![](../../.gitbook/assets/track-equipment-usage.png)
 

@@ -4,7 +4,7 @@ To create a new folder:
 
 * Go to **Intelligence** -&gt; **Documents**
 * Click **Add Folder**
-* You can set the folder as 'Shared With Team' or '[Private](https://support.d4h.org/documents3/how-do-i-upload-private-documents)'
+* You can set the folder as 'Shared With Team' or 'Private'
 * Click Create Folder
 
 {% hint style="info" %}

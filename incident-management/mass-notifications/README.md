@@ -2,7 +2,7 @@
 
 ### Mass Notifications
 
-You can [connect a mass notifications provider](adding-mass-notification-providers.md) which will allow you to broadcast messages from your [Channel](https://support.d4h.org/d4h-incident-management/channels) to the address book groups in the provider. 
+You can [connect a mass notifications provider](adding-mass-notification-providers.md) which will allow you to broadcast messages from your [Channel ](../channels/)to the address book groups in the provider. 
 
 {% page-ref page="../integrations/world-text.md" %}
 

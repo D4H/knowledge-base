@@ -12,7 +12,7 @@ The [Situation ](situation/)provides the latest updates on an event / incident. 
 
 ## Roles
 
-Assign [personnel ](personnel/)to existing [roles](../personnel-and-training/roles/) in the app by clicking on a role then filling out the Assigned Personnel field. Clicking into a role will also allow you to fill out custom fields that have been added in advance to capture additional information about roles. See below for instructions on how to create a new role within the app. 
+Assign [personnel ](personnel/)to existing [roles](roles/) in the app by clicking on a role then filling out the Assigned Personnel field. Clicking into a role will also allow you to fill out custom fields that have been added in advance to capture additional information about roles. See below for instructions on how to create a new role within the app. 
 
 ## Forms
 

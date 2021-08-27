@@ -43,7 +43,7 @@ Each form has a [Template](../admin-area/templates/) which outlines its layout.
 
 ## Using Forms
 
-When you come to use a Form during an event you should first add it to your channel, or start your channel with a [Play](https://support.d4h.org/incident-management-admin-area/plays) that includes it.
+When you come to use a Form during an event you should first add it to your channel, or start your channel with a [Play](../plays/) that includes it.
 
 {% page-ref page="../situation/taking-a-snapshot.md" %}
 

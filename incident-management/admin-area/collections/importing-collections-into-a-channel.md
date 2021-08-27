@@ -11,7 +11,7 @@ When you go to your open channel and go to a module you have pre-loaded with dat
 Your collection data will now be available to import into your channel.  
 
 
-Here is an example within the [Roles](../../../personnel-and-training/roles/) module.
+Here is an example within the [Roles](../../roles/) module.
 
 Teams and their respective roles are pre-loaded into the Admin Area:
 

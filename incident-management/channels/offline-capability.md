@@ -29,5 +29,5 @@ You must be online to start a channel and access it for the first time.
 No, it is a cloud hosted service.  
   
 **What if two people update the same data field while offline?**  
-We will always display the most recent data change \(not most recently sync'd\) however you can view all changes to a data field from the [Log](https://support.d4h.org/incident-management-updates/viewing-the-audit-trail).
+We will always display the most recent data change \(not most recently sync'd\) however you can view all changes to a data field from the [Log](../situation/viewing-the-audit-trail.md).
 

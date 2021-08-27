@@ -71,7 +71,7 @@ The form builder is used to create all form [templates](../) for all modules in 
 * **Relationship:** this adds a relationship field to your template. This field allows you to link data between different modules. 
 
 {% hint style="info" %}
-[Roles](../../../../personnel-and-training/roles/) are often linked to an Assignee field on the [Tasks](../../../task-boards/) form. By doing this, when someone who has been assigned a role goes to the Tasks module, they are able to filter the tasks list to My Items. This will display only tasks assigned to their role.
+[Roles](../../../roles/) are often linked to an Assignee field on the [Tasks](../../../task-boards/) form. By doing this, when someone who has been assigned a role goes to the Tasks module, they are able to filter the tasks list to My Items. This will display only tasks assigned to their role.
 {% endhint %}
 
 {% embed url="https://youtu.be/EwjydK7rIW4" %}
@@ -79,7 +79,7 @@ The form builder is used to create all form [templates](../) for all modules in 
 * **Table:** this adds a table field to your template. You can add columns to the table, each column can be a different field type. You can specify what column you want to sort the table by and what direction i.e. ascending or descending. 
 
 {% hint style="info" %}
-It is possible to populate a table field with the contents of a [status board](../../../status-boards/), [task board](../../../task-boards/), [personnel](../../../personnel/), or [roles](../../../../personnel-and-training/roles/). 
+It is possible to populate a table field with the contents of a [status board](../../../status-boards/), [task board](../../../task-boards/), [personnel](../../../personnel/), or [roles](../../../roles/). 
 {% endhint %}
 
 {% embed url="https://youtu.be/SKFMof54\_gQ" %}
@@ -104,7 +104,7 @@ If you have a photo of your signature, you can upload it as your default one. Si
 Signing a form will Lock it. This means that it is uneditable by you or other users. Whoever signed the form, approved it. Unlocking a form will erase all signatures on the form. Unlock a form from the context menu.
 {% endhint %}
 
-* **Org Chart:** This adds an organization chart field to your template. This pulls the Org chart from the [Roles](https://support.d4h.org/incident-management-teams-roles/roles2) module. You have to have the Org chart created here first or it won't appear when you add the field to your template. 
+* **Org Chart:** This adds an organization chart field to your template. This pulls the Org chart from the [Roles](../../../roles/) module. You have to have the Org chart created here first or it won't appear when you add the field to your template. 
 
 {% embed url="https://youtu.be/XJOMwIuDjL4" %}
 

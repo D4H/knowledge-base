@@ -319,7 +319,6 @@
   * [Viewing the Change Logs](shared-services/access-and-permissions/viewing-the-change-logs.md)
   * [Setting up a single sign-in for multiple accounts](shared-services/access-and-permissions/setting-up-a-single-sign-in-for-multiple-accounts.md)
   * [Sign-In Trouble](shared-services/access-and-permissions/sign-in-trouble.md)
-* [Dashboard](shared-services/dashboard.md)
 * [Email Notifications](shared-services/email-notifications/README.md)
   * [Equipment Alerts](shared-services/email-notifications/equipment-alerts.md)
 * [Activities](shared-services/activities/README.md)
