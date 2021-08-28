@@ -15,6 +15,7 @@
 * [User Permissions](user-access/permissions.md)
 * [Reseting Passwords](user-access/reseting-passwords.md)
 * [Unblocking Users](user-access/unblocking-users.md)
+* [Setting Up SSO](user-access/setting-up-sso.md)
 
 ## Personnel & Training
 
