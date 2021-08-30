@@ -10,7 +10,7 @@ At D4H, we don’t simply support responders, we all are responders. The team at
 
 ## Quick Start User Guide
 
-It is easy for new users to get started with D4H. If you have received an invite from your organization to join D4H, read our [Quick Start Guide](user-accounts/quick-start-guide/) to learn out to set up your account.
+It is easy for new users to get started with D4H. If you have received an invite from your organization to join D4H, read our [Quick Start Guide](user-accounts/quick-start-guide/) to learn how to set up your account.
 
 ## Administrators Guides
 

@@ -13,9 +13,8 @@
 
 * [Inviting New Users](user-access/inviting-new-users.md)
 * [User Permissions](user-access/permissions.md)
-* [Reseting Passwords](user-access/reseting-passwords.md)
+* [Resetting Passwords](user-access/reseting-passwords.md)
 * [Unblocking Users](user-access/unblocking-users.md)
-* [Setting Up SSO](user-access/setting-up-sso.md)
 
 ## Personnel & Training
 
@@ -248,6 +247,7 @@
     * [Export Settings](incident-management/admin-area/incident-management-settings/export-settings.md)
     * [Permission Profiles](incident-management/admin-area/incident-management-settings/permission-profiles.md)
     * [Preferences](incident-management/admin-area/incident-management-settings/preferences.md)
+  * [Setting Up SSO](incident-management/admin-area/setting-up-sso.md)
 * [Incident Management App](incident-management/incident-management-app.md)
 * [Sample Templates](incident-management/sample-templates/README.md)
   * [Importing Sample Templates](incident-management/sample-templates/importing-sample-templates.md)

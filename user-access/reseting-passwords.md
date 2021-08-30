@@ -4,5 +4,5 @@ description: >-
   to their members.
 ---
 
-# Reseting Passwords
+# Resetting Passwords
 

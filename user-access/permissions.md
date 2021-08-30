@@ -24,9 +24,7 @@ M**ember+:**
 **Owner:**
 
 * Can view, add, delete and edit all data
-* The Owner is the only person who can configure the main Account Settings 
-
-
+* The Owner is the only person who can configure the main Account Settings
 
 ## Incident Management
 
