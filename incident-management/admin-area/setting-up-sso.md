@@ -16,7 +16,7 @@ If you do not see SSO turned on in your account, please contact sales@d4h.org
 * Fill this in and click **Save** at the bottom of the page
 * Once the integration has been set up, you will need to manually turn on SSO for each user in their profile
 * To do this go to the **Admin Area** **&gt;** [**Collections**](collections/) **&gt;** [**Personnel**](../personnel/)
-* Open someones profile and change the **SSO** drop down to **Use SSO**
+* Open a user's profile and change the **SSO** drop down to **Use SSO**
 
 ![](../../.gitbook/assets/2021-08-30-at-16.49.png)
 
