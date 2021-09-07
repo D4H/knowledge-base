@@ -14,11 +14,19 @@ To assign a permission profile to a member, go to the [Admin Area](../admin-area
 
 ## Default permission profiles
 
-**Account Owner:** Full usage rights with administrative access to all settings including user accounts and template configuration.  
-  
-**Editor:** Can start / shut down channels, access any channel, configure plays and configure import collections.  
-  
-**Member+:** Can start / shut down channels and access any channel.  
-  
-**Member:** Can only access channels to which they are invited.
+**Account Owner:** 
+
+* Full usage rights with administrative access to all settings including user accounts and template configuration.
+
+**Editor:** 
+
+* Can start / shut down channels, access any channel, configure plays and configure import collections.
+
+**Member+:** 
+
+* Can start / shut down channels and access any channel.
+
+**Member:**
+
+*  Can only access channels to which they are invited.
 
