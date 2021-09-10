@@ -1,6 +1,6 @@
 # Assigning a Role
 
-To assign a role in your [Incident Management ](../getting-started.md)account, go to the ![](https://support.d4h.org/desk/file/10205726/image.png) Roles module
+To assign a role in your [Incident Management ](../getting-started.md)account, go to the ![](../../.gitbook/assets/roles%20%281%29.png) Roles module
 
 * Locate the role you wish to assign
 * Select the edit icon then select the person who will be assigned the role from the dropdown menu

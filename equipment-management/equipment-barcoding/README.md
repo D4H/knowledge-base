@@ -4,7 +4,7 @@ Barcodes help you manage your equipment cache. A barcode is a quick way for a co
   
 Barcode types available to use are Code128, QR or ITF. To change the type:
 
-* Go to ![](https://support.d4h.org/desk/file/10302050/image.png) Settings
+* Go to ![](../../.gitbook/assets/wrench.png) Settings
 * Select **Equipment Settings** under **Equipment**
 * Under Settings you can select the barcode type from the drop down \(We would recommend using QR codes if you would like to scan with a camera\). 
 

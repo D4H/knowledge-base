@@ -15,7 +15,7 @@ In [Updates](../updates/), you are able to filter the log posts to display only 
 
 You can also filter the log from the [Roles](./) module directly. To do this go to Roles
 
-* Click on the **log**![](https://support.d4h.org/desk/file/10149695/image.png) to open the Roles log
+* Click on the **log**![](../../.gitbook/assets/speech-box-icon.png) to open the Roles log
 * You will see all log posts against all roles 
 
 ![](../../.gitbook/assets/filtering-the-log-to-a-role-2.png)

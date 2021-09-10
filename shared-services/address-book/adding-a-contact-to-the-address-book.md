@@ -1,7 +1,6 @@
 # Adding a contact to the address book
 
-**Access Level Required: Owner, Editor.**  
-
+**Access Level Required: Owner, Editor.**
 
 To add a contact to the address book:
 

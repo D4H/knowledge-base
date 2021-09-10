@@ -6,7 +6,7 @@ You have the ability to bulk-add members by uploading a spreadsheet. Spreadsheet
   
 We recommend you use our Bulk-Upload Template. Make sure all your rows match our sample, including date format DD/MM/YYYY. To download the template and to then import the spreadsheet with member details:
 
-* From the ![](https://support.d4h.org/desk/file/10285715/image.png) **Access** menu click the **+ Add Members** button
+* From the ![](../../.gitbook/assets/access.png) **Access** menu click the **+ Add Members** button
 * Click **Upload Spreadsheet**
 * Download the Bulk-Upload Template
 * Once populated, go back to this screen

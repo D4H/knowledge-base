@@ -10,7 +10,7 @@ Within your [Incident Management ](../getting-started.md)account go to the [Admi
 * Click on [Map](./) layers
 * Click **+New Layer**
 * Give the map layer a name, this will be the name that appears in the import dropdown in a channel
-* Click on the gear cog ![](https://support.d4h.org/desk/file/10179628/2020-05-25%20at%2012.48.png) icon and select ![](https://support.d4h.org/desk/file/10206993/image.png) **Import layer**
+* Click on the gear cog ![](../../.gitbook/assets/gear-icon.png) icon and select ![](../../.gitbook/assets/import-icon.png) **Import layer**
 
 {% hint style="info" %}
 Supported formats for your map layers are: GeoJson \(.json + .geojson\), GPS Exchange format \(.gpx\), Keyhole Markup Language \(.kml, .kmz\), Shapefile archive \(.zip\)

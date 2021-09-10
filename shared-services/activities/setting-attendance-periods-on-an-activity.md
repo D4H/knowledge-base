@@ -17,7 +17,7 @@ Multiple attendance periods can be created for individual members or multiple me
 Additional attendance period for an individual member:
 
 * On the attendance tab select the check box next to the members name
-* Then select the ![](https://support.d4h.org/desk/file/10186063/image.png) **duplicate** icon
+* Then select the ![](../../.gitbook/assets/duplicate.png) **duplicate** icon
 * A second attendance period will be created for that member and you can update the From/To period as usual
 
 ![](../../.gitbook/assets/setting-attendance-periods.gif)

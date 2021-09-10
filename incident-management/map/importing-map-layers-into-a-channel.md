@@ -6,8 +6,8 @@ Once you have [loaded map layers](loading-map-layers-in-collections.md) into [Co
 
 * Go to your open channel 
 * Go to the [Map](./)
-* Click on the gear cog ![](https://support.d4h.org/desk/file/10179628/2020-05-25%20at%2012.48.png) icon
-* Select ![](https://support.d4h.org/desk/file/10206993/image.png) Import layer
+* Click on the gear cog ![](../../.gitbook/assets/gear-icon.png) icon
+* Select ![](../../.gitbook/assets/import-icon.png) Import layer
 
 ![](../../.gitbook/assets/importing-map-layers-into-a-channel.png)
 

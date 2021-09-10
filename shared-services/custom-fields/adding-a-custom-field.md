@@ -4,7 +4,7 @@
   
 To add a custom field:
 
-* Go to ![](https://support.d4h.org/desk/file/10302050/image.png) **Settings**
+* Go to ![](../../.gitbook/assets/wrench.png) **Settings**
 * Under **Custom Fields and Timestamps** click into the area you want to add a custom field to
 * Click **Add Field**
 * Fill in the details
@@ -32,7 +32,7 @@ To add a custom field:
 ![](../../.gitbook/assets/adding-a-custom-field.gif)
 
   
-The custom field added in the example above will now show on the member's profile and as it was marked private when saving the field you can see the field has the ![](https://support.d4h.org/desk/file/10302184/image.png) padlock icon next to it:  
+The custom field added in the example above will now show on the member's profile and as it was marked private when saving the field you can see the field has the ![](../../.gitbook/assets/padlock-icon.png) padlock icon next to it:  
 
 
 ![](../../.gitbook/assets/adding-a-custom-field-2.png)

@@ -6,7 +6,7 @@ You can configure the [Dashboard](./) in your [Incident Management ](../getting-
 
 To configure the dashboard:
 
-* Click on the gear cog ![Image Placeholder](https://support.d4h.org/desk/file/10179628/2020-05-25%20at%2012.48.png) icon 
+* Click on the gear cog ![Image Placeholder](../../.gitbook/assets/gear-icon.png) icon 
 * Tick which modules you want displayed on the dashboard and they will appear immediately
 * You can drag and drop each widget on the dashboard to where you want it
 

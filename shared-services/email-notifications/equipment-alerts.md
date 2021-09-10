@@ -12,7 +12,7 @@ The system sends an automatic email notification when:
 
 An Owner or Editor can set up email alerts for themselves or members of the team:
 
-* Click on ![](../../.gitbook/assets/access-logo.png) **Access**
+* Click on ![](../../.gitbook/assets/access.png) **Access**
 * Switch tabs to Manage Email 
 
 ![](../../.gitbook/assets/manage-email.png)

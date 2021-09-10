@@ -9,7 +9,7 @@ To set up a new user agreement for your account:
 
 ![](../../.gitbook/assets/setting-up-a-user-agreement.png)
 
-You can read more about protecting personal information on our blog here: [https://d4htechnologies.com/blog/20180514-a-guide-to-protecting-personal-information-for-response-teams](https://d4htechnologies.com/blog/20180514-a-guide-to-protecting-personal-information-for-response-teams)   
+  
   
 
 

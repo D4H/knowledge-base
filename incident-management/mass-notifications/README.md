@@ -15,8 +15,8 @@ You can [connect a mass notifications provider](adding-mass-notification-provide
   
 Follow the instructions below to send a new message through our Mass Notifications module.
 
-* In an open channel go to the ![Image Placeholder](https://support.d4h.org/desk/file/10221786/image.png)Notifications module on the left hand menu
-* Click ![](https://support.d4h.org/desk/file/10221786/image.png)Send Notification
+* In an open channel go to the ![Image Placeholder](../../.gitbook/assets/announcement-icon%20%281%29.png)Notifications module on the left hand menu
+* Click ![](../../.gitbook/assets/announcement-icon.png)Send Notification
 * Choose the recipients you wish to send the message to
 * Enter a subject line and message for the SMS / Email or choose a template
 * Click **Send** 

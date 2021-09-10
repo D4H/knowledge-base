@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/personnel.png)
 
-The Personnel module in your [Incident Management](../getting-started.md) account is where you will see a list of all your personnel who have access to that channel. You can see who is currently online from this screen. Anyone who is online will have a ![Image Placeholder](https://support.d4h.org/desk/file/10206722/image.png) green dot next to their name and anyone who is offline will have a ![Image Placeholder](https://support.d4h.org/desk/file/10206725/image.png) grey dot.
+The Personnel module in your [Incident Management](../getting-started.md) account is where you will see a list of all your personnel who have access to that channel. You can see who is currently online from this screen. Anyone who is online will have a ![Image Placeholder](../../.gitbook/assets/green-dot.png) green dot next to their name and anyone who is offline will have a ![Image Placeholder](../../.gitbook/assets/grey-dot.png) grey dot.
 
   
 You can also assign a role to a member during an event / incident from this screen. 

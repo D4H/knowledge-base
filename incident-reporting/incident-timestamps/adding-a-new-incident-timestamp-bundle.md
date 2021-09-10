@@ -5,7 +5,7 @@ You can add your own custom incident timestamps to your incident report.
   
 To add a new bundle:
 
-* Go to ![](https://support.d4h.org/desk/file/10302050/image.png) Settings
+* Go to ![](../../.gitbook/assets/wrench.png) Settings
 * Under **Custom Fields and Timestamps** click into **Incident Timestamps**
 * Select **Add Bundle**
 * Add a title for the bundle

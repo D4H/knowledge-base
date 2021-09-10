@@ -45,7 +45,7 @@ Following any of the procedures above, restart your browser. D4H™ DECISIONS sh
 This applies to the entire team or organi**z**ation.
 
 * In the top right menu, click on Settings 
-* Under **Custom Fields and Timestamps**, select \[Timestamp Seconds\]
+* Under **Custom Fields and Timestamps**, select **Timestamp Seconds**
 * Under **Timestamp Seconds** select **on** or **off**
 * Click **Save Changes**
 

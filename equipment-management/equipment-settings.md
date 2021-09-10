@@ -1,6 +1,6 @@
 # Equipment Settings
 
-To find additional equipment settings navigate to  ![](https://support.d4h.org/desk/file/10302050/image.png) Settings and scroll down to the Equipment section.
+To find additional equipment settings navigate to  ![](../.gitbook/assets/wrench.png) Settings and scroll down to the Equipment section.
 
 Here you can turn on or off certain modules within Equipment Management:  
 

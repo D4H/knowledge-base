@@ -25,7 +25,7 @@ Go to Collections in the Admin Area
 
 This is the easiest way to import a list of personnel
 
-* Click on the small drop down arrow beside **Add** and click ![Image Placeholder](https://support.d4h.org/desk/file/10206993/image.png) Import
+* Click on the small drop down arrow beside **Add** and click ![Image Placeholder](../../.gitbook/assets/import-icon.png) Import
 * Select a file, it must be a CSV file
 * You will need to map the columns to their respective data fields 
 

@@ -7,7 +7,7 @@ To display them on the [Map](./), you must have a [location field ](../admin-are
 * Click into the location field within a row
 * Search for an address by clicking on the magnifying glass or by dragging and dropping the pin to the location
 * Continue doing this for your other status boards
-* When you click on the map icon ![](https://support.d4h.org/desk/file/10157958/image.png) it will open the map on screen where you can see all pinned locations for your status boards
+* When you click on the map icon ![](../../.gitbook/assets/map-icon.png) it will open the map on screen where you can see all pinned locations for your status boards
 * Go to the Map module and you will see all pinned status board locations here too 
 
 #### WEB APP

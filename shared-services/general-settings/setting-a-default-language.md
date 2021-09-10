@@ -4,7 +4,7 @@
 
 To set a default language
 
-* Go to **Settings** &gt; **Main Settings**
+* Go to ![](../../.gitbook/assets/wrench.png) **Settings** &gt; **Main Settings**
 * At the bottom of the page select the default language
 * This will be set as the default language for all team members
 * Click **Save Changes**

@@ -4,7 +4,7 @@ An Owner or Editor can specify who should receive email notifications for the We
   
 To set up email alerts for yourself or members of your team:
 
-* Click on ![Image Placeholder](../../.gitbook/assets/access-logo.png) **Access**
+* Click on ![Image Placeholder](../../.gitbook/assets/access.png) **Access**
 * Switch tabs to Manage Email 
 
 ![](../../.gitbook/assets/manage-email.png)

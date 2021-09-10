@@ -2,7 +2,7 @@
 
 **Access Level Required: Owner**
 
-* Go to ![](https://support.d4h.org/desk/file/10302050/image.png)**Settings** -&gt; **Whiteboard**
+* Go to ![](../../.gitbook/assets/wrench.png)**Settings** -&gt; **Whiteboard**
 * Set the **Write Notes** option to **Only Editors** 
 
 ![](../../.gitbook/assets/controlling-who-can-write-on-the-whiteboard.png)

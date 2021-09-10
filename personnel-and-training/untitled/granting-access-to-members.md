@@ -6,7 +6,7 @@ Once you have [added members](../../user-access/inviting-new-users.md) to the ac
   
 To grant members access to your account:
 
-* Go to ![](https://support.d4h.org/desk/file/10285715/image.png) **Access**
+* Go to ![](../../.gitbook/assets/access.png) **Access**
 * In the **Username** column click **Send Invite** for the member you want to grant access
 * Each member must have a valid email address for the system to send the email invite to
 * Select the permission level you wish to grant the member
@@ -17,7 +17,7 @@ To change a members permission level:
 
 ![](../../.gitbook/assets/granting-access-to-members-1.gif)
 
-* Go to ![](https://support.d4h.org/desk/file/10285715/image.png) **Access**
+* Go to ![](../../.gitbook/assets/access.png) **Access**
 * In the **Permission** column click **change permission**
 * Select the new permission level you wish to grant the member
 * Click **Update Permission**

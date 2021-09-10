@@ -5,7 +5,7 @@
   
 In order to set up Costing, the Costing module must be activated. ****To do this:
 
-* Go to ![](https://support.d4h.org/desk/file/10302050/image.png) **Settings**
+* Go to ![](../../.gitbook/assets/wrench.png) **Settings**
 * Under **Modules** select Costing
 * Turn ON or OFF
 

@@ -1,6 +1,6 @@
 # Editing an incident timestamp
 
-In ![](https://support.d4h.org/desk/file/10302050/image.png) Settings and Incident Timestamps:
+In ![](../../.gitbook/assets/wrench.png) Settings and Incident Timestamps:
 
 * Click **Edit Bundle** on the timestamp bundle you want to edit
 * Change a timestamp label by simply typing in a new label over the existing label

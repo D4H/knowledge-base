@@ -6,7 +6,7 @@ You can duplicate a Form within the [Forms](./) module in your[ Incident Managem
 
 * Double click into the form you wish to duplicate
 * Click on **More Options \[⋮\]**
-* Select ![Image Placeholder](https://support.d4h.org/desk/file/10186063/image.png) **Duplicate**
+* Select ![Image Placeholder](../../.gitbook/assets/duplicate.png) **Duplicate**
 * You now have a copy of that form
 * The new form will have \(Copy\) at the end of it's name, you can rename it from the **More Options \[⋮\]** menu
 

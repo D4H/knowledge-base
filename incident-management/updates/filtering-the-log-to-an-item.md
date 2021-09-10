@@ -19,7 +19,7 @@ In Updates, you are able to filter the log posts to display only posts relating 
 
 You can also filter the log from the status board directly. To do this go to your status board
 
-* Click on the **log**![](https://support.d4h.org/desk/file/10149695/image.png) to open the Status Board log
+* Click on the **log**![](../../.gitbook/assets/speech-box-icon.png) to open the Status Board log
 * You will see all log posts against this status board 
 
 ![](../../.gitbook/assets/filtering-the-log-to-an-item-3.png)

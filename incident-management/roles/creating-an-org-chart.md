@@ -4,7 +4,7 @@
 
 You can create an Org Chart in the [Roles](./) module in your [Incident Management](../getting-started.md) account. You can also pre-load Org Charts into [Collections](../admin-area/collections/) in the [Admin Area](../admin-area/). 
 
-* Go to Roles
+* Go to ![](../../.gitbook/assets/roles%20%281%29.png) Roles
 * Click on the Org Chart button
 * All of your available roles and those assigned to the roles will be listed on the left hand side
 * Drag and drop your roles onto the blank canvas
