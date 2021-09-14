@@ -198,6 +198,7 @@
 * [Plays](incident-management/plays/README.md)
   * [Creating a New Play](incident-management/plays/creating-a-new-play.md)
   * [Including Collections in a Play](incident-management/plays/including-collections-in-a-play.md)
+  * [Troubleshooting 'A play failed to run'](incident-management/plays/troubleshooting-a-play-failed-to-run.md)
 * [Status Boards](incident-management/status-boards/README.md)
   * [Creating a new Status Board](incident-management/status-boards/creating-a-new-status-board/README.md)
     * [Quick Add vs Full Add Status Boards](incident-management/status-boards/creating-a-new-status-board/quick-add-vs-full-add-status-boards.md)
