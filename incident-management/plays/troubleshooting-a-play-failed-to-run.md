@@ -1,13 +1,10 @@
----
-description: >-
-  This page pertains to the following error message in D4H Incident Management
-  'A play failed to run. Some items could not be reported. Please contact
-  support'
----
-
 # Troubleshooting 'A play failed to run'
 
-If your play failed to run, check the following locations for the issues below. 
+ARTICLE IN PROGRESS
+
+This page pertains to the following error message in [D4H Incident Management](../getting-started.md) 'A play failed to run. Some items could not be reported. Please contact support'
+
+If your play failed to run, review the issues below. 
 
 ### Form Templates
 

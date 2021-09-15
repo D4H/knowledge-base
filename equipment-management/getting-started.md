@@ -34,5 +34,5 @@
 
 {% page-ref page="equipment-settings.md" %}
 
-{% page-ref page="equipment-management-app.md" %}
+{% page-ref page="equipment-management-app/" %}
 

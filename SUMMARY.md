@@ -134,7 +134,9 @@
 * [Equipment Barcoding](equipment-management/equipment-barcoding/README.md)
   * [Assigning A Barcode To An Item](equipment-management/equipment-barcoding/assigning-a-barcode-to-an-item.md)
 * [Equipment Settings](equipment-management/equipment-settings.md)
-* [Equipment Management App](equipment-management/equipment-management-app.md)
+* [Equipment Management App](equipment-management/equipment-management-app/README.md)
+  * [Displaying Equipment Data by Location in the App](equipment-management/equipment-management-app/displaying-equipment-data-by-location-in-the-app.md)
+  * [Completing an Inspection in the App](equipment-management/equipment-management-app/completing-an-inspection-in-the-app.md)
 
 ## Incident Management
 
@@ -249,7 +251,9 @@
     * [Permission Profiles](incident-management/admin-area/incident-management-settings/permission-profiles.md)
     * [Preferences](incident-management/admin-area/incident-management-settings/preferences.md)
   * [Setting Up SSO](incident-management/admin-area/setting-up-sso.md)
-* [Incident Management App](incident-management/incident-management-app.md)
+* [Incident Management App](incident-management/incident-management-app/README.md)
+  * [Creating New Roles in the App](incident-management/incident-management-app/creating-new-roles-in-the-app.md)
+  * [Completing a Task List in the App](incident-management/incident-management-app/completing-a-task-list-in-the-app.md)
 * [Sample Templates](incident-management/sample-templates/README.md)
   * [Importing Sample Templates](incident-management/sample-templates/importing-sample-templates.md)
   * [General Templates](incident-management/sample-templates/general-templates/README.md)

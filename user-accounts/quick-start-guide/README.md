@@ -30,7 +30,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 ### Equipment Management
 
 * Document [repairs](../../equipment-management/repairs/) to equipment.
-* Use the [app](../../equipment-management/equipment-management-app.md) to track regular [inspections](../../equipment-management/inspections/).
+* Use the [app](../../equipment-management/equipment-management-app/) to track regular [inspections](../../equipment-management/inspections/).
 * View the [locations](../../equipment-management/equipment-locations/) of your equipment
 
 ### Incident Management

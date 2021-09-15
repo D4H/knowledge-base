@@ -6,7 +6,7 @@ description: >-
 
 # Unblocking Users
 
-A user will be blocked in [Incident Management](../incident-management/getting-started.md) if they exceed the number of available log in attempts. To unblock a user as an admin: 
+A user will be blocked in [D4H Incident Management](../incident-management/getting-started.md) if they exceed the number of available log in attempts. To unblock a user as an admin: 
 
 * Go to the **Admin Area**
 * Select **Collections** 

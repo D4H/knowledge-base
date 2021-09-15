@@ -34,5 +34,5 @@
 
 {% page-ref page="admin-area/" %}
 
-{% page-ref page="incident-management-app.md" %}
+{% page-ref page="incident-management-app/" %}
 

@@ -15,13 +15,13 @@ This is how you will sign in for any of the below modules:
 ### MOBILE APPS
 
   
-[D4H Personnel App](../../personnel-and-training/personnel-and-training-app/), [D4H Equipment App](../../equipment-management/equipment-management-app.md)
+[D4H Personnel App](../../personnel-and-training/personnel-and-training-app/), [D4H Equipment App](../../equipment-management/equipment-management-app/)
 
 To sign into your D4H app, you will use the same username and password that you use to login to the web version. You will also need to select your D4H region.  
 ![Image Placeholder](https://support.d4h.org/desk/file/10291308/2020-07-07%20at%2014.58.png)  
 
 
-[D4H Incident Management App](../../incident-management/incident-management-app.md)  
+[D4H Incident Management App](../../incident-management/incident-management-app/)  
   
 You will use the same username and password that you use to login to the web version of [Incident Management. ](../../incident-management/getting-started.md)  
   

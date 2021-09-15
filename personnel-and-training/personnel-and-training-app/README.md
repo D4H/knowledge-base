@@ -1,6 +1,6 @@
 # Personnel & Training App
 
-Use the [Personnel & Training app](https://d4htechnologies.com/resources/mobile-apps) to quickly look up information about your members, view your upcoming events on the calendar, and change your [on-call status](setting-your-on-call-status-in-the-app.md). Also use it to view and post announcements on the whiteboard. All D4H apps allow for the use of [biometric authentication](../../shared-services/biometric-authentication.md) to secure your data.
+Use the [Personnel & Training app](./) to quickly look up information about your members, view your upcoming events on the calendar, and change your [on-call status](../on-call-planner/). Also use it to view and post announcements on the whiteboard. All D4H apps allow for the use of [biometric authentication](../../shared-services/biometric-authentication.md) to secure your data.
 
 Switch between areas of the app by clicking the white![Image Placeholder](../../.gitbook/assets/more-options.png)in the upper left hand corner of the main screen. The main sections of the Personnel & Training app are:
 
@@ -26,7 +26,7 @@ Lists all of your [members](../untitled/). Use the tabs along the top to sort by
 
 ### Whiteboard
 
-[Whiteboard](../whiteboard/) messages are displayed on both the whiteboard tab and on the Home page. You can add items to the whiteboard by clicking the writing pad symbol in the bottom right. 
+[Whiteboard ](../whiteboard/)messages are displayed on both the whiteboard tab and on the Home page. You can add items to the whiteboard by clicking the writing pad symbol in the bottom right. 
 
 ### Settings 
 
