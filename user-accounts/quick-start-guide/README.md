@@ -12,9 +12,11 @@ The email will contain a link to join. Click it and you will be taken to a page 
 
 Use your username and password you created to sign-in. If you need additional help, see our guide to [Signing In](signing-in-1.md). Once signed-in, your username may give you access to multiple teams, see our guide to [Switching Teams](switching-teams.md).
 
-## Step 3 - Download the apps.
+## Step 3 - Download the mobile apps.
 
-You can download the D4H mobile apps [from the app store](https://d4htechnologies.com/resources/mobile-apps). Our Personnel & Training, Equipment Management, and Incident Management products all have their own apps. Make sure you download the correct app for your needs.
+![](../../.gitbook/assets/mobile-1.png)
+
+You can download the D4H mobile apps [from the app store](https://d4htechnologies.com/mobile-apps). Our Personnel & Training, Equipment Management, and Incident Management products all have their own apps. Make sure you download the correct app for your needs.
 
 ## Ideas how to use D4H
 
