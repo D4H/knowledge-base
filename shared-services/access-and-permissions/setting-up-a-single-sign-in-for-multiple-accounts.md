@@ -15,11 +15,10 @@ If you are a member of multiple teams, you can merge them to a single sign in.
 
 To log in using your single sign in, use any one of your team's URL's or use the generic URL that matches the server your team is on:
 
-[https://go.d4h.org](https://go.d4h.org/)   
-[https://go.ca.d4h.org](https://go.ca.d4h.org/)   
-[https://go.eu.d4h.org](https://go.eu.d4h.org/)   
-[https://go.nz.d4h.org](https://go.nz.d4h.org/)  
-[https://go.ap.d4h.org](https://go.ap.d4h.org/) 
+* US/International: [https://go.d4h.org/](https://go.d4h.org/memberships)
+* Asia Pacific: [https://go.ap.d4h.org/](https://go.ap.d4h.org/memberships)
+* Europe: [https://go.eu.d4h.org/](https://go.eu.d4h.org/memberships)
+* Canada: [https://go.ca.d4h.org/](https://go.ca.d4h.org/memberships)
 
 {% hint style="info" %}
 It will not be possible toe merge your accounts if they are on different servers
