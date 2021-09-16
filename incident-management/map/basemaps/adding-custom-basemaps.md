@@ -26,7 +26,7 @@ The zoom / x / y format makes map tiles available as we need them at the right {
 
 * [LINZ New Zealand](https://data.linz.govt.nz/data/category/topographic/maps/)
 * [Thunderforest](https://www.thunderforest.com/maps/outdoors/)
-* [OpenSeaMap](http://www.openseamap.org/)
+* [OpenSeaMap](https://map.openseamap.org/)
 {% endhint %}
 
 

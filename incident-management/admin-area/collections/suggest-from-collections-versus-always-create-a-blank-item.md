@@ -17,7 +17,7 @@ To configure a board to always suggest from collections follow the steps below:
 ![](../../../.gitbook/assets/2021-09-16-at-11.24.png)
 
 * Go to the status board in your open channel
-* Click **+Add** and select the items you wish to import
+* Click **Add** and select the items you wish to import
 * Click **Import** to load the items into your status board
 
 ![](../../../.gitbook/assets/2021-09-16-at-11.56.gif)

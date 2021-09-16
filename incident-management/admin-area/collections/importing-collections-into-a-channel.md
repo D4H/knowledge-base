@@ -14,7 +14,7 @@ To import data from collections:
 
 ![](../../../.gitbook/assets/screen-shot-2021-09-15-at-1.28.41-pm.png)
 
-* Check the box to select the items you wish to import from collections
+* Check the box next to the items you wish to import from collections
 * Click **Import**
 
 ![](../../../.gitbook/assets/2021-09-16-at-11.08.png)
