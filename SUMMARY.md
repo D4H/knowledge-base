@@ -4,7 +4,7 @@
 
 ## Getting Started <a id="user-accounts"></a>
 
-* [Quick Start Guide](user-accounts/quick-start-guide/README.md)
+* [D4H Quick Start Guide](user-accounts/quick-start-guide/README.md)
   * [Signing-in](user-accounts/quick-start-guide/signing-in-1.md)
   * [Password Reset](user-accounts/quick-start-guide/password-reset.md)
   * [Switching Teams](user-accounts/quick-start-guide/switching-teams.md)
