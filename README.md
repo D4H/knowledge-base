@@ -24,7 +24,7 @@ If you are an administrator for your organization, check out the product guides 
 
 ### \*\*\*\*![](.gitbook/assets/im-rounded.png) ****[**Incident Management Administrators**](incident-management/getting-started.md) ****
 
-### \*\*\*\*![](.gitbook/assets/ir-rounded.png) ****[**Incident Reporting Guide Administrators**](incident-reporting/getting-started.md)\*\*\*\*
+### \*\*\*\*![](.gitbook/assets/ir-rounded.png) ****[**Incident Reporting Administrators**](incident-reporting/getting-started.md)\*\*\*\*
 
 ## Product Updates & Release Notes
 
