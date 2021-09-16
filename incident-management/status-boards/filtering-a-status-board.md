@@ -14,15 +14,13 @@ You can filter a status board so that it displays only the items that have been 
 
 
 
-You can also predetermine filtering settings in the Admin Area. To do this:
+You can predetermine filtering settings in the Admin Area. To do this:
 
-* Go to the **Admin Area**
-* Go to **Templates**
-* Select **Status Boards** and chose the status board you want to modify
+* Go to the **Admin Area** &gt; **Templates**
+* Select **Status Boards** and click **Edit** on the status board you want to modify
 * Scroll down to **List View Settings**
 * Set your default filtering options
+* Click **Save** at the bottom of the page
 
-![](../../.gitbook/assets/screen-shot-2021-09-15-at-1.38.44-pm.png)
-
-
+![](../../.gitbook/assets/2021-09-16-at-14.10%20%281%29.png)
 

@@ -2,15 +2,15 @@
 
 #### WEB APP
 
-You have the option of predetermining how to group and sort your rows for [Status Boards](./). To do this:
+You have the option of predetermining how to group and sort rows for [Status Boards](./). To do this:
 
-* Go to the **Admin Area**
-* Go to **Templates**
-* Select **Status Boards** and chose the status board you want to modify
+* Go to the **Admin Area** &gt; **Templates**
+* Select **Status Boards** and click **Edit** on the status board you want to modify
 * Scroll down to **List View Settings** 
 * Set your default sorting and grouping
+* Click **Save** at the bottom of the page
 
-![](../../.gitbook/assets/screen-shot-2021-09-15-at-1.38.44-pm.png)
+![](../../.gitbook/assets/2021-09-16-at-14.10%20%282%29.png)
 
 To group the rows in a Status Board from the board itself, follow the below steps.
 
