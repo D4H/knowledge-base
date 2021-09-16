@@ -244,6 +244,7 @@
   * [Collections](incident-management/admin-area/collections/README.md)
     * [Creating Collections](incident-management/admin-area/collections/creating-collections.md)
     * [Importing Collections into a Channel](incident-management/admin-area/collections/importing-collections-into-a-channel.md)
+    * [Suggest from Collections versus Always create a blank item](incident-management/admin-area/collections/suggest-from-collections-versus-always-create-a-blank-item.md)
   * [Incident Management Settings](incident-management/admin-area/incident-management-settings/README.md)
     * [D4H Products Integration](incident-management/admin-area/incident-management-settings/d4h-products-integration/README.md)
       * [Syncing Incident Management 'Situation Form' to Incident Reporting](incident-management/admin-area/incident-management-settings/d4h-products-integration/syncing-incident-management-situation-form-to-incident-reporting.md)
