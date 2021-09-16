@@ -27,6 +27,16 @@ To configure a board to always suggest from collections follow the steps below:
 
 ![](../../../.gitbook/assets/2021-09-16-at-11.32.png)
 
+This feature also works when creating items from a [relationship field](../templates/form-builder-and-field-types/). You can now import multiple items at a time.
+
+* Click into any relationship field on your board and you will see it lists already imported items which you can click on to select
+* If the item you want to link has not yet been imported click **Add**
+* Check the box next to the items you wish to link to this board
+* Click **Import**
+* These items are now linked in the relationship field and have also been imported into the channel
+
+![](../../../.gitbook/assets/2021-09-16-at-13.09.gif)
+
 ## Always create a blank item
 
 To configure a board to always create a blank item follow the steps below:

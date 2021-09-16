@@ -35,13 +35,15 @@ Download the available archive for your records by clicking the box icon. If you
 It is now possible to [assign a unique ref](../channels/assigning-a-unique-identifier-to-an-incident.md) to your incidents. 
 {% endhint %}
 
+{% embed url="https://youtu.be/e\_UK\_gF83dQ" %}
+
 ## Using the Control Room
 
 {% page-ref page="filter-control-room-incidents-by-situation-field.md" %}
 
 {% page-ref page="setting-a-default-play-for-control-room.md" %}
 
-{% embed url="https://youtu.be/e\_UK\_gF83dQ" %}
+{% page-ref page="../updates/creating-an-announcement.md" %}
 
 {% hint style="info" %}
 Don't see the control button? Contact us at support@d4h.org to request it. 
