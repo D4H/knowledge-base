@@ -18,7 +18,9 @@ When you go back to your open channel and go to that module, click on the **Add*
 
 Your collection data will now be available to import into your channel.
 
-{% embed url="https://youtu.be/Gx\_zpHfjs4k" %}
+{% embed url="https://youtu.be/WC4MaO0Ghhw" %}
+
+
 
 {% hint style="info" %}
 You can pre-load all of your organization's data into collections so it is available every time without re-entering it.
