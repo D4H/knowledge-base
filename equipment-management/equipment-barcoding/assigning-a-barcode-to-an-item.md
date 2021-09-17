@@ -12,7 +12,7 @@ If the Ref of the item matches the barcode, you do not need to do anything, it w
 
 * Open up the item of equipment in the app
 * Click **VIEW ITEM**
-* Click **More Options ⋮**
+* Click **More Options \[⋮\]**
 * Click **Associate Barcode**
 * This opens up the camera on your mobile device
 * Scan the barcode of the item

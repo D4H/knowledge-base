@@ -29,7 +29,7 @@ Store important documents and links for future reference in the Library. You can
 ## Archived
 
 Past incidents appear here, but will be deleted out of the system after a certain period of time.  
-Download the available archive for your records by clicking the box icon. If you have our [Incident Reporting](../../incident-reporting/getting-started.md) product, make sure the bar chart icon has a green tick next to it indicating it has been synced across.﻿You can reactivate any of these incidents by going to More Options \[⋮\] and clicking Re-activate.  
+Download the available archive for your records by clicking the box icon. If you have our [Incident Reporting](../../incident-reporting/getting-started.md) product, make sure the bar chart icon has a green tick next to it indicating it has been synced across.﻿You can reactivate any of these incidents by going to **More Options \[⋮\]** and clicking **Re-activate**.  
 
 {% hint style="info" %}
 It is now possible to [assign a unique ref](../channels/assigning-a-unique-identifier-to-an-incident.md) to your incidents. 

@@ -5,7 +5,7 @@
 To archive tasks from your [Task Board](./)
 
 * Single click the task that you wish to archive so that it is outlined in red
-* Click on **More Options ⋮**
+* Click on **More Options \[⋮\]**
 * Select **Archive**
 
 {% embed url="https://youtu.be/sUVBmZtY7ro" %}
