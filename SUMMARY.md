@@ -159,7 +159,7 @@
   * [Sharing by Email and Public Link](incident-management/situation/sharing-by-email-and-public-link.md)
   * [Viewing the Audit Trail](incident-management/situation/viewing-the-audit-trail.md)
 * [Roles](incident-management/roles/README.md)
-  * [Creating Teams and Roles](incident-management/roles/creating-new-roles-in-the-app.md)
+  * [Creating Teams and Roles](incident-management/roles/creating-teams-and-roles.md)
   * [Configuring the Roles template](incident-management/roles/configuring-the-roles-template.md)
   * [Assigning a Role](incident-management/roles/assigning-a-role.md)
   * [Linking a Role to a Task](incident-management/roles/linking-a-role-to-a-task.md)

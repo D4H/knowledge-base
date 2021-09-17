@@ -32,7 +32,7 @@ Collections are used to pre-load data into the Roles module. For example you mig
 
 When you open a new [channel](../channels/) you can add in teams and roles on the fly or you can import them from collections.  Or you could start your channel with a [Play](../plays/) that includes the teams and roles required for that type of incident / event.
 
-{% page-ref page="creating-new-roles-in-the-app.md" %}
+{% page-ref page="creating-teams-and-roles.md" %}
 
 {% page-ref page="assigning-a-role.md" %}
 
