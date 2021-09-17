@@ -35,12 +35,16 @@ It is now possible to import from collections in the mobile app.
 
 * Click the **More Options Menu :** and select **Import from collections**
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/import-from-collections-mobile.jpg)
+
+\*\*\*\*
 
 * Check the box next to the items you wish to import
 * Click **Import**
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/import-from-collections-mobile-2.jpg)
+
+\*\*\*\*
 
 
 
