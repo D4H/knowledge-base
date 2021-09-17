@@ -16,11 +16,11 @@ Within an Incident, click on the speech bubble icon in the top right corner to o
 
 **Enter Channel**
 
-If an incident further evolves and requires more functionality, within an Incident you can press Enter Channel ****to enter the full channel as normal.
+If an incident further evolves and requires more functionality, within an Incident you can press **Enter Channel** to enter the full channel as normal.
 
 ## Updates
 
-View the Control Room log in the Updates section. Use this area to share announcements and general information with other incident managers. Click on the \[All\] tab to view a full audit trail of the Control Room.
+View the Control Room log in the Updates section. Use this area to share announcements and general information with other incident managers. Click on the **All** tab to view a full audit trail of the Control Room.
 
 ## Library
 
