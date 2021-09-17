@@ -40,7 +40,7 @@ Store [files](../library/adding-a-new-file.md) and [links](../library/adding-a-n
 
 
 
-{% page-ref page="creating-new-roles-in-the-app.md" %}
+{% page-ref page="../roles/creating-new-roles-in-the-app.md" %}
 
 {% page-ref page="completing-a-task-list-in-the-app.md" %}
 

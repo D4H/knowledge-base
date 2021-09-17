@@ -12,9 +12,9 @@ Within your [Incident Management](../../getting-started.md) account go to the [A
 * Fill in the details for your item.
 * Add as many items as you would like to pre-load available in all channels.
 
-When you go back to your open channel and go to that module, click on the small drop down arrow beside **Add**.
+When you go back to your open channel and go to that module, click on the **Add** button.
 
-![](../../../.gitbook/assets/creating-collections-.png)
+![](../../../.gitbook/assets/screen-shot-2021-09-15-at-1.20.57-pm%20%282%29.png)
 
 Your collection data will now be available to import into your channel.
 
