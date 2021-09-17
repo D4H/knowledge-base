@@ -58,6 +58,8 @@ Each Status Board has a [Template](../admin-area/templates/) which outlines the 
 
 {% page-ref page="../plays/including-collections-in-a-play.md" %}
 
+{% page-ref page="../admin-area/collections/suggest-from-collections-versus-always-create-a-blank-item.md" %}
+
 ## Using Status Boards
 
 When you come to use a Status Board during an event, you should first add it to your channel or start your channel with a [Play ](../plays/)that includes it.

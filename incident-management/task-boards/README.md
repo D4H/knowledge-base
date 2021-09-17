@@ -39,6 +39,8 @@ Each task board has a [Template](../admin-area/templates/) which outlines the la
 
 {% page-ref page="../plays/including-collections-in-a-play.md" %}
 
+{% page-ref page="../admin-area/collections/suggest-from-collections-versus-always-create-a-blank-item.md" %}
+
 ## Using Task Boards
 
 When you come to use a Task Board during an event or incident you should first add it to your channel, or start your channel with a [Play](../plays/) that includes it.
