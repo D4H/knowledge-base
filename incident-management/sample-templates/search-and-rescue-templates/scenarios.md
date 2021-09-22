@@ -1,10 +1,8 @@
----
-description: DRAFT
----
-
 # Scenarios
 
+{% hint style="info" %}
 This article is part of [sample templates](../) for Incident Management
+{% endhint %}
 
 Use the Scenarios template to anticipate possible locations and situations for missing people and corresponding tactics. Rate each scenario according to its likelihood and create related assignments that would locate the subject in the proposed scenario. Quickly view the areas the scenarios relate to by using the location map.  
   

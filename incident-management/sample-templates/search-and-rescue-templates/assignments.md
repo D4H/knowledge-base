@@ -1,10 +1,8 @@
----
-description: DRAFT
----
-
 # Assignments
 
+{% hint style="info" %}
 This article is part of [sample templates](../) for Incident Management
+{% endhint %}
 
 Use the Assignments task template to track your search areas. Organize the assignments into lists and monitor the overall progress. Have your team leaders mark their assignments as not started, in-progress, or completed. Connect your assignments to proposed [scenarios.](scenarios.md) The customizable form allows you to record any pertinent information your teams need to know and share it will them in real time.   
   

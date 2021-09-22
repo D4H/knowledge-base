@@ -1,10 +1,8 @@
----
-description: DRAFT
----
-
 # Clues
 
+{% hint style="info" %}
 This article is part of [sample templates](../) for Incident Management
+{% endhint %}
 
 Use the Clues template to track clues found in the field. Mark their location on the map, record actions taken, and upload a photo. Assign the clues a relevancy rating \(high, medium, or low\) and quickly see their priority for follow-up searches.   
   

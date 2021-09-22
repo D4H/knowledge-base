@@ -1,10 +1,8 @@
----
-description: DRAFT
----
-
 # Volunteers
 
+{% hint style="info" %}
 This article is part of [sample templates](../) for Incident Management
+{% endhint %}
 
 Use the Volunteers template to track your responders. Record their check in and check out times. Quickly access their contact information proof of ID. These templates are customizable, so use it as a starting point to create your own roster with any additional information desired.   
   
