@@ -1,2 +1,0 @@
-# Pandemic Response Templates
-

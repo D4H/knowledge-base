@@ -1,2 +1,0 @@
-# Oil Spill Logistics Tracker
-

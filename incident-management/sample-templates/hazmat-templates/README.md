@@ -1,2 +1,0 @@
-# Hazmat Templates
-
