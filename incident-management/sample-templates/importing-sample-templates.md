@@ -51,6 +51,3 @@ Ideas for possible edits
 Do you have templates of your own that you want to share with the Bravo Zulu community? Contact [support@d4h.org](mailto:support@d4h.org) to learn more about how to share.   
 
 
-\[Insert video going over process\]  
-
-
