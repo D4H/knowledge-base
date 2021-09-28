@@ -4,7 +4,7 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Residents status board to view contact information information for community members affected by the incident. Add the [Shelters](shelters.md) status board to your account as well in order to link your residents to specific shelters.   
+Use the Residents status board to view contact information for community members affected by the incident. Add the [Shelters](shelters.md) status board to your account as well in order to link your residents to specific shelters.   
   
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
