@@ -12,7 +12,9 @@ To upload this template into your account, follow the steps on our [Importing Sa
 
 ![](../../../.gitbook/assets/af1b5d5c-6267-4a5e-8510-a8db9c8b7c42%20%281%29.png)
 
-## Raw Template
+{% hint style="info" %}
+Copy the code below to add this template to your account
+{% endhint %}
 
 ```text
 {
