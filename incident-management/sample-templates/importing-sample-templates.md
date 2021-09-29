@@ -18,7 +18,7 @@ To import a form into your account:
 * Click **Save**
 * The template will now be available for you to use in your [channels](../channels/)
 
-![](../../.gitbook/assets/50e87328-9385-4b3e-87ed-41bfab5d996b.png)
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.21.39-pm.png)
 
 ## Adding a Status Board
 
@@ -36,9 +36,7 @@ To import a status board into your account:
 Use the same steps for [Task Board](../task-boards/) templates but select **Task** during the second step instead of Status Board.
 {% endhint %}
 
-
-
-![](../../.gitbook/assets/90d342ce-15ab-4ca2-9cab-02e304ded5dc.png)
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.19.15-pm.png)
 
 ## Customization
 
