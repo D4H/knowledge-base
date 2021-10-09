@@ -16,14 +16,5 @@ The following sample templates are available to be used in your account. To get 
 
 
 
-## Pandemic Response
 
-COMING SOON
-
-* Cases
-* Vaccinations
-* Vaccination Clinic Status
-* Vaccine Centers
-
-## 
 
