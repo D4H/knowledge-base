@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Road Damages status board to record the locations of closures in your area. Mark the roads as either open both ways, open one day, or closed and record the reason for their closure. Use the map feature to get a quick overview of where the roads are located and what their status is based on their marker color.   
-  
+Use the Road Damages status board to record the locations of closures in your area. Mark the roads as either open both ways, open one day, or closed and record the reason for their closure. Use the map feature to get a quick overview of where the roads are located and what their status is based on their marker color. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-3.35.31-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 3.35.31 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-3.34.06-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 3.34.06 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Road Damages",
   "defaultColor": null,
@@ -222,6 +222,4 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 

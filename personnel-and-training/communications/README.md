@@ -6,18 +6,26 @@ Target communications across multiple channels including SMS, email, and voice c
 SMS/Voice requires integration with a third party communications provider
 {% endhint %}
 
-{% page-ref page="enabling-the-communications-module.md" %}
+{% content-ref url="enabling-the-communications-module.md" %}
+[enabling-the-communications-module.md](enabling-the-communications-module.md)
+{% endcontent-ref %}
 
-{% page-ref page="sending-a-message.md" %}
+{% content-ref url="sending-a-message.md" %}
+[sending-a-message.md](sending-a-message.md)
+{% endcontent-ref %}
 
-{% page-ref page="sending-an-email-with-an-attachment.md" %}
+{% content-ref url="sending-an-email-with-an-attachment.md" %}
+[sending-an-email-with-an-attachment.md](sending-an-email-with-an-attachment.md)
+{% endcontent-ref %}
 
-{% page-ref page="making-sent-messages-private.md" %}
+{% content-ref url="making-sent-messages-private.md" %}
+[making-sent-messages-private.md](making-sent-messages-private.md)
+{% endcontent-ref %}
 
-{% page-ref page="preventing-members-from-sending-emails.md" %}
+{% content-ref url="preventing-members-from-sending-emails.md" %}
+[preventing-members-from-sending-emails.md](preventing-members-from-sending-emails.md)
+{% endcontent-ref %}
 
 
 
-  
-
-
+\

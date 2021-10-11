@@ -1,18 +1,22 @@
 # Groups
 
-Groups are used to organize [members](../untitled/) of your team for [communications](../communications/) and other management functions.   
-  
+Groups are used to organize [members](../untitled/) of your team for [communications](../communications/) and other management functions. \
+\
 You can target communication messages, set attendance, and document [qualification expectation](../qualifications/setting-a-qualification-expectation-for-a-group.md) by grouping.
 
 {% hint style="info" %}
 Potential groupings could be dependent on rank, skills or specialty.
 {% endhint %}
 
-{% page-ref page="creating-a-group.md" %}
+{% content-ref url="creating-a-group.md" %}
+[creating-a-group.md](creating-a-group.md)
+{% endcontent-ref %}
 
-{% page-ref page="set-groups-required-on-call-numbers.md" %}
+{% content-ref url="set-groups-required-on-call-numbers.md" %}
+[set-groups-required-on-call-numbers.md](set-groups-required-on-call-numbers.md)
+{% endcontent-ref %}
 
-{% page-ref page="sending-an-email-to-a-group.md" %}
-
-
+{% content-ref url="sending-an-email-to-a-group.md" %}
+[sending-an-email-to-a-group.md](sending-an-email-to-a-group.md)
+{% endcontent-ref %}
 

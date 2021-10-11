@@ -4,21 +4,21 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Assignments task template to track your search areas. Organize the assignments into lists and monitor the overall progress. Have your team leaders mark their assignments as not started, in-progress, or completed. Connect your assignments to proposed [scenarios.](scenarios.md) The customizable form allows you to record any pertinent information your teams need to know and shares it with them in real time.   
-  
+Use the Assignments task template to track your search areas. Organize the assignments into lists and monitor the overall progress. Have your team leaders mark their assignments as not started, in-progress, or completed. Connect your assignments to proposed [scenarios.](scenarios.md) The customizable form allows you to record any pertinent information your teams need to know and shares it with them in real time. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page. Be careful to save this particular template under task templates and not status boards. 
 
 
 
-![](../../../.gitbook/assets/screen-shot-2021-06-30-at-1.39.07-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-06-30 at 1.39.07 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-06-30-at-1.43.39-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-06-30 at 1.43.39 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "uniq_name": "team_assignments",
   "name": "Assignments",
@@ -413,4 +413,3 @@ Copy the code below to add this template to your account
   }
 }
 ```
-

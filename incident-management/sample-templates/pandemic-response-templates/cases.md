@@ -8,15 +8,15 @@ Use the Cases status board to track outbreaks in different parts of your region.
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.08.35-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.08.35 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.08.42-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.08.42 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Cases",
   "defaultColor": null,
@@ -119,6 +119,4 @@ Copy the code below to add this template to your account
 }
 
 ```
-
-
 

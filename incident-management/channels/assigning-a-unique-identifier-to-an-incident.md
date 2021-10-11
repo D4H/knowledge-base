@@ -10,20 +10,18 @@ Syncing your Incident Management account to[ Incident Reporting](../../incident-
 
 * Go to **Settings** in the **Admin Area**
 * Select **Preferences**
-* Input your reference template under **Incidents**&gt;**Incident Ref Template**
+* Input your reference template under **Incidents**>**Incident Ref Template**
 
-If you have already created a reference template, you can change it by clicking Update ref sequences.  
-  
+If you have already created a reference template, you can change it by clicking Update ref sequences.\
+\
 **Ideas for Reference Templates:**
 
-| Template | Example Result |
-| :--- | :--- |
-| {sequence,0000} | 00562 |
-| \#{sequence,0000} | \#00562 |
-| REF\#{sequence,0000} | REF\#00562 |
-| \#{year}-{sequenceByYear,000} | \#2021-005 |
+| Template                     | Example Result |
+| ---------------------------- | -------------- |
+| {sequence,0000}              | 00562          |
+| #{sequence,0000}             | #00562         |
+| REF#{sequence,0000}          | REF#00562      |
+| #{year}-{sequenceByYear,000} | #2021-005      |
 
 {% embed url="https://youtu.be/lwudWl0QOxo" %}
-
-
 

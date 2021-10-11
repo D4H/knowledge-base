@@ -28,12 +28,11 @@ Below are instructions for adding one or a few members to your accounts and gran
 
 To invite a member to your account
 
-* Go to **Collections** in the [**Admin Area**](../incident-management/admin-area/)\*\*\*\*
+* Go to **Collections** in the [**Admin Area**](../incident-management/admin-area/)****
 * Open **Personnel**
 * Click on the orange **Add** button
 * You will need a name and an email address to create an account
 * Click the orange button **Create a D4H Incident Management Account**
 * Under [**Permission Profiles**](permissions.md) select a profile from the drop down list
-* Click **Save** at the bottom of the screen
+* Click **Save **at the bottom of the screen
 * Your personnel will now receive an email invitation to access the account
-

@@ -24,31 +24,29 @@ You can download the D4H mobile apps [from the app store](https://d4htechnologie
 
 Depending on the product you are using and the [Permission](../../user-access/permissions.md) level you have been granted, you may wish to do different things. Here are some examples of the information you can access and update:
 
-### ![](../../.gitbook/assets/pt-rounded.png) Personnel & Training
+### ![](../../.gitbook/assets/PT-rounded.png) Personnel & Training
 
 * View your team [calendar](../../personnel-and-training/calendar/).
 * Change your availability in the [on-call planner](../../personnel-and-training/on-call-planner/).
 * [Update your profile](../../personnel-and-training/untitled/updating-my-personal-profile.md) on Personnel & Training.
 * Add your [calendar to your mobile phone](../../personnel-and-training/calendar/exporting-my-d4h-calendar-to-my-personal-calendar.md).
 
-### ![](../../.gitbook/assets/em-rounded.png) Equipment Management
+### ![](../../.gitbook/assets/EM-rounded.png) Equipment Management
 
 * Document [repairs](../../equipment-management/repairs/) to equipment.
 * Use the [app](../../equipment-management/equipment-management-app/) to track regular [inspections](../../equipment-management/inspections/).
 * View the [locations](../../equipment-management/equipment-locations/) of your equipment
 
-### ![](../../.gitbook/assets/im-rounded.png) Incident Management
+### ![](../../.gitbook/assets/IM-rounded.png) Incident Management
 
 * View the [Situation](../../incident-management/situation/) Report.
 * Post an [update](../../incident-management/updates/) in the log. 
 * Mark a [task](../../incident-management/task-boards/) as complete.
 * Fill out a [form](../../incident-management/forms/).
 
-### ![](../../.gitbook/assets/ir-rounded.png) Incident Reporting
+### ![](../../.gitbook/assets/IR-rounded.png) Incident Reporting
 
 * Create a new [incident](../../incident-reporting/incident-reports.md).
 * Run [reports ](../../shared-services/reports/)on your past incidents.
 * Add [persons involved](../../incident-reporting/persons-involved/) to an incident.
-
-
 

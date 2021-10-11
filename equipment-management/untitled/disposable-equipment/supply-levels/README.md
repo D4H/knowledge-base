@@ -2,11 +2,13 @@
 
 To view the stock levels of your consumable supplies navigate to the Supply Levels tab. Here you will see if your stock level is being met or if there are supplies needed. 
 
-{% page-ref page="required-supply-levels.md" %}
+{% content-ref url="required-supply-levels.md" %}
+[required-supply-levels.md](required-supply-levels.md)
+{% endcontent-ref %}
 
-{% page-ref page="distribute-quantities.md" %}
+{% content-ref url="distribute-quantities.md" %}
+[distribute-quantities.md](distribute-quantities.md)
+{% endcontent-ref %}
 
-![](../../../../.gitbook/assets/supply-levels.png)
-
-
+![](<../../../../.gitbook/assets/supply levels.png>)
 

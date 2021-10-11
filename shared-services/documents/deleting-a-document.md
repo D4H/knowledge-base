@@ -6,7 +6,5 @@ To delete a document:
 * Click **Update Details**
 * Select Delete Document
 
-![](../../.gitbook/assets/delete-document.png)
-
-
+![](<../../.gitbook/assets/delete document.png>)
 

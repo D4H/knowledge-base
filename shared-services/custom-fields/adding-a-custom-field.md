@@ -1,7 +1,7 @@
 # Adding a Custom Field
 
-**Access Level Required: Owner.**  
-  
+**Access Level Required: Owner.**\
+\
 To add a custom field:
 
 * Go to ![](../../.gitbook/assets/wrench.png) **Settings**
@@ -27,13 +27,13 @@ To add a custom field:
 **Hint Text:** you can include hints to help guide your members when filling in the fiel
 {% endhint %}
 
-* Click **Save Changes** 
-
-![](../../.gitbook/assets/adding-a-custom-field.gif)
-
-  
-The custom field added in the example above will now show on the member's profile and as it was marked private when saving the field you can see the field has the ![](../../.gitbook/assets/padlock-icon.png) padlock icon next to it:  
+* Click **Save Changes**\
 
 
-![](../../.gitbook/assets/adding-a-custom-field-2.png)
+![](<../../.gitbook/assets/adding a custom field.gif>)
 
+\
+The custom field added in the example above will now show on the member's profile and as it was marked private when saving the field you can see the field has the ![](<../../.gitbook/assets/padlock icon.png>) padlock icon next to it:\
+
+
+![](<../../.gitbook/assets/adding a custom field 2.png>)

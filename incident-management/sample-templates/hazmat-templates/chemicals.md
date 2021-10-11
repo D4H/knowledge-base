@@ -8,15 +8,15 @@ Use the Chemicals status board to track information about the chemicals involved
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.33.29-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.33.29 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.44.21-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.44.21 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Chemicals",
   "nameLabel": "Chemical Name",
@@ -410,4 +410,3 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-

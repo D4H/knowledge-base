@@ -2,7 +2,7 @@
 
 Use the [Personnel & Training app](./) to quickly look up information about your members, view your upcoming events on the calendar, and change your [on-call status](../on-call-planner/). Also use it to view and post announcements on the whiteboard. All D4H apps allow for the use of [biometric authentication](../../shared-services/biometric-authentication.md) to secure your data.
 
-Switch between areas of the app by clicking the white![Image Placeholder](../../.gitbook/assets/more-options.png)in the upper left hand corner of the main screen. The main sections of the Personnel & Training app are:
+Switch between areas of the app by clicking the white![Image Placeholder](<../../.gitbook/assets/more options.png>)in the upper left hand corner of the main screen. The main sections of the Personnel & Training app are:
 
 ### Home
 
@@ -32,11 +32,13 @@ Lists all of your [members](../untitled/). Use the tabs along the top to sort by
 
 Update your app settings here. Select a Scanning Device and chose whether to lock the app when not in use. 
 
-{% page-ref page="updating-your-attendance-in-the-app.md" %}
+{% content-ref url="updating-your-attendance-in-the-app.md" %}
+[updating-your-attendance-in-the-app.md](updating-your-attendance-in-the-app.md)
+{% endcontent-ref %}
 
-{% page-ref page="setting-your-on-call-status-in-the-app.md" %}
-
-
+{% content-ref url="setting-your-on-call-status-in-the-app.md" %}
+[setting-your-on-call-status-in-the-app.md](setting-your-on-call-status-in-the-app.md)
+{% endcontent-ref %}
 
 
 

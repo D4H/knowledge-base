@@ -8,19 +8,19 @@ To create a new [Task Board](./) go to the [Admin Area](../admin-area/) in your 
 * Open **Tasks**
 * Click on **New Task Template**
 * Fill in the details
-* Click **Save** at the bottom of the screen
+* Click **Save **at the bottom of the screen
 
 {% embed url="https://youtu.be/qj-BT1UtDVg" %}
 
 
 
-## Selecting An Icon \(Required\)
+## Selecting An Icon (Required)
 
 Select an icon for the board. This icon will be used to represent the board in the menu and when [Tagged in the Log](../updates/tagging-tasks-in-the-log.md). Press Show more to see more icons, and use keywords to search for the name of an icon.
 
-![](../../.gitbook/assets/selecting-an-icon%20%281%29.png)
+![](<../../.gitbook/assets/selecting an icon (1).png>)
 
-## Name \(Required\)
+## Name (Required)
 
 The app name will appear in the navigation menu and throughout the software. Choose a short name that ideally fits on a single line.
 
@@ -28,7 +28,7 @@ The app name will appear in the navigation menu and throughout the software. Cho
 Names should be unique and clear. Ideally it would be a name that encompasses the task lists and tasks such as "Immediate Actions", "Security Tasks", "Search Assignments", and "Requests". 
 {% endhint %}
 
-## Unique Name \(Required\)
+## Unique Name (Required)
 
 The unique name is auto-generated. The unique name is used later to create [relationships](../admin-area/templates/form-builder-and-field-types/) between modules and reference this module in custom expressions.
 
@@ -46,4 +46,3 @@ Examples
 ## Default Status
 
 You can set a default status from the statuses above. You may want to set the default to 'Not Started' if you choose to keep this status. 
-

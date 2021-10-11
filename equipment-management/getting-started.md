@@ -1,38 +1,71 @@
 # D4H Equipment Management Guide
 
-![](../.gitbook/assets/equipment-management-overview%20%282%29.png)
+![](<../.gitbook/assets/equipment management overview.png>)
 
 [D4H Equipment Management](https://d4htechnologies.com/equipment-management) is our readiness software for easy inventory administration.
 
 **Getting Started Guide**
 
-{% page-ref page="../user-accounts/quick-start-guide/signing-in-1.md" %}
+{% content-ref url="../user-accounts/quick-start-guide/signing-in-1.md" %}
+[signing-in-1.md](../user-accounts/quick-start-guide/signing-in-1.md)
+{% endcontent-ref %}
 
-{% page-ref page="equipment-items/" %}
+{% content-ref url="equipment-items/" %}
+[equipment-items](equipment-items/)
+{% endcontent-ref %}
 
-{% page-ref page="untitled/" %}
+{% content-ref url="untitled/" %}
+[untitled](untitled/)
+{% endcontent-ref %}
 
-{% page-ref page="equipment-locations/" %}
+{% content-ref url="equipment-locations/" %}
+[equipment-locations](equipment-locations/)
+{% endcontent-ref %}
 
-{% page-ref page="inspections/" %}
+{% content-ref url="inspections/" %}
+[inspections](inspections/)
+{% endcontent-ref %}
 
-{% page-ref page="repairs/" %}
+{% content-ref url="repairs/" %}
+[repairs](repairs/)
+{% endcontent-ref %}
 
-{% page-ref page="funding-sources/" %}
+{% content-ref url="funding-sources/" %}
+[funding-sources](funding-sources/)
+{% endcontent-ref %}
 
-{% page-ref page="manufacturers-and-models/" %}
+{% content-ref url="manufacturers-and-models/" %}
+[manufacturers-and-models](manufacturers-and-models/)
+{% endcontent-ref %}
 
-{% page-ref page="equipment-barcoding/" %}
+{% content-ref url="equipment-barcoding/" %}
+[equipment-barcoding](equipment-barcoding/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/reports/" %}
+{% content-ref url="../shared-services/reports/" %}
+[reports](../shared-services/reports/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/cost-recovery/" %}
+{% content-ref url="../shared-services/cost-recovery/" %}
+[cost-recovery](../shared-services/cost-recovery/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/custom-fields/" %}
+{% content-ref url="../shared-services/custom-fields/" %}
+[custom-fields](../shared-services/custom-fields/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/api/" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="equipment-settings.md" %}
+{% content-ref url="../shared-services/api/" %}
+[api](../shared-services/api/)
+{% endcontent-ref %}
 
-{% page-ref page="equipment-management-app/" %}
+{% content-ref url="equipment-settings.md" %}
+[equipment-settings.md](equipment-settings.md)
+{% endcontent-ref %}
 
+{% content-ref url="equipment-management-app/" %}
+[equipment-management-app](equipment-management-app/)
+{% endcontent-ref %}

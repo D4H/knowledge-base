@@ -8,15 +8,15 @@ Use the Environmental Damage status board template to add information about effe
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.47.49-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.47.49 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.47.14-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.47.14 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Environmental Damage",
   "defaultColor": null,
@@ -82,4 +82,3 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-

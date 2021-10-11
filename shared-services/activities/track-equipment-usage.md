@@ -2,7 +2,7 @@
 
 When adding or editing an activity, you will be able to track the equipment used on the activity. You can do this from the [Equipment](../../equipment-management/equipment-items/) tab highlighted below in green:
 
-![](../../.gitbook/assets/track-equipment-usage.png)
+![](<../../.gitbook/assets/track equipment usage.png>)
 
 **To select items as used:**
 
@@ -22,14 +22,12 @@ When adding or editing an activity, you will be able to track the equipment used
 * Now the usage will appear on the items of equipment
 * Click on the **Times Used** to open a list of all activities it was used on
 
-![](../../.gitbook/assets/times-used.png)
+![](<../../.gitbook/assets/times used.png>)
 
-![](../../.gitbook/assets/times-used-2.gif)
+![](<../../.gitbook/assets/times used 2.gif>)
 
 * If a disposable piece of equipment was used on an activity, the quantity of this item will now be reduced by the quantity used on the activity
 * You can also view how many time**s** the supply was used and on what activity by going directly to the item
 
-![](../../.gitbook/assets/track-equipment-usage.gif)
-
-
+![](<../../.gitbook/assets/track equipment usage.gif>)
 

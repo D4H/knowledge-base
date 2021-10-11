@@ -11,7 +11,7 @@ You cannot delete a kind of equipment if you have active equipment items in it, 
 {% endhint %}
 
 * Once you have deleted all items in the kind you will now be able to delete the kind itself
-* You will see in the example below that the kind 'Base Radio' has 0 items in it, therefore the **Delete** option is available to choose 
+* You will see in the example below that the kind 'Base Radio' has 0 items in it, therefore the **Delete** option is available to choose\
 
-![](../../../.gitbook/assets/deleting-kinds-of-equipment.png)
 
+![](<../../../.gitbook/assets/Deleting kinds of equipment.png>)

@@ -1,10 +1,9 @@
 # Showing More Activities In the dashboard 'Calendar'
 
-**Permission Required: Owner**  
-  
+**Permission Required: Owner**\
+\
 You can expand the 'My Calendar' section on the Dashboard to display more than 5 events/training activities:
 
-* Go to **Settings** -&gt; **Main settings**
+* Go to **Settings** -> **Main settings**
 * Look for **Dashboard Calendar** and adjust accordingly
-* Click **Save Changes** at the bottom of the page
-
+* Click **Save Changes **at the bottom of the page

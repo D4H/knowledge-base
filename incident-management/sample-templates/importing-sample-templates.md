@@ -1,6 +1,6 @@
 # Importing Sample Templates
 
-Once you have identified a [status board](/incident-management-status-boards/status-boards) or [form](/d4h-incident-management/forms) from our raw template collection that matches your team’s requirements, the following guide will walk you through adding it to your account. Depending on whether it is a form or a status board, the process will be slightly different. For both processes, start by going to the [Admin Area](/d4h-incident-management/admin-area). To access the Admin Area, click the green⇅in the upper right corner of your [Incident Management](/d4h-incident-management/incident-management) account. 
+Once you have identified a [status board](https://app.gitbook.com/incident-management-status-boards/status-boards) or [form](https://app.gitbook.com/d4h-incident-management/forms) from our raw template collection that matches your team’s requirements, the following guide will walk you through adding it to your account. Depending on whether it is a form or a status board, the process will be slightly different. For both processes, start by going to the [Admin Area](https://app.gitbook.com/d4h-incident-management/admin-area). To access the Admin Area, click the green⇅in the upper right corner of your [Incident Management](https://app.gitbook.com/d4h-incident-management/incident-management) account. 
 
 {% hint style="info" %}
 If you do not see the arrows, you do not have the permission level necessary to access the Admin Area. Only Account Owners can access the Admin Area.
@@ -10,7 +10,7 @@ If you do not see the arrows, you do not have the permission level necessary to 
 
 To import a form into your account:
 
-* Go to the **Admin Area** &gt; **Templates**
+* Go to the **Admin Area **> **Templates**
 * Select Forms and click on **New form template**
 * Expand ➕ **Advanced Options** at the bottom of the page
 * Remove all text from the raw template box, it must be empty
@@ -18,14 +18,14 @@ To import a form into your account:
 * Click **Save**
 * The template will now be available for you to use in your [channels](../channels/)
 
-![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.21.39-pm.png)
+![](<../../.gitbook/assets/Screen Shot 2021-09-29 at 4.21.39 PM.png>)
 
 ## Adding a Status Board
 
 To import a status board into your account:
 
-* Go to the **Admin Area** &gt; **Templates**
-* Select Status Boards and click on **New Status Board**
+* Go to the **Admin Area **> **Templates**
+* Select Status Boards and click on** New Status Board**
 * Expand ➕ **Advanced Options** at the bottom of the page
 * Remove all text from the raw template box, it must be empty
 * You can now paste your code from one of our sample templates into the **Raw template** area
@@ -36,7 +36,7 @@ To import a status board into your account:
 Use the same steps for [Task Board](../task-boards/) templates but select **Task** during the second step instead of Status Board.
 {% endhint %}
 
-![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.19.15-pm.png)
+![](<../../.gitbook/assets/Screen Shot 2021-09-29 at 4.19.15 PM.png>)
 
 ## Customization
 
@@ -53,6 +53,4 @@ Ideas for possible edits
 
 ## Sharing Your Own Templates
 
-Do you have templates of your own that you want to share with the Bravo Zulu community? Contact [support@d4h.org](mailto:support@d4h.org) to learn more about how to share.   
-
-
+Do you have templates of your own that you want to share with the Bravo Zulu community? Contact [support@d4h.org](mailto:support@d4h.org) to learn more about how to share. \

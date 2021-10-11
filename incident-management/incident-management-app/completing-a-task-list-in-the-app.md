@@ -7,5 +7,4 @@ To complete a task list within the [D4H Incident Management](../getting-started.
 * Click on a task to view more information about it
 * Mark a task as complete by clicking the square box icon to the left of the task and select Complete
 
-![](../../.gitbook/assets/img_3347.jpg)
-
+![](../../.gitbook/assets/IMG\_3347.jpg)

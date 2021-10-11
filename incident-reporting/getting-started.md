@@ -1,38 +1,67 @@
 # D4H Incident Reporting Guide
 
-![](../.gitbook/assets/incident-reporting.png)
+![](<../.gitbook/assets/incident reporting.png>)
 
 [D4H Incident Reporting](https://d4htechnologies.com/incident-reporting) is our re-evaluation software which allows you to automatically generate insightful incident reports with charts, visualizations, and statistics. 
 
 **Getting Started Guide**
 
-{% page-ref page="../user-accounts/quick-start-guide/signing-in-1.md" %}
+{% content-ref url="../user-accounts/quick-start-guide/signing-in-1.md" %}
+[signing-in-1.md](../user-accounts/quick-start-guide/signing-in-1.md)
+{% endcontent-ref %}
 
-{% page-ref page="incident-reports.md" %}
+{% content-ref url="incident-reports.md" %}
+[incident-reports.md](incident-reports.md)
+{% endcontent-ref %}
 
-{% page-ref page="location-bookmarks.md" %}
+{% content-ref url="location-bookmarks.md" %}
+[location-bookmarks.md](location-bookmarks.md)
+{% endcontent-ref %}
 
-{% page-ref page="incident-timestamps/" %}
+{% content-ref url="incident-timestamps/" %}
+[incident-timestamps](incident-timestamps/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/reports/" %}
+{% content-ref url="../shared-services/reports/" %}
+[reports](../shared-services/reports/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/health-and-safety-reports/" %}
+{% content-ref url="../shared-services/health-and-safety-reports/" %}
+[health-and-safety-reports](../shared-services/health-and-safety-reports/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/cost-recovery/" %}
+{% content-ref url="../shared-services/cost-recovery/" %}
+[cost-recovery](../shared-services/cost-recovery/)
+{% endcontent-ref %}
 
-{% page-ref page="persons-involved/" %}
+{% content-ref url="persons-involved/" %}
+[persons-involved](persons-involved/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/custom-fields/" %}
+{% content-ref url="../shared-services/custom-fields/" %}
+[custom-fields](../shared-services/custom-fields/)
+{% endcontent-ref %}
 
-{% page-ref page="automatic-weather-data/" %}
+{% content-ref url="automatic-weather-data/" %}
+[automatic-weather-data](automatic-weather-data/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/charts/" %}
+{% content-ref url="../shared-services/charts/" %}
+[charts](../shared-services/charts/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/tags/" %}
+{% content-ref url="../shared-services/tags/" %}
+[tags](../shared-services/tags/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/resources/" %}
+{% content-ref url="../shared-services/resources/" %}
+[resources](../shared-services/resources/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/address-book/" %}
+{% content-ref url="../shared-services/address-book/" %}
+[address-book](../shared-services/address-book/)
+{% endcontent-ref %}
 
-{% page-ref page="../shared-services/api/" %}
-
+{% content-ref url="../shared-services/api/" %}
+[api](../shared-services/api/)
+{% endcontent-ref %}

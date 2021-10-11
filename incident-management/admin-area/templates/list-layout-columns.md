@@ -4,11 +4,11 @@
 
 The header row of columns that appears along the top of your [Status Board](../../status-boards/) or [Task Board](../../task-boards/) on their list view can be modified.
 
-![](../../../.gitbook/assets/list-layout-columns.png)
+![](<../../../.gitbook/assets/list layout columns.png>)
 
 To edit the list layout columns open the [Admin Area](../):
 
-* Open templates and click **Edit** on the relevant template
+* Open templates and click **Edit **on the relevant template
 * Scroll to the bottom to **List Layout Columns**
 * Here you can add or remove fields to the list view
 * Drag & drop fields to re-order the columns
@@ -17,6 +17,4 @@ To edit the list layout columns open the [Admin Area](../):
 
 
 
-  
-
-
+\

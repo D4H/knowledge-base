@@ -7,5 +7,4 @@ To turn on the persons involved module:
 * Go to ![](../../.gitbook/assets/wrench.png)**Settings** and under **Modules** select Persons Involved
 * Select **ON** or **OFF**
 
-![](../../.gitbook/assets/turning-on-persons-involved.png)
-
+![](<../../.gitbook/assets/turning on persons involved.png>)

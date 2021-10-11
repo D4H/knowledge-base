@@ -6,10 +6,9 @@ Once you have [loaded map layers](loading-map-layers-in-collections.md) into [Co
 
 * Go to your open channel 
 * Go to the [Map](./)
-* Click on the gear cog ![](../../.gitbook/assets/gear-icon.png) icon
-* Select ![](../../.gitbook/assets/import-icon.png) Import layer
+* Click on the gear cog ![](<../../.gitbook/assets/gear icon.png>) icon
+* Select ![](<../../.gitbook/assets/import icon.png>) Import layer
 
-![](../../.gitbook/assets/importing-map-layers-into-a-channel.png)
+![](<../../.gitbook/assets/importing map layers into a channel.png>)
 
 Your collection data will now be available to import into your channel.
-

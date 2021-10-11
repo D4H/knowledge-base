@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Shelters status board to quickly view which shelters are at capacity and determine where to send your residents. View their contact details and what types of facilities they offer. Use the map tab to see where the shelters are located. Add the [Residents](residents.md) status board to your account as well in order to link your residents to specific shelters.   
-  
+Use the Shelters status board to quickly view which shelters are at capacity and determine where to send your residents. View their contact details and what types of facilities they offer. Use the map tab to see where the shelters are located. Add the [Residents](residents.md) status board to your account as well in order to link your residents to specific shelters. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-23-at-1.52.42-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-23 at 1.52.42 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-23-at-1.51.40-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-23 at 1.51.40 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Shelters",
   "defaultColor": null,
@@ -190,6 +190,4 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 

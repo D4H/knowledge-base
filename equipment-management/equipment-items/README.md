@@ -2,31 +2,43 @@
 
 These are your physical items of equipment. See below examples of [Categories and Kinds](../untitled/) and the items of equipment in each. 
 
-|  Category  |  Kind  |  Item  |
-| :--- | :--- | :--- |
-|  Communications  |  Portable GPS  |  \#GPS-1  |
-|  |  |  \#GPS-2  |
-|  |  Laptop  |  \#Dell-1  |
-|  |  |  \#Dell-2  |
-|  Vehicle  |  4x4 SUV, Heavy Tow  |  \#DISCO-1  |
-|  |  |  \#DISCO-2  |
-|  |  |  \#DISCO-3  |
+| <p> Category<br></p>       | <p> Kind<br></p>               | <p> Item<br></p>     |
+| -------------------------- | ------------------------------ | -------------------- |
+| <p> Communications<br></p> | <p> Portable GPS<br></p>       | <p> #GPS-1<br></p>   |
+|                            |                                | <p> #GPS-2<br></p>   |
+|                            | <p> Laptop<br></p>             | <p> #Dell-1<br></p>  |
+|                            |                                | <p> #Dell-2<br></p>  |
+| <p> Vehicle<br></p>        | <p> 4x4 SUV, Heavy Tow<br></p> | <p> #DISCO-1<br></p> |
+|                            |                                | <p> #DISCO-2<br></p> |
+|                            |                                | <p> #DISCO-3<br></p> |
 
-{% page-ref page="creating-an-item-of-equipment.md" %}
+{% content-ref url="creating-an-item-of-equipment.md" %}
+[creating-an-item-of-equipment.md](creating-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="viewing-an-item-of-equipment.md" %}
+{% content-ref url="viewing-an-item-of-equipment.md" %}
+[viewing-an-item-of-equipment.md](viewing-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="updating-an-item-of-equipment.md" %}
+{% content-ref url="updating-an-item-of-equipment.md" %}
+[updating-an-item-of-equipment.md](updating-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="deleting-an-item-of-equipment.md" %}
+{% content-ref url="deleting-an-item-of-equipment.md" %}
+[deleting-an-item-of-equipment.md](deleting-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="updating-the-status-on-an-item-of-equipment.md" %}
+{% content-ref url="updating-the-status-on-an-item-of-equipment.md" %}
+[updating-the-status-on-an-item-of-equipment.md](updating-the-status-on-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="duplicating-an-item-of-equipment.md" %}
+{% content-ref url="duplicating-an-item-of-equipment.md" %}
+[duplicating-an-item-of-equipment.md](duplicating-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="setting-the-profile-photo-for-an-item-of-equipment.md" %}
-
-
+{% content-ref url="setting-the-profile-photo-for-an-item-of-equipment.md" %}
+[setting-the-profile-photo-for-an-item-of-equipment.md](setting-the-profile-photo-for-an-item-of-equipment.md)
+{% endcontent-ref %}
 
 
 

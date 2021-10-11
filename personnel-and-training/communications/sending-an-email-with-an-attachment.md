@@ -4,7 +4,7 @@ There is no facility to attach files when emailing directly from the communicati
 
 * After you have selected your recipients, click **Mailto: Export**
 * This will open your default email client with all the recipient addresses already inserted
-* You can then attach files as you normally would in your email 
+* You can then attach files as you normally would in your email\
 
-![](../../.gitbook/assets/sending-emails-with-attachments.png)
 
+![](<../../.gitbook/assets/sending emails with attachments.png>)

@@ -8,7 +8,5 @@ To display equipment data by location in the [D4H Equipment Management](../getti
 * The location will now appear as a banner on the top of the screen
 * To clear the location filtering, click **Clear**
 
-![](../../.gitbook/assets/img_3349.jpg)
-
-
+![](../../.gitbook/assets/IMG\_3349.jpg)
 

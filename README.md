@@ -18,17 +18,17 @@ It is easy for new users to get started with D4H. If you have received an invite
 
 If you are an administrator for your organization, check out the product guides below to find information about configuring and using your account. 
 
-### ![](.gitbook/assets/pt-rounded.png) ****[**Personnel & Training Administrators**](personnel-and-training/getting-started.md)\*\*\*\*
+### ![](.gitbook/assets/PT-rounded.png)** **[**Personnel & Training Administrators**](personnel-and-training/getting-started.md)****
 
-### \*\*\*\*![](.gitbook/assets/em-rounded.png) ****[**Equipment Management Administrators**](equipment-management/getting-started.md)\*\*\*\*
+### ****![](.gitbook/assets/EM-rounded.png)** **[**Equipment Management Administrators**](equipment-management/getting-started.md)****
 
-### \*\*\*\*![](.gitbook/assets/im-rounded.png) ****[**Incident Management Administrators**](incident-management/getting-started.md) ****
+### ****![](.gitbook/assets/IM-rounded.png)** **[**Incident Management Administrators**](incident-management/getting-started.md)** **
 
-### \*\*\*\*![](.gitbook/assets/ir-rounded.png) ****[**Incident Reporting Administrators**](incident-reporting/getting-started.md)\*\*\*\*
+### ****![](.gitbook/assets/IR-rounded.png)** **[**Incident Reporting Administrators**](incident-reporting/getting-started.md)****
 
 ## Product Updates & Release Notes
 
-See our [release notes](https://updates.d4htechnologies.com/) for information about product updates and new features.
+See our [release notes](https://updates.d4htechnologies.com) for information about product updates and new features.
 
 ## Help Desk
 
@@ -45,6 +45,4 @@ For pricing, sales, demos, and upgrades please contact your account manager dire
 ### Billing & Finance
 
 If you have a question about your bill payments, invoicing, purchase order or finance, please contact [finance@d4h.org](mailto:finance@d4h.org).
-
-
 

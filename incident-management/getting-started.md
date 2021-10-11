@@ -1,38 +1,69 @@
 # D4H Incident Management Guide
 
-![](../.gitbook/assets/incident-management-overivew.png)
+![](<../.gitbook/assets/incident management overivew.png>)
 
 [D4H Incident Management](http://d4htechnologies.com/incident-management) is our real-time platform for managing an incident or event in real-time.
 
-{% page-ref page="channels/" %}
+{% content-ref url="channels/" %}
+[channels](channels/)
+{% endcontent-ref %}
 
-{% page-ref page="dashboard/" %}
+{% content-ref url="dashboard/" %}
+[dashboard](dashboard/)
+{% endcontent-ref %}
 
-{% page-ref page="situation/" %}
+{% content-ref url="situation/" %}
+[situation](situation/)
+{% endcontent-ref %}
 
-{% page-ref page="../personnel-and-training/roles/" %}
+{% content-ref url="../personnel-and-training/roles/" %}
+[roles](../personnel-and-training/roles/)
+{% endcontent-ref %}
 
-{% page-ref page="forms/" %}
+{% content-ref url="forms/" %}
+[forms](forms/)
+{% endcontent-ref %}
 
-{% page-ref page="map/" %}
+{% content-ref url="map/" %}
+[map](map/)
+{% endcontent-ref %}
 
-{% page-ref page="updates/" %}
+{% content-ref url="updates/" %}
+[updates](updates/)
+{% endcontent-ref %}
 
-{% page-ref page="status-boards/" %}
+{% content-ref url="status-boards/" %}
+[status-boards](status-boards/)
+{% endcontent-ref %}
 
-{% page-ref page="task-boards/" %}
+{% content-ref url="task-boards/" %}
+[task-boards](task-boards/)
+{% endcontent-ref %}
 
-{% page-ref page="personnel/" %}
+{% content-ref url="personnel/" %}
+[personnel](personnel/)
+{% endcontent-ref %}
 
-{% page-ref page="library/" %}
+{% content-ref url="library/" %}
+[library](library/)
+{% endcontent-ref %}
 
-{% page-ref page="mass-notifications/" %}
+{% content-ref url="mass-notifications/" %}
+[mass-notifications](mass-notifications/)
+{% endcontent-ref %}
 
-{% page-ref page="weather.md" %}
+{% content-ref url="weather.md" %}
+[weather.md](weather.md)
+{% endcontent-ref %}
 
-{% page-ref page="integrations/" %}
+{% content-ref url="integrations/" %}
+[integrations](integrations/)
+{% endcontent-ref %}
 
-{% page-ref page="admin-area/" %}
+{% content-ref url="admin-area/" %}
+[admin-area](admin-area/)
+{% endcontent-ref %}
 
-{% page-ref page="incident-management-app/" %}
-
+{% content-ref url="incident-management-app/" %}
+[incident-management-app](incident-management-app/)
+{% endcontent-ref %}

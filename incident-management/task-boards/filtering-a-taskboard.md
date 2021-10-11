@@ -6,11 +6,10 @@ You can filter a task board so that it displays only the tasks that have been as
 
 * Click the **filter** icon
 * Click **My Items**
-* Now only your tasks and your team's tasks are showing 
+* Now only your tasks and your team's tasks are showing\
 
-![](../../.gitbook/assets/filtering-a-taskboard.png)
+
+![](<../../.gitbook/assets/filtering a taskboard.png>)
 
 {% embed url="https://youtu.be/KvMdGT8gvWE" %}
-
-
 

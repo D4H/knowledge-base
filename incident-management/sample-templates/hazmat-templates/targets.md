@@ -8,15 +8,15 @@ Use the Targets status board to track information about the locations and items 
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.38.40-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.38.40 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.39.30-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.39.30 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Targets",
   "nameLabel": "Description",
@@ -176,6 +176,4 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 

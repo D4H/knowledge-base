@@ -8,25 +8,25 @@ You can use the drawing tools on the [map](./) to mark out an area of interest. 
 
 Drawing tools on the main map:
 
-![](../../.gitbook/assets/map-drawing-tools.png)
+![](<../../.gitbook/assets/map drawing tools.png>)
 
 #### MOBILE APP
 
 At present, the main map is not available in the mobile app.
 
-## Location \(Map Feature\) Map
+## Location (Map Feature) Map
 
 #### WEB APP
 
-Drawing tools on the location \(map feature\) field:
+Drawing tools on the location (map feature) field:
 
-![](../../.gitbook/assets/drawing-tools-on-the-location-map-feature-field.png)
+![](<../../.gitbook/assets/drawing tools on the location map feature field.png>)
 
 #### MOBILE APP
 
-![](../../.gitbook/assets/drawing-tools-location-feature-app%20%282%29.png)
+![](<../../.gitbook/assets/drawing tools location feature app (2).png>)
 
-  
+\
 To use the drawing tools follow the steps below.
 
 * Select the shape you wish to use to mark out an area on your map
@@ -46,6 +46,4 @@ The following are examples of what you can use the drawing tools to mark on the 
 * Mark a road / rail line that is closed
 {% endhint %}
 
-  
-
-
+\

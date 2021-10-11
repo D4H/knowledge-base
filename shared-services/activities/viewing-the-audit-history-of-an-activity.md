@@ -8,7 +8,5 @@ To view the audit history of an activity:
 * Here you will see a link **+Show History & Audit**, click this
 * This will give you date and timestamped details about who made changes on that specific activity
 
-![](../../.gitbook/assets/show-history-and-audit.png)
-
-
+![](<../../.gitbook/assets/show history and audit.png>)
 

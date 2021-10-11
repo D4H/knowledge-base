@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Passenger Manifest status board to track injuries and fatalities during an incident. Record which hospitals your passengers are being treated. Write notes to capture any additional information you need.    
-  
+Use the Passenger Manifest status board to track injuries and fatalities during an incident. Record which hospitals your passengers are being treated. Write notes to capture any additional information you need.  \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-22-at-11.18.25-am.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-22 at 11.18.25 AM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-22-at-11.19.55-am.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-22 at 11.19.55 AM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Passenger Manifest",
   "defaultColor": null,
@@ -219,4 +219,3 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-

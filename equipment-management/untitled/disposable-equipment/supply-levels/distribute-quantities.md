@@ -10,7 +10,6 @@ To distribute quantities of a supply to another item:
 * You will now see the quantity of that item increase and the quantity will decrease from the supply on the left hand side
 * Click **Distribute Quantities**
 
-![](../../../../.gitbook/assets/distribute-quantities.png)
+![](<../../../../.gitbook/assets/distribute quantities.png>)
 
-\*\*\*\*
-
+****

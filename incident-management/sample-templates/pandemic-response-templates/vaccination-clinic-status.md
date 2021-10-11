@@ -8,15 +8,15 @@ Use the Vaccination Clinic Status status board to track the daily number of dose
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-3.45.21-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 3.45.21 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-3.49.15-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 3.49.15 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Vaccination Clinic Status",
   "defaultColor": null,
@@ -161,6 +161,4 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 

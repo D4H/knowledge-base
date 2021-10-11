@@ -2,16 +2,20 @@
 
 Complete victim reports including injuries, medical assistance rendered, and outcomes. Record contact details for witnesses, reporting parties, and any other persons involved.
 
-{% page-ref page="turning-on-the-persons-involved-module.md" %}
+{% content-ref url="turning-on-the-persons-involved-module.md" %}
+[turning-on-the-persons-involved-module.md](turning-on-the-persons-involved-module.md)
+{% endcontent-ref %}
 
-{% page-ref page="entering-persons-involved-details.md" %}
+{% content-ref url="entering-persons-involved-details.md" %}
+[entering-persons-involved-details.md](entering-persons-involved-details.md)
+{% endcontent-ref %}
 
-{% page-ref page="deleting-a-person-involved.md" %}
+{% content-ref url="deleting-a-person-involved.md" %}
+[deleting-a-person-involved.md](deleting-a-person-involved.md)
+{% endcontent-ref %}
 
 
 
-  
-
-
+\
 
 

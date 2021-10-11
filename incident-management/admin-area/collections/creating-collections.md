@@ -7,14 +7,14 @@
 Within your [Incident Management](../../getting-started.md) account go to the [Admin Area](../) and follow the steps below.
 
 * Go to **Collections**
-* Click on the module you want to pre-load data into \(this will be a [Form](../../forms/), [Status Board](../../status-boards/) or [Task Board](../../task-boards/) you have already created\)
+* Click on the module you want to pre-load data into (this will be a [Form](../../forms/), [Status Board](../../status-boards/) or [Task Board](../../task-boards/) you have already created)
 * Click **Add**
 * Fill in the details for your item.
 * Add as many items as you would like to pre-load available in all channels.
 
-When you go back to your open channel and go to that module, click on the **Add** button.
+When you go back to your open channel and go to that module, click on the **Add **button.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-15-at-1.20.57-pm%20%282%29.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-15 at 1.20.57 PM (2).png>)
 
 Your collection data will now be available to import into your channel.
 
@@ -35,4 +35,3 @@ For example, pre-load data about your organization:
 * Buildings
 * Fleet
 {% endhint %}
-

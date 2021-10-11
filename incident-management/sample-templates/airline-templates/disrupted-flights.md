@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the disrupted flights status board to track the impact of the incident on air travel. Organize the flights by whether they are delayed slightly, significantly, or cancelled. The customizable form allows you to record any pertinent information your teams need to know and shares it with them in real time. An example table field has been built in for you to use as a starting point.   
-  
+Use the disrupted flights status board to track the impact of the incident on air travel. Organize the flights by whether they are delayed slightly, significantly, or cancelled. The customizable form allows you to record any pertinent information your teams need to know and shares it with them in real time. An example table field has been built in for you to use as a starting point. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-22-at-10.58.37-am.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-22 at 10.58.37 AM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-22-at-10.59.50-am.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-22 at 10.59.50 AM.png>)
 
 {% hint style="info" %}
  Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Disrupted Flights",
 {
@@ -193,4 +193,3 @@ To upload this template into your account, follow the steps on our [Importing Sa
   "defaultShowArchived": false
 }
 ```
-

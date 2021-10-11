@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Residents status board to view contact information for community members affected by the incident. Add the [Shelters](shelters.md) status board to your account as well in order to link your residents to specific shelters.   
-  
+Use the Residents status board to view contact information for community members affected by the incident. Add the [Shelters](shelters.md) status board to your account as well in order to link your residents to specific shelters. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-23-at-1.56.36-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-23 at 1.56.36 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-23-at-1.57.20-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-23 at 1.57.20 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Residents",
   "defaultColor": null,
@@ -95,8 +95,6 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 
 
 

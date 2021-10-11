@@ -10,6 +10,4 @@ When [creating a status board template](./), you can select either Quick Add or 
 
 
 
-  
-
-
+\

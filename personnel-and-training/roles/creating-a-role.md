@@ -2,11 +2,10 @@
 
 To create a role:
 
-* Go to **Intelligence** -&gt; ![Image Placeholder](../../.gitbook/assets/roles%20%281%29.png)**Roles**
+* Go to **Intelligence** -> ![Image Placeholder](<../../.gitbook/assets/roles (1).png>)**Roles**
 * Select **Create New Role**
 * Fill in the role title
-* Select a bundle from the drop down or add a new bundle and set the costing \(if applicable\)
+* Select a bundle from the drop down or add a new bundle and set the costing (if applicable)
 * Click **Add Role**
 
-![](../../.gitbook/assets/creating-a-role.gif)
-
+![](<../../.gitbook/assets/creating a role.gif>)

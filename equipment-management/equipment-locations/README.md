@@ -1,21 +1,29 @@
 # Equipment Locations
 
-Equipment locations help you isolate your equipment cache into specific storage locations. They should be permanent, non-movable locations such as a warehouse or vehicle bay; not gear bags or vehicles.  
-  
-Permissioned members can filter equipment by location and create printable lists of equipment on a per-site basis.  
+Equipment locations help you isolate your equipment cache into specific storage locations. They should be permanent, non-movable locations such as a warehouse or vehicle bay; not gear bags or vehicles.\
+\
+Permissioned members can filter equipment by location and create printable lists of equipment on a per-site basis.\
 
 
-![](../../.gitbook/assets/equipment-locations.png)
+![](<../../.gitbook/assets/equipment locations.png>)
 
-{% page-ref page="../equipment-items/creating-an-item-of-equipment.md" %}
+{% content-ref url="../equipment-items/creating-an-item-of-equipment.md" %}
+[creating-an-item-of-equipment.md](../equipment-items/creating-an-item-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="updating-an-equipment-location.md" %}
+{% content-ref url="updating-an-equipment-location.md" %}
+[updating-an-equipment-location.md](updating-an-equipment-location.md)
+{% endcontent-ref %}
 
-{% page-ref page="issuing-equipment-to-a-team-member.md" %}
+{% content-ref url="issuing-equipment-to-a-team-member.md" %}
+[issuing-equipment-to-a-team-member.md](issuing-equipment-to-a-team-member.md)
+{% endcontent-ref %}
 
-{% page-ref page="nesting-items-of-equipment-within-other-items.md" %}
+{% content-ref url="nesting-items-of-equipment-within-other-items.md" %}
+[nesting-items-of-equipment-within-other-items.md](nesting-items-of-equipment-within-other-items.md)
+{% endcontent-ref %}
 
-{% page-ref page="bulk-moving-items-of-equipment.md" %}
-
-
+{% content-ref url="bulk-moving-items-of-equipment.md" %}
+[bulk-moving-items-of-equipment.md](bulk-moving-items-of-equipment.md)
+{% endcontent-ref %}
 

@@ -6,10 +6,13 @@ Build a schedule of pre-planned training exercises and request [personnel](../un
 
 ### Events
 
-Log activities such as meetings, maintenance, public events, and any other activities on your activities [calendar](../calendar/). Request attendance and collect attendance responses in real-time and compile [reports](../../shared-services/reports/) which can then be published for your records.  
+Log activities such as meetings, maintenance, public events, and any other activities on your activities [calendar](../calendar/). Request attendance and collect attendance responses in real-time and compile [reports](../../shared-services/reports/) which can then be published for your records.\
 
 
-{% page-ref page="../../shared-services/activities/creating-a-new-activity-incident-exercise-event.md" %}
+{% content-ref url="../../shared-services/activities/creating-a-new-activity-incident-exercise-event.md" %}
+[creating-a-new-activity-incident-exercise-event.md](../../shared-services/activities/creating-a-new-activity-incident-exercise-event.md)
+{% endcontent-ref %}
 
-{% page-ref page="duplicating-activities.md" %}
-
+{% content-ref url="duplicating-activities.md" %}
+[duplicating-activities.md](duplicating-activities.md)
+{% endcontent-ref %}

@@ -8,15 +8,21 @@ Collections are designed to allow you to store content to be re-used again & aga
 **Example:** You might decide to pre-load all of your information about your personnel, roads, buildings, fleet, rivers, shelters, etc. before an incident occurs. This will make it easy to retrieve during the event.
 {% endhint %}
 
-{% page-ref page="creating-collections.md" %}
+{% content-ref url="creating-collections.md" %}
+[creating-collections.md](creating-collections.md)
+{% endcontent-ref %}
 
-{% page-ref page="importing-collections-into-a-channel.md" %}
+{% content-ref url="importing-collections-into-a-channel.md" %}
+[importing-collections-into-a-channel.md](importing-collections-into-a-channel.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../plays/including-collections-in-a-play.md" %}
+{% content-ref url="../../plays/including-collections-in-a-play.md" %}
+[including-collections-in-a-play.md](../../plays/including-collections-in-a-play.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../personnel/adding-personnel-in-collections.md" %}
+{% content-ref url="../../personnel/adding-personnel-in-collections.md" %}
+[adding-personnel-in-collections.md](../../personnel/adding-personnel-in-collections.md)
+{% endcontent-ref %}
 
-![](../../../.gitbook/assets/collections-overview.png)
-
-
+![](<../../../.gitbook/assets/collections overview.png>)
 

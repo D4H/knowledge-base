@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Clues template to track clues found in the field. Mark their location on the map, record actions taken, and upload a photo. Assign the clues a relevancy rating \(high, medium, or low\) and quickly see their priority for follow-up searches.   
-  
+Use the Clues template to track clues found in the field. Mark their location on the map, record actions taken, and upload a photo. Assign the clues a relevancy rating (high, medium, or low) and quickly see their priority for follow-up searches. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/e5f0d097-19ce-48ae-b996-294515606ec2%20%281%29.png)
+![](<../../../.gitbook/assets/e5f0d097-19ce-48ae-b996-294515606ec2 (1).png>)
 
-![](../../../.gitbook/assets/af1b5d5c-6267-4a5e-8510-a8db9c8b7c42%20%281%29.png)
+![](<../../../.gitbook/assets/af1b5d5c-6267-4a5e-8510-a8db9c8b7c42 (1).png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Clues",
   "defaultColor": null,
@@ -106,4 +106,3 @@ Copy the code below to add this template to your account
   }
 }
 ```
-

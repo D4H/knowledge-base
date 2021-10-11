@@ -2,17 +2,18 @@
 
 ![](../../.gitbook/assets/worldtext.png)
 
-[https://www.world-text.com](https://www.world-text.com/)
+[https://www.world-text.com](https://www.world-text.com)
 
 Specialist inbound and two way bulk text messaging experts.
 
 ## D4H Personnel & Training
 
-World Text can be configured as a gateway to deliver SMS messages to your members from our [Communications ](../../personnel-and-training/communications/)module in [Personnel & Training](../../personnel-and-training/getting-started.md).  
-  
+World Text can be configured as a gateway to deliver SMS messages to your members from our [Communications ](../../personnel-and-training/communications/)module in [Personnel & Training](../../personnel-and-training/getting-started.md).\
+\
 **Configuring World Text**
 
-* Follow our instructions on [Adding Communication Providers](../../personnel-and-training/communications/adding-communication-providers.md) 
+* Follow our instructions on [Adding Communication Providers](../../personnel-and-training/communications/adding-communication-providers.md)\
+
 
 **Using World Text**
 
@@ -23,11 +24,12 @@ See all Personnel & Training [Integrations](../../personnel-and-training/personn
 
 ## D4H Incident Management
 
-World Text can be configured as a mass notifications provider within [Incident Management](../getting-started.md). This will add World Text as a provider for [Mass Notifications](../mass-notifications/).  
-  
+World Text can be configured as a mass notifications provider within [Incident Management](../getting-started.md). This will add World Text as a provider for [Mass Notifications](../mass-notifications/).\
+\
 **Configuring World Text**
 
-* See our instructions on [Adding Mass-Notification Providers](../mass-notifications/adding-mass-notification-providers.md) 
+* See our instructions on [Adding Mass-Notification Providers](../mass-notifications/adding-mass-notification-providers.md)\
+
 
 **Using World Text**
 
@@ -36,4 +38,3 @@ World Text can be configured as a mass notifications provider within [Incident M
 * Your World Text address book contacts are not accessed by D4H.
 
 See all Incident Management [Integrations](./).
-

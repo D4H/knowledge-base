@@ -8,15 +8,15 @@ Use the Air Monitoring status board to record results of air quality investigati
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.21.49-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.21.49 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.22.29-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.22.29 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Air Monitoring",
   "defaultColor": null,
@@ -181,6 +181,4 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 

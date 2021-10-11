@@ -4,19 +4,19 @@
 This article is part of [sample templates](../) for Incident Management
 {% endhint %}
 
-Use the Crew status board to track injuries and fatalities during an incident. Record which hospitals your crew members are being treated at by linking to a medical facilities status board. Easily access the crew member's emergency contact details to keep their family updated.   
-  
+Use the Crew status board to track injuries and fatalities during an incident. Record which hospitals your crew members are being treated at by linking to a medical facilities status board. Easily access the crew member's emergency contact details to keep their family updated. \
+\
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-22-at-11.10.05-am.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-22 at 11.10.05 AM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-22-at-11.10.30-am.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-22 at 11.10.30 AM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Crew",
   "defaultColor": null,
@@ -283,4 +283,3 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-

@@ -1,6 +1,6 @@
 # Incident Management App
 
-![](../../.gitbook/assets/incident-management-mobile-app.png)
+![](<../../.gitbook/assets/incident management mobile app.png>)
 
 Use the Incident Management mobile app to manage your resources.  Remotely assign roles, view and update the situation, fill out forms, and complete tasks. Any changes made in the app will appear live on all other platforms as long as you are connected to the internet. All D4H apps allow for the use of [biometric authentication](../../shared-services/biometric-authentication.md) to secure your data.
 
@@ -16,7 +16,7 @@ Assign [personnel ](../personnel/)to existing [roles](../roles/) in the app by c
 
 ## Forms
 
-Complete existing[ forms](../forms/) in the app by clicking on the forms and then selecting fields to add to. Add new forms by clicking the **+** in the bottom right and selecting a form type from the list of [templates](../admin-area/templates/).
+Complete existing[ forms](../forms/) in the app by clicking on the forms and then selecting fields to add to. Add new forms by clicking the **+ **in the bottom right and selecting a form type from the list of [templates](../admin-area/templates/).
 
 ## Updates
 
@@ -40,16 +40,18 @@ Store [files](../library/adding-a-new-file.md) and [links](../library/adding-a-n
 
 
 
-{% page-ref page="../roles/creating-teams-and-roles.md" %}
+{% content-ref url="../roles/creating-teams-and-roles.md" %}
+[creating-teams-and-roles.md](../roles/creating-teams-and-roles.md)
+{% endcontent-ref %}
 
-{% page-ref page="completing-a-task-list-in-the-app.md" %}
-
-
-
-
-
-
-
-  
+{% content-ref url="completing-a-task-list-in-the-app.md" %}
+[completing-a-task-list-in-the-app.md](completing-a-task-list-in-the-app.md)
+{% endcontent-ref %}
 
 
+
+
+
+
+
+\

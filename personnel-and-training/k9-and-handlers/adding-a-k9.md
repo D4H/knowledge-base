@@ -2,8 +2,7 @@
 
 To add a K9
 
-* Go to **Planning** -&gt;  ![Image Placeholder](../../.gitbook/assets/paw.png) **K9**
-* Click **Add Animal**
+* Go to **Planning** ->  ![Image Placeholder](../../.gitbook/assets/paw.png) **K9**
+* Click** Add Animal**
 * Fill in the details
 * Click **Add Animal**
-

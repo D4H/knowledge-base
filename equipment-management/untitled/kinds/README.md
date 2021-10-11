@@ -2,19 +2,23 @@
 
 Kinds should be a singular broad statement describing your items of [equipment](../../getting-started.md).
 
-{% page-ref page="creating-a-kind-of-equipment.md" %}
+{% content-ref url="creating-a-kind-of-equipment.md" %}
+[creating-a-kind-of-equipment.md](creating-a-kind-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="deleting-kinds-of-equipment.md" %}
+{% content-ref url="deleting-kinds-of-equipment.md" %}
+[deleting-kinds-of-equipment.md](deleting-kinds-of-equipment.md)
+{% endcontent-ref %}
 
-{% page-ref page="updating-a-kind-of-equipment.md" %}
-
-
-
-
-
-
-
-  
-  
+{% content-ref url="updating-a-kind-of-equipment.md" %}
+[updating-a-kind-of-equipment.md](updating-a-kind-of-equipment.md)
+{% endcontent-ref %}
 
 
+
+
+
+
+
+\
+\

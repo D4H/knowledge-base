@@ -10,7 +10,6 @@ To set the profile photo for an [item](./) of equipment, you need to attach the 
 * Upload the relevant image and click **Upload Files**
 * This image will now be shared across all items of the same manufacturer and model
 
-{% embed url="https://youtu.be/1IoAq0\_aPxs" %}
+{% embed url="https://youtu.be/1IoAq0_aPxs" %}
 
-\*\*\*\*
-
+****

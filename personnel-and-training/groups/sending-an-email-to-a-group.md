@@ -6,7 +6,6 @@ It is possible to send an email to a group. To do this:
 * Select the **Send Message** button on the right
 * Fill out the subject and message sections and click **Send Message**
 
-![](../../.gitbook/assets/sending-an-email-to-a-group.gif)
+![](<../../.gitbook/assets/sending an email to a group.gif>)
 
-## 
-
+##

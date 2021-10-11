@@ -8,15 +8,15 @@ Use the Medical Resource Requests status board to coordinate resource distributi
 
 To upload this template into your account, follow the steps on our [Importing Sample Templates](../importing-sample-templates.md) page.
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.01.26-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.01.26 PM.png>)
 
-![](../../../.gitbook/assets/screen-shot-2021-09-27-at-4.00.49-pm.png)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-27 at 4.00.49 PM.png>)
 
 {% hint style="info" %}
 Copy the code below to add this template to your account
 {% endhint %}
 
-```text
+```
 {
   "name": "Medical Resource Requests",
   "defaultColor": null,
@@ -309,6 +309,4 @@ Copy the code below to add this template to your account
   "defaultShowArchived": false
 }
 ```
-
-
 

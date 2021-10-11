@@ -1,9 +1,9 @@
 # Connect Rocket
 
-![](../../.gitbook/assets/connect-rocket.png)
+![](<../../.gitbook/assets/connect rocket.png>)
 
-[https://www.connectrocket.com/](https://www.connectrocket.com/)  
-  
+[https://www.connectrocket.com/](https://www.connectrocket.com)\
+\
 Team Emergency Paging, Conference Calls, SMS Text Messages
 
 ## D4H Personnel & Training
@@ -19,4 +19,3 @@ Connect Rocket is a tasking and communication tool used by leading emergency ser
 * To use the integration, follow the instructions to send a new message through our [Communications](../communications/) module.
 
 See all [Personal & Training Integrations](./).
-

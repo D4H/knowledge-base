@@ -8,7 +8,5 @@ You can easily search a [status board ](./)by typing into the search box. You ca
 
 
 
-  
-  
-
-
+\
+\

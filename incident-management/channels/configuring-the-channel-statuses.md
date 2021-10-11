@@ -1,30 +1,30 @@
 # Configuring the Channel Statuses
 
-![](../../.gitbook/assets/configuring-the-channel-statuses.png)
+![](<../../.gitbook/assets/configuring the channel statuses.png>)
 
 #### WEB APP
 
 You can configure the Status field on your [Situation Report](../situation/) to list the statuses that you currently use when logging an incident / event.
 
 * Go to the[ Admin Area](../admin-area/)
-* Open Settings &gt; **Channel statuses**
+* Open Settings > **Channel statuses**
 * Click **New channel status**
 
-## Name \(Required\)
+## Name (Required)
 
 This is the status name that will appear in the drop down field on the SITREP and it will appear in the top panel of the open incident / event.
 
-## Unique name \(Required\)
+## Unique name (Required)
 
 The unique name is auto-generated.
 
-## Setting a Color \(Optional\)
+## Setting a Color (Optional)
 
 There are a set number of colours to choose from. The status will display in this colour font on your SITREP.
 
-![](../../.gitbook/assets/setting-a-color.png)
+![](<../../.gitbook/assets/setting a color.png>)
 
-## Description \(Optional\)
+## Description (Optional)
 
 You can add a brief description about the status. 
 
@@ -48,11 +48,12 @@ You can add a brief description about the status.
 
 #### MOBILE APP
 
-* To change the channel status in the mobile app click on **No Status** 
+* To change the channel status in the mobile app click on **No Status**\
 
-![](../../.gitbook/assets/change-status-in-the-mobile-app.png)
 
-* Choose the status from your configured statuses and click **Save** 
+![](<../../.gitbook/assets/change status in the mobile app.png>)
 
-![](../../.gitbook/assets/change-status-in-mobile-app-2.png)
+* Choose the status from your configured statuses and click **Save**\
 
+
+![](<../../.gitbook/assets/change status in mobile app 2.png>)
