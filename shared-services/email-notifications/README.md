@@ -10,7 +10,9 @@ To set up email alerts for yourself or members of your team:
 
 ![](<../../.gitbook/assets/manage email.png>)
 
-## Weekly Briefing / Qualification Alerts / Daily Digest 
+Weekly Briefing / Qualification Alerts / Daily Digest\
+
+
 
 * Click into any of the above and simply tick the name of the individuals you want to subscribe to the alerts
 * Click** Save Changes**\

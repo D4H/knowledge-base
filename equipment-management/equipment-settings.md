@@ -22,9 +22,11 @@ Here you can turn on or off certain modules within Equipment Management:\
 \
 
 
-## Categories & Kinds, Manufacturers, and Suppliers 
+Categories & Kinds, Manufacturers, and Suppliers\
 
-You can configure and edit your [categories & kinds](untitled/), [manufacturers](manufacturers-and-models/), and suppliers. 
+
+
+You can configure and edit your [categories & kinds](untitled/), [manufacturers](manufacturers-and-models/), and suppliers.&#x20;
 
 ![](<../.gitbook/assets/categories and kinds settings.png>)
 
@@ -32,4 +34,4 @@ You can configure and edit your [categories & kinds](untitled/), [manufacturers]
 
 ## Retired Reasons
 
-Here you can add in retired reasons for your equipment such as 'Failed Inspection'. 
+Here you can add in retired reasons for your equipment such as 'Failed Inspection'.&#x20;

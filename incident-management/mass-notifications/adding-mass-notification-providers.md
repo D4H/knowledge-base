@@ -2,14 +2,16 @@
 
 #### WEB APP
 
-Follow the below instructions to add a [Mass Notification](./) provider to your [Incident Management](../getting-started.md) account. 
+Follow the below instructions to add a [Mass Notification](./) provider to your [Incident Management](../getting-started.md) account.&#x20;
 
 * Open up the [Admin Area](../admin-area/)
 * Navigate to **Settings** > **Mass Notifications**
 * Select the provider you want to add from the drop down\
 
 
-## Everbridge 
+Everbridge\
+
+
 
 * Click on **Setup Everbridge Integration**
 * You will need to enter your Everbridge username and password

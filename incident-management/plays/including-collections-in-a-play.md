@@ -19,13 +19,13 @@ For example, to add a team and the respective roles to your play follow the step
 
 \
 \
-You can pre-load content in collections for all of the modules shown below. To add the content to your play, simply click the \[Select items] button next to the module name. 
+You can pre-load content in collections for all of the modules shown below. To add the content to your play, simply click the \[Select items] button next to the module name.&#x20;
 
 ![](<../../.gitbook/assets/selecting modules for play.png>)
 
 ## Pre-assigning Roles in a Play
 
-For example, this is how you would pre-assign roles: 
+For example, this is how you would pre-assign roles:&#x20;
 
 * Click** Select items **next to the Personnel & Roles module
 * Expand the team
@@ -35,7 +35,7 @@ For example, this is how you would pre-assign roles:
 * Whenever this play is selected when opening a new channel, the role will already be assigned to the individual in the Roles module in your channel
 
 {% hint style="info" %}
-The checkbox 'Import all remaining personnel into the \__\__ team' means all personnel that were not assigned a Role in the play will be imported in the specified team. This will cause all personnel from your collections to be imported into the channel. Do not tick this if you do not want all personnel to have access to any channel that is started by selecting this play. 
+The checkbox 'Import all remaining personnel into the \_\_\_\_ team' means all personnel that were not assigned a Role in the play will be imported in the specified team. This will cause all personnel from your collections to be imported into the channel. Do not tick this if you do not want all personnel to have access to any channel that is started by selecting this play.&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/assigning roles in a play.gif>)

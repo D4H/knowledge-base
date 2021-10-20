@@ -21,12 +21,14 @@ You can [connect a mass notifications provider](../mass-notifications/adding-mas
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Example 1:** You could have a mass notification provider with all citizens in your county or state broken into sending groups such as where they live or their vulnerability level. You can select those groups and push messages to them. 
+**Example 1:** You could have a mass notification provider with all citizens in your county or state broken into sending groups such as where they live or their vulnerability level. You can select those groups and push messages to them.&#x20;
 
 **Example 2:** You could have a mass notification provider with all your staff grouped by building or facility. Push messages to them such as evacuation orders.\
 
 {% endhint %}
 
-## Mapping 
+Mapping\
+
+
 
 * Esri ArcGIS Online (Coming Soon)

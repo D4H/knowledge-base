@@ -2,7 +2,7 @@
 
 * [Introduction 👋](README.md)
 
-## Getting Started <a id="user-accounts"></a>
+## Getting Started <a href="user-accounts" id="user-accounts"></a>
 
 * [D4H Quick Start Guide](user-accounts/quick-start-guide/README.md)
   * [Signing-in](user-accounts/quick-start-guide/signing-in-1.md)
@@ -155,6 +155,7 @@
   * [Linking fields to the Situation](incident-management/situation/linking-fields-to-the-situation.md)
   * [Taking a Snapshot](incident-management/situation/taking-a-snapshot.md)
   * [Tagging the Situation in the Log](incident-management/situation/tagging-the-situation-in-the-log.md)
+  * [Hide Event Name Field on Situation](incident-management/situation/hide-event-name-field-on-situation.md)
   * [Printing to PDF](incident-management/situation/printing-to-pdf.md)
   * [Sharing by Email and Public Link](incident-management/situation/sharing-by-email-and-public-link.md)
   * [Viewing the Audit Trail](incident-management/situation/viewing-the-audit-trail.md)
@@ -266,6 +267,9 @@
     * [Shelters](incident-management/sample-templates/emergency-management-eoc/shelters.md)
     * [Residents](incident-management/sample-templates/emergency-management-eoc/residents.md)
     * [Road Damages](incident-management/sample-templates/emergency-management-eoc/road-damages.md)
+  * [Fire & Rescue](incident-management/sample-templates/fire-and-rescue/README.md)
+    * [Damage Assessment](incident-management/sample-templates/fire-and-rescue/damage-assessment.md)
+    * [Medical Monitoring](incident-management/sample-templates/fire-and-rescue/medical-monitoring.md)
   * [Hazmat Templates](incident-management/sample-templates/hazmat-templates/README.md)
     * [Air Monitoring](incident-management/sample-templates/hazmat-templates/air-monitoring.md)
     * [Chemicals](incident-management/sample-templates/hazmat-templates/chemicals.md)
@@ -312,7 +316,7 @@
 * [Email Notifications](shared-services/email-notifications/README.md)
   * [Equipment Alerts](shared-services/email-notifications/equipment-alerts.md)
 * [Activities](shared-services/activities/README.md)
-  * [Creating a new Activity \(Incident / Exercise / Event\)](shared-services/activities/creating-a-new-activity-incident-exercise-event.md)
+  * [Creating a new Activity (Incident / Exercise / Event)](shared-services/activities/creating-a-new-activity-incident-exercise-event.md)
   * [Approving an Activity](shared-services/activities/approving-an-activity.md)
   * [Setting Attendance Periods on an Activity](shared-services/activities/setting-attendance-periods-on-an-activity.md)
   * [Track Equipment Usage](shared-services/activities/track-equipment-usage.md)
@@ -338,10 +342,10 @@
   * [Custom Field Bundles](shared-services/bundles/custom-field-bundles.md)
   * [Tag Bundles](shared-services/bundles/tag-bundles.md)
   * [Role Bundles](shared-services/bundles/role-bundles.md)
-  * [Location Bundles \(Equipment Management\)](shared-services/bundles/location-bundles-equipment-management.md)
-  * [Inspection bundles \(Equipment Management\)](shared-services/bundles/inspection-bundles-equipment-management.md)
-  * [Qualification Bundles \(Personnel & Training\)](shared-services/bundles/qualification-bundles-personnel-and-training.md)
-  * [Group Bundles \(Personnel & Training\)](shared-services/bundles/group-bundles-personnel-and-training.md)
+  * [Location Bundles (Equipment Management)](shared-services/bundles/location-bundles-equipment-management.md)
+  * [Inspection bundles (Equipment Management)](shared-services/bundles/inspection-bundles-equipment-management.md)
+  * [Qualification Bundles (Personnel & Training)](shared-services/bundles/qualification-bundles-personnel-and-training.md)
+  * [Group Bundles (Personnel & Training)](shared-services/bundles/group-bundles-personnel-and-training.md)
 * [Resources](shared-services/resources/README.md)
   * [Adding a resource](shared-services/resources/adding-a-resource.md)
   * [Deleting resources](shared-services/resources/deleting-resources.md)
@@ -362,9 +366,8 @@
   * [Adding a Custom Field](shared-services/custom-fields/adding-a-custom-field.md)
   * [Deleting a Custom Field](shared-services/custom-fields/deleting-a-custom-field.md)
 * [Biometric Authentication](shared-services/biometric-authentication.md)
-* [Application Programming Interface \(API\)](shared-services/api/README.md)
+* [Application Programming Interface (API)](shared-services/api/README.md)
   * [API Quick Start Guide](shared-services/api/api-quick-start-guide.md)
   * [Activating the API Access module](shared-services/api/activating-the-api-access-module.md)
   * [Why has my API key stopped working?](shared-services/api/why-has-my-api-key-stopped-working.md)
   * [Obtaining an API access key](shared-services/api/obtaining-an-api-access-key.md)
-
