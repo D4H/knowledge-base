@@ -9,7 +9,8 @@ You can pin any field from the [Situation ](../situation/)to the [Dashboard](./)
 * Go to the [Admin Area ](../admin-area/)and Templates
 * Open the Situation template
 * Hover your mouse over the field you wish to pin and further options will appear on the right hand side of the field
-* Click on the pin ![Image Placeholder](<../../.gitbook/assets/pin icon.png>) symbol
+* Click the ⋮ menu
+* Select ![Image Placeholder](<../../.gitbook/assets/pin icon.png>) Show on the dashboard
 * It will now say ![](<../../.gitbook/assets/pin icon.png>) This field will be shown on the dashboard\
 
 
