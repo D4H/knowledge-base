@@ -3,7 +3,7 @@
 **Access Level Required: Owner, Editor, Member**
 
 {% hint style="info" %}
-This article applies to the products D4H [Personnel & Training](../../personnel-and-training/getting-started.md), [Equipment Management](../../equipment-management/getting-started.md), and [Incident Reporting](../../incident-reporting/getting-started.md). 
+This article applies to the products D4H [Personnel & Training](../../personnel-and-training/getting-started.md), [Equipment Management](../../equipment-management/getting-started.md), and [Incident Reporting](../../incident-reporting/getting-started.md).&#x20;
 {% endhint %}
 
 If you are a member of multiple teams, you can merge them to a single sign in.
@@ -21,7 +21,7 @@ To log in using your single sign in, use any one of your team's URL's or use the
 * Canada: [https://go.ca.d4h.org/](https://go.ca.d4h.org/memberships)
 
 {% hint style="info" %}
-It will not be possible toe merge your accounts if they are on different servers
+It will not be possible to merge your accounts if they are on different servers
 {% endhint %}
 
 ![](<../../.gitbook/assets/decisions SSO.gif>)
