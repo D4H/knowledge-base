@@ -20,6 +20,10 @@ To rearrange your form layout, use the four arrow icons to drag and drop fields 
 
 {% embed url="https://youtu.be/ecoYIwQaL7c" %}
 
+{% hint style="info" %}
+All fields have the option to add hints. These will appear on both the mobile and web applications. Add hints by clicking on the 'Hint (Optional)' part of a field and typing.&#x20;
+{% endhint %}
+
 ## Field Types
 
 * **Text (single-line):** this adds a single line text field to your template, to gather small snippets of information.
