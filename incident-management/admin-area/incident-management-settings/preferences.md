@@ -49,7 +49,7 @@ Set the default format for coordinates in your account
 
 **Incident Reference Template**
 
-Whenever you start a new channel, a reference number will be automatically added to the [Situation](../../situation/) based on the parameters specified in** **this section. Visit the page on [assigning a unique identifier to an incident](../../channels/assigning-a-unique-identifier-to-an-incident.md) for more information.
+Whenever you start a new channel, a reference number will be automatically added to the [Situation](../../situation/) based on the parameters specified in** **this section. Visit the page on [assigning a unique identifier to an incident](../../channels/assigning-a-unique-identifier-to-an-incident/) for more information.
 
 **Hide incident name**
 

@@ -8,15 +8,21 @@ Within Incident Management each event or incident is contained within a channel.
 It is now possible to assign a unique ref to your incidents
 {% endhint %}
 
-{% page-ref page="starting-a-new-channel.md" %}
+{% content-ref url="starting-a-new-channel.md" %}
+[starting-a-new-channel.md](starting-a-new-channel.md)
+{% endcontent-ref %}
 
-{% page-ref page="shutting-down-a-channel.md" %}
+{% content-ref url="shutting-down-a-channel.md" %}
+[shutting-down-a-channel.md](shutting-down-a-channel.md)
+{% endcontent-ref %}
 
-{% page-ref page="configuring-the-channel-statuses.md" %}
+{% content-ref url="configuring-the-channel-statuses.md" %}
+[configuring-the-channel-statuses.md](configuring-the-channel-statuses.md)
+{% endcontent-ref %}
 
-{% page-ref page="assigning-a-unique-identifier-to-an-incident.md" %}
-
-
+{% content-ref url="assigning-a-unique-identifier-to-an-incident/" %}
+[assigning-a-unique-identifier-to-an-incident](assigning-a-unique-identifier-to-an-incident/)
+{% endcontent-ref %}
 
 
 

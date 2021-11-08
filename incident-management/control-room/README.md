@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/control room.png>)
 
-The Control Room shows all ongoing incidents in one location and facilitates multi-incident management. Examples of where it can be used include EOCs, security centers, and command posts. To access it, click **Control Room** on your [Channels](../channels/) page. 
+The Control Room shows all ongoing incidents in one location and facilitates multi-incident management. Examples of where it can be used include EOCs, security centers, and command posts. To access it, click **Control Room** on your [Channels](../channels/) page.&#x20;
 
 The main sections of the Control Room are:
 
@@ -24,15 +24,15 @@ View the Control Room log in the Updates section. Use this area to share announc
 
 ## Library
 
-Store important documents and links for future reference in the Library. You can create folders to organize these items. Any documents added in [Collections](../admin-area/collections/) will automatically be added to the Library here. 
+Store important documents and links for future reference in the Library. You can create folders to organize these items. Any documents added in [Collections](../admin-area/collections/) will automatically be added to the Library here.&#x20;
 
 ## Archived
 
 Past incidents appear here, but will be deleted out of the system after a certain period of time.\
-Download the available archive for your records by clicking the box icon. If you have our [Incident Reporting](../../incident-reporting/getting-started.md) product, make sure the bar chart icon has a green tick next to it indicating it has been synced across.﻿You can reactivate any of these incidents by going to **More Options \[⋮]** and clicking **Re-activate**.  
+Download the available archive for your records by clicking the box icon. If you have our [Incident Reporting](../../incident-reporting/getting-started.md) product, make sure the bar chart icon has a green tick next to it indicating it has been synced across.﻿You can reactivate any of these incidents by going to **More Options \[⋮]** and clicking **Re-activate**. &#x20;
 
 {% hint style="info" %}
-It is now possible to [assign a unique ref](../channels/assigning-a-unique-identifier-to-an-incident.md) to your incidents. 
+It is now possible to [assign a unique ref](../channels/assigning-a-unique-identifier-to-an-incident/) to your incidents.&#x20;
 {% endhint %}
 
 {% embed url="https://youtu.be/e_UK_gF83dQ" %}
@@ -52,5 +52,5 @@ It is now possible to [assign a unique ref](../channels/assigning-a-unique-ident
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Don't see the control button? Contact us at support@d4h.org to request it. 
+Don't see the control button? Contact us at support@d4h.org to request it.&#x20;
 {% endhint %}
