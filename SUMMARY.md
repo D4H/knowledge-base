@@ -322,6 +322,7 @@
   * [Setting Attendance Periods on an Activity](shared-services/activities/setting-attendance-periods-on-an-activity.md)
   * [Track Equipment Usage](shared-services/activities/track-equipment-usage.md)
   * [Viewing the Audit History of an Activity](shared-services/activities/viewing-the-audit-history-of-an-activity.md)
+  * [Converting an Exercise to an Event or vice versa](shared-services/activities/converting-an-exercise-to-an-event-or-vice-versa.md)
 * [Organizations](shared-services/organizations.md)
 * [Tags](shared-services/tags/README.md)
   * [Adding new tags](shared-services/tags/adding-new-tags.md)
