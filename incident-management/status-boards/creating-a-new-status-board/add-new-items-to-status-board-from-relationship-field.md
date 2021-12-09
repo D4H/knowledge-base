@@ -1,4 +1,4 @@
-# Add new items from relationship field
+# Add new items to status board from relationship field
 
 #### Web App
 

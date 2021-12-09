@@ -207,7 +207,7 @@
 * [Status Boards](incident-management/status-boards/README.md)
   * [Creating a new Status Board](incident-management/status-boards/creating-a-new-status-board/README.md)
     * [Quick Add vs Full Add Status Boards](incident-management/status-boards/creating-a-new-status-board/quick-add-vs-full-add-status-boards.md)
-    * [Add new items from relationship field](incident-management/status-boards/creating-a-new-status-board/add-new-items-from-relationship-field.md)
+    * [Add new items to status board from relationship field](incident-management/status-boards/creating-a-new-status-board/add-new-items-to-status-board-from-relationship-field.md)
   * [Set Colors with Item Status Expressions](incident-management/status-boards/set-colors-with-item-status-expressions.md)
   * [Module Header Stats](incident-management/status-boards/module-header-stats.md)
   * [Adding a Status Board to a Channel](incident-management/status-boards/adding-a-status-board-to-a-channel.md)
