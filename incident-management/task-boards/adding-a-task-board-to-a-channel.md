@@ -6,9 +6,9 @@ If you haven't created a [Task Board](./) yet, see [Creating a Task Board](creat
 \
 To add your task board to your channel for all users:
 
-* Click on the **green ⇅ **in the top right hand corner.
+* Click on the **green ⇅** in the top right hand corner.
 * Go to **Channel Settings**
-* Select which task boards you wish to appear in your channel. 
+* Select which task boards you wish to appear in your channel.&#x20;
 
 {% embed url="https://youtu.be/KWW2E9iu-cY" %}
 

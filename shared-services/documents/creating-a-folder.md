@@ -8,14 +8,14 @@ To create a new folder:
 * Click Create Folder
 
 {% hint style="info" %}
-It is not possible to create sub folders 
+It is not possible to create sub folders&#x20;
 {% endhint %}
 
 A private folder is only visible to Member+ and above. All files in the private folder are only visible to Member+ and above.
 
-* When you click** Add Folder**, you have the option to make the folder ![](<../../.gitbook/assets/padlock icon.png>)**Private**\
+* When you click **Add Folder**, you have the option to make the folder ![](<../../.gitbook/assets/padlock icon.png>)**Private**\
 
 
 ![](<../../.gitbook/assets/creating a private folder.png>)
 
-* To convert an existing folder to private, click **Update Details **on the folder and select ![](<../../.gitbook/assets/padlock icon.png>)**Private**\
+* To convert an existing folder to private, click **Update Details** on the folder and select ![](<../../.gitbook/assets/padlock icon.png>)**Private**\

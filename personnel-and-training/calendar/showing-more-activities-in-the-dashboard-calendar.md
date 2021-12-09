@@ -6,4 +6,4 @@ You can expand the 'My Calendar' section on the Dashboard to display more than 5
 
 * Go to **Settings** -> **Main settings**
 * Look for **Dashboard Calendar** and adjust accordingly
-* Click **Save Changes **at the bottom of the page
+* Click **Save Changes** at the bottom of the page

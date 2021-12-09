@@ -5,7 +5,7 @@ We provide a spreadsheet export in ISRID silver standard which you can submit di
 To download the export:
 
 * Go to **Operations** -> **Incidents**
-* On the right hand side click** Lost Behavior**
+* On the right hand side click **Lost Behavior**
 * You can now attach the export to an email to submit to ISRID
 
 ![](<../../.gitbook/assets/export lost person behavior.gif>)

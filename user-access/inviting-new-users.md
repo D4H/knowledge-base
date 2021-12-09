@@ -2,7 +2,7 @@
 
 ## Personnel & Training, Equipment Management, Incident Reporting
 
-Below are instructions for adding one or a few members to your accounts and granting them permission profiles. For information on how to bulk upload a large number of members all at once, go to the [members](../personnel-and-training/untitled/) article. 
+Below are instructions for adding one or a few members to your accounts and granting them permission profiles. For information on how to bulk upload a large number of members all at once, go to the [members](../personnel-and-training/untitled/) article.&#x20;
 
 To invite a member into your account:
 
@@ -24,7 +24,7 @@ To grant members access to your account:
 
 ## Incident Management
 
-Below are instructions for adding one or a few members to your accounts and granting them permission profiles. For information how to bulk upload a large number of members all at once, go to the adding personnel in collections article. You can also add assign your members custom profiles. Go to the [custom permission profile article](../incident-management/admin-area/incident-management-settings/permission-profiles.md) for more information. 
+Below are instructions for adding one or a few members to your accounts and granting them permission profiles. For information how to bulk upload a large number of members all at once, go to the adding personnel in collections article. You can also add assign your members custom profiles. Go to the [custom permission profile article](../incident-management/admin-area/incident-management-settings/permission-profiles.md) for more information.&#x20;
 
 To invite a member to your account
 
@@ -34,5 +34,5 @@ To invite a member to your account
 * You will need a name and an email address to create an account
 * Click the orange button **Create a D4H Incident Management Account**
 * Under [**Permission Profiles**](permissions.md) select a profile from the drop down list
-* Click **Save **at the bottom of the screen
+* Click **Save** at the bottom of the screen
 * Your personnel will now receive an email invitation to access the account

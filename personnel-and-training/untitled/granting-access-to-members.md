@@ -7,7 +7,7 @@ Once you have [added members](../../user-access/inviting-new-users.md) to the ac
 To grant members access to your account:
 
 * Go to ![](../../.gitbook/assets/access.png) **Access**
-* In the **Username** column click **Send Invite **for the member you want to grant access
+* In the **Username** column click **Send Invite** for the member you want to grant access
 * Each member must have a valid email address for the system to send the email invite to
 * Select the permission level you wish to grant the member
 * Click **Send invite**
@@ -27,7 +27,7 @@ To change a members permission level:
 ![](<../../.gitbook/assets/granting access to members 2.gif>)
 
 {% hint style="info" %}
-You cannot grant an access level higher than your own to another member. You are also unable to change your own access level.  
+You cannot grant an access level higher than your own to another member. You are also unable to change your own access level. &#x20;
 {% endhint %}
 
 \

@@ -7,7 +7,7 @@ To export a PDF version of the calendar:
 
 ![](<../../.gitbook/assets/exporting the calendar.png>)
 
-* On the righthand side of the page under **Views** you can click on** **\[Agenda] and under Export you can click on **Month View**
+* On the righthand side of the page under **Views** you can click on **** \[Agenda] and under Export you can click on **Month View**
 
 {% hint style="info" %}
 The Agenda PDF gives a list of upcoming scheduled Events and Exercises. The Month View PDF displays all of the same information about the month in question that can be seen on the screen.

@@ -4,9 +4,9 @@
 
 You have the option of predetermining how to group and sort rows for [Status Boards](./). To do this:
 
-* Go to the **Admin Area **> **Templates**
-* Select **Status Boards **and click **Edit** on the status board you want to modify
-* Scroll down to **List View Settings **
+* Go to the **Admin Area** > **Templates**
+* Select **Status Boards** and click **Edit** on the status board you want to modify
+* Scroll down to **List View Settings**&#x20;
 * Set your default sorting and grouping
 * Click **Save** at the bottom of the page
 
@@ -21,7 +21,7 @@ To group the rows in a Status Board from the board itself, follow the below step
 To sort the rows in a Status Board from the board itself, follow these steps.
 
 * Click on **More Options \[⋮]**
-* Click on** Sort by**
+* Click on **Sort by**
 * Choose what you would like to sort them by from the menu
 
 {% embed url="https://www.youtube.com/watch?v=nHAHl6ZClas" %}

@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Module header stats allow you to display the summed value of number fields as a header on a [status board](./). They also allow you to display the total figure for the number of rows entered. 
+Module header stats allow you to display the summed value of number fields as a header on a [status board](./). They also allow you to display the total figure for the number of rows entered.&#x20;
 
 ![](<../../.gitbook/assets/module header stats.png>)
 
@@ -20,7 +20,7 @@ To do this go to the [Admin Area](../admin-area/) and follow the steps below:
 
 * Click **Add**
 * In this example I want to display the summed value for both **Shelter Capacity** and **Shelter Occupancy** as a header on my status board
-* You must use the Field IDs for this, the Field ID for **Shelter Capacity** is **shelter_capacity** and the field name for **Shelter Occupancy** is **current_occupancy**. You need to hover your mouse over the field and click the **More Options \[⋮] **to view the ID
+* You must use the Field IDs for this, the Field ID for **Shelter Capacity** is **shelter\_capacity** and the field name for **Shelter Occupancy** is **current\_occupancy**. You need to hover your mouse over the field and click the **More Options \[⋮]** to view the ID
 
 ![](<../../.gitbook/assets/module header stats shelter capacity.png>)
 

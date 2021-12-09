@@ -10,22 +10,22 @@ To assign a permission profile to a member, go to the [Admin Area](../admin-area
 * Double click on the member you wish to assign a permission profile to
 * Click the orange button **Create a D4H Incident Management Account**
 * From the Permissions drop-down menu, select the appropriate permissions profile
-*  Click **Save **at the bottom of the screen 
+* &#x20;Click **Save** at the bottom of the screen&#x20;
 
 ## Default permission profiles
 
-**Account Owner:** 
+**Account Owner:**&#x20;
 
 * Full usage rights with administrative access to all settings including user accounts and template configuration.
 
-**Editor:** 
+**Editor:**&#x20;
 
 * Can start / shut down channels, access any channel, configure plays and configure import collections.
 
-**Member+:** 
+**Member+:**&#x20;
 
 * Can start / shut down channels and access any channel.
 
 **Member:**
 
-*  Can only access channels to which they are invited.
+* &#x20;Can only access channels to which they are invited.

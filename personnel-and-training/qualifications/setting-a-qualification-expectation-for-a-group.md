@@ -4,9 +4,9 @@
 \
 To set an expectation:
 
-* Open **Qualifications** from the **Planning **menu
+* Open **Qualifications** from the **Planning** menu
 * Select the qualification you want to assign to a group
-* Click **Expectations **on the right hand side of the page
+* Click **Expectations** on the right hand side of the page
 * Select the group or groups you wish to assign the qualification to
 
 {% hint style="info" %}

@@ -6,7 +6,7 @@ To configure the [Personnel](./) form template, navigate to the [Admin Area](../
 
 * Open **Templates** > **Personnel**
 * Fill in the details and create your template using the [Form Builder](../admin-area/templates/form-builder-and-field-types/)
-* Click **Save **at the bottom of the screen
+* Click **Save** at the bottom of the screen
 
 {% embed url="https://youtu.be/Gqi083n1W5g" %}
 

@@ -2,7 +2,7 @@
 
 To complete a repair, open it up:
 
-* Click the **Completed **button at the top of the screen 
+* Click the **Completed** button at the top of the screen&#x20;
 * If the item was marked as Out Of Service you will be asked if you want to mark it as back in service\
 
 

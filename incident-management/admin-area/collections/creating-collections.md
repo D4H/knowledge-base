@@ -12,7 +12,7 @@ Within your [Incident Management](../../getting-started.md) account go to the [A
 * Fill in the details for your item.
 * Add as many items as you would like to pre-load available in all channels.
 
-When you go back to your open channel and go to that module, click on the **Add **button.
+When you go back to your open channel and go to that module, click on the **Add** button.
 
 ![](<../../../.gitbook/assets/Screen Shot 2021-09-15 at 1.20.57 PM (2).png>)
 

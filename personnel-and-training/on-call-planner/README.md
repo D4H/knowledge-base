@@ -8,7 +8,7 @@ The default setting in your account will be Off-Call. To change this to on-call:
 * Go to Operations and On-Call Planner
 * Select **Defaults**
 * Change the **Default Status** to On-Call
-* Click **Save Changes **at the bottom of the page\
+* Click **Save Changes** at the bottom of the page\
 
 
 ![](<../../.gitbook/assets/changing on-call status.gif>)

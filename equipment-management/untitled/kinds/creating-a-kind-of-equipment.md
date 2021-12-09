@@ -4,9 +4,9 @@ To add a kind to your equipment cache, you must first create a [Category](../cat
 
 * Go to Logistics and click on **Equipment**
 * Go to the **Categories** tab and open the category where you wish to add kinds
-* Click** Add Kind**
+* Click **Add Kind**
 * Give the kind a name and choose the type
-* You can add Cost Per Hour and Cost Per Use for Reusable and Disposable Equipment. You can add Cost Per Mile and Cost Per Use for a Vehicle. 
+* You can add Cost Per Hour and Cost Per Use for Reusable and Disposable Equipment. You can add Cost Per Mile and Cost Per Use for a Vehicle.&#x20;
 
 {% hint style="info" %}
 Kinds are broken up into the following three categories:

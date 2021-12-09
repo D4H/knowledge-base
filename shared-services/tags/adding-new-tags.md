@@ -2,8 +2,8 @@
 
 To add new tags:
 
-* Go to **Intelligence **-> **Tags**
-* Click **Create Tag **on the right-hand side of the page
+* Go to **Intelligence** -> **Tags**
+* Click **Create Tag** on the right-hand side of the page
 * Enter the details and click **Save Changes**
 * You can also create [bundles](../bundles/) to help organize similar tags together by selecting **Create Bundle**
 

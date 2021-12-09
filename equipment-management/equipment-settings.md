@@ -16,7 +16,7 @@ Here you can turn on or off certain modules within Equipment Management:\
 
 \
 \
-**Barcode Type: **here you can select the [barcode](equipment-barcoding/) type you wish to use\
+**Barcode Type:** here you can select the [barcode](equipment-barcoding/) type you wish to use\
 \
 **Labels:** You can change the labels that appear in your account\
 \

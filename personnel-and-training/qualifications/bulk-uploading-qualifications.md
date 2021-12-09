@@ -9,7 +9,7 @@ Follow the steps below to bulk upload qualifications. First, you will need to do
 * Update the template with the applicable information
 * Once the template has been populated, go back to the qualification you want to update
 * Click **Qualify Members**
-* Click** upload spreadsheet** and select the file or simply drag and drop the file into the box
+* Click **upload spreadsheet** and select the file or simply drag and drop the file into the box
 * Once the file has uploaded, wait for the page to automatically submit
 
 {% hint style="info" %}

@@ -8,7 +8,7 @@ To create a location to store your equipment:
 * The bundle field allows you to group storage areas together, see the examples listed below\
 
 
-| <p> <strong>Bundle</strong><br></p> | <p><strong> Locations in that bundle</strong><br></p> |
+| <p> <strong>Bundle</strong><br></p> | <p> <strong>Locations in that bundle</strong><br></p> |
 | ----------------------------------- | ----------------------------------------------------- |
 | <p> Warehouses<br></p>              | <p> Warehouse A<br></p>                               |
 |                                     | <p> Warehouse B<br></p>                               |
@@ -24,8 +24,8 @@ To create a location to store your equipment:
 
 ![](<../../.gitbook/assets/creating an equipment location.png>)
 
-* Click **Select On Map **if you want to pin the equipment location to the map
-* Click** Save Changes**
+* Click **Select On Map** if you want to pin the equipment location to the map
+* Click **Save Changes**
 
 {% embed url="https://youtu.be/EAN7wjMfIF0" %}
 

@@ -5,9 +5,9 @@ In [Incident Management](../getting-started.md), you have the option to set a de
 To set a default play, go to the [Admin Area ](../admin-area/)and follow the steps below.
 
 * Go to **Settings** > **Preferences**
-* Navigate to the **Incidents** section 
+* Navigate to the **Incidents** section&#x20;
 * Select one of the plays from the Default play dropdown menu
-* Click** Save **at the bottom of the page
+* Click **Save** at the bottom of the page
 
 {% embed url="https://youtu.be/DJ9L_v-uleQ" %}
 

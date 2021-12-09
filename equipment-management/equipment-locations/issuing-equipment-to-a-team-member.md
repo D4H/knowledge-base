@@ -2,12 +2,12 @@
 
 To issue an item of equipment to a team member go to the specific item of equipment:
 
-* Click **Update Details **on the item of equipment
+* Click **Update Details** on the item of equipment
 * Under the **Located In** section click on **Update Location**
 * Click on the drop down and scroll to the bottom, select **Issued to Member**
 * Click on the next drop down and a list of your members will appear, you can scroll through the list or start typing their name in the search box
 * Select the member you want to issue the item to
-* Click **Save Changes **at the bottom of the page
+* Click **Save Changes** at the bottom of the page
 
 ![](<../../.gitbook/assets/issuing equipment 1.png>)
 
@@ -17,4 +17,4 @@ You will see below that if there are sub-locations available to move the item to
 
 ![](<../../.gitbook/assets/issuing equipment 2.gif>)
 
-The above instructions go through how to move a single item of equipment. It is also possible to [bulk move equipment](bulk-moving-items-of-equipment.md). 
+The above instructions go through how to move a single item of equipment. It is also possible to [bulk move equipment](bulk-moving-items-of-equipment.md).&#x20;

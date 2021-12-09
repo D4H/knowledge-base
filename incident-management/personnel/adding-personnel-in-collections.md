@@ -27,7 +27,7 @@ Go to Collections in the Admin Area
 
 This is the easiest way to import a list of personnel
 
-* Click on the small drop down arrow beside **Add **and click ![Image Placeholder](<../../.gitbook/assets/import icon.png>) Import
+* Click on the small drop down arrow beside **Add** and click ![Image Placeholder](<../../.gitbook/assets/import icon.png>) Import
 * Select a file, it must be a CSV file
 * You will need to map the columns to their respective data fields\
 
@@ -40,7 +40,7 @@ This is the easiest way to import a list of personnel
 
 ## Importing Personnel from your Personnel & Training account
 
-If you already have a D4H [Personnel & Training](../../personnel-and-training/getting-started.md) account, you can enable this D4H Products Integration to import your personnel from here.  
+If you already have a D4H [Personnel & Training](../../personnel-and-training/getting-started.md) account, you can enable this D4H Products Integration to import your personnel from here. &#x20;
 
 {% embed url="https://youtu.be/HdstwennlSA" %}
 

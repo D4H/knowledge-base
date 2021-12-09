@@ -8,7 +8,7 @@ The header row of columns that appears along the top of your [Status Board](../.
 
 To edit the list layout columns open the [Admin Area](../):
 
-* Open templates and click **Edit **on the relevant template
+* Open templates and click **Edit** on the relevant template
 * Scroll to the bottom to **List Layout Columns**
 * Here you can add or remove fields to the list view
 * Drag & drop fields to re-order the columns

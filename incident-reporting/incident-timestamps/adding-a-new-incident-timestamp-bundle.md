@@ -11,6 +11,6 @@ To add a new bundle:
 * Add a title for the bundle
 * Set **Default** to Yes if you want these to be the default timestamps that appears when you open a new incident report
 * Set **Active** to Yes if you want this timestamp bundle to be available to use in your incident reports
-* Input the labels for the timestamps and click **Add Timestamp **underneath it
+* Input the labels for the timestamps and click **Add Timestamp** underneath it
 * Set a Start timestamp and an End timestamp
 * Click **Save Changes**

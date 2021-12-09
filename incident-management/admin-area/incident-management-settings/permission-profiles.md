@@ -7,7 +7,7 @@ You can configure the different permission profiles and access levels for each u
 Go to the [Admin Area](../)
 
 * Open **Settings** > **Permission Profiles**
-* Click** +New**
+* Click **+New**
 * Fill in the details and grant or deny access to the organization-level permissions and module-level policies
 * Click **Save** at the bottom of the screen
 * Now when you go to [Personnel](../../personnel/) in [Collections](../collections/), your new permission profile will appear in the Permission Profiles drop down which you can assign to a member
@@ -50,7 +50,7 @@ You can grant one of the following access levels to any of the modules:
 |                                       | <p><strong>Module</strong><br></p>                                  |
 | ------------------------------------- | ------------------------------------------------------------------- |
 | <p> <strong>Defaults</strong><br></p> | <p>Default Policy<br></p>                                           |
-| <p><strong> Built-in</strong><br></p> | <p>Log<br></p>                                                      |
+| <p> <strong>Built-in</strong><br></p> | <p>Log<br></p>                                                      |
 |                                       | <p>Situation<br></p>                                                |
 |                                       | <p>Map<br></p>                                                      |
 |                                       | <p>Personnel &#x26; Roles<br></p>                                   |

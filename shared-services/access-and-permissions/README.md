@@ -37,13 +37,13 @@ You cannot grant an access level higher than your own to another member. You are
 
 ## Member and Member+ granular permissions
 
-* **Draft Incidents: **Ability to create draft Incidents and enter all data, however, cannot "approve". A member with Editor or Owner permissions will need to approve the activity\
+* **Draft Incidents:** Ability to create draft Incidents and enter all data, however, cannot "approve". A member with Editor or Owner permissions will need to approve the activity\
 
 * **Draft Exercises:** Ability to create draft Exercises and enter all data, however, cannot "approve". A member with Editor or Owner permissions will need to approve the activity\
 
-* **Draft Events: **Ability to create draft Events and enter all data, however, cannot "approve". A member with Editor or Owner permissions will need to approve the activity\
+* **Draft Events:** Ability to create draft Events and enter all data, however, cannot "approve". A member with Editor or Owner permissions will need to approve the activity\
 
-* **Equipment Basic: **Can complete tasks like inspections & repairs, change an items status. Cannot move items. \
+* **Equipment Basic:** Can complete tasks like inspections & repairs, change an items status. Cannot move items. \
 
 * **Equipment Editor:** Can do anything in the equipment module\
 

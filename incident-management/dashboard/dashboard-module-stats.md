@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Dashboard module stats allow you to display the summed value of number fields from a [status board](../status-boards/) on the [dashboard](./). 
+Dashboard module stats allow you to display the summed value of number fields from a [status board](../status-boards/) on the [dashboard](./).&#x20;
 
 ![](<../../.gitbook/assets/dashboard module stats.png>)
 
@@ -20,12 +20,12 @@ To do this go to the [Admin Area](../admin-area/) and follow the steps below:
 
 * Click **Add**
 * In this example I want to display the summed value for both **Shelter Capacity** and **Shelter Occupancy** on the dashboard
-* You must use the field names to do this, the field name for **Shelter Capacity** is **capacity** and the field name for **Shelter Occupancy** is **current_occupancy**. Click the three dots in the top right of the field to view the name, referred to as the Field ID. \
+* You must use the field names to do this, the field name for **Shelter Capacity** is **capacity** and the field name for **Shelter Occupancy** is **current\_occupancy**. Click the three dots in the top right of the field to view the name, referred to as the Field ID. \
 
 
 ![](<../../.gitbook/assets/dashboard module stats 4.png>)
 
-* To sum the total number for **Shelter Capacity **and display it on the dashboard, enter the following in **Value expression**:\
+* To sum the total number for **Shelter Capacity** and display it on the dashboard, enter the following in **Value expression**:\
 
 
 ```
@@ -34,7 +34,7 @@ To do this go to the [Admin Area](../admin-area/) and follow the steps below:
 
 * Click **Add**\
 
-* To sum the total number for **Shelter Occupancy **and display it on the dashboard, enter the following in **Value expression**:\
+* To sum the total number for **Shelter Occupancy** and display it on the dashboard, enter the following in **Value expression**:\
 
 
 ```

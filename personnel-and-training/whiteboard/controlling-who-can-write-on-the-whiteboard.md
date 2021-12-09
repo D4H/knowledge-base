@@ -8,4 +8,4 @@
 
 ![](<../../.gitbook/assets/controlling who can write on the whiteboard.png>)
 
-* This will hide the **+ Add Note **button to Members and Member+
+* This will hide the **+ Add Note** button to Members and Member+

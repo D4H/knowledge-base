@@ -8,7 +8,7 @@ To create a new [Task Board](./) go to the [Admin Area](../admin-area/) in your 
 * Open **Tasks**
 * Click on **New Task Template**
 * Fill in the details
-* Click **Save **at the bottom of the screen
+* Click **Save** at the bottom of the screen
 
 {% embed url="https://youtu.be/qj-BT1UtDVg" %}
 
@@ -25,7 +25,7 @@ Select an icon for the board. This icon will be used to represent the board in t
 The app name will appear in the navigation menu and throughout the software. Choose a short name that ideally fits on a single line.
 
 {% hint style="info" %}
-Names should be unique and clear. Ideally it would be a name that encompasses the task lists and tasks such as "Immediate Actions", "Security Tasks", "Search Assignments", and "Requests". 
+Names should be unique and clear. Ideally it would be a name that encompasses the task lists and tasks such as "Immediate Actions", "Security Tasks", "Search Assignments", and "Requests".&#x20;
 {% endhint %}
 
 ## Unique Name (Required)
@@ -34,7 +34,7 @@ The unique name is auto-generated. The unique name is used later to create [rela
 
 ## Tasks Statuses
 
-These are the different statuses within your tasks workflow. You can delete the existing statuses and add in your own custom statuses. 
+These are the different statuses within your tasks workflow. You can delete the existing statuses and add in your own custom statuses.&#x20;
 
 {% hint style="info" %}
 Examples
@@ -45,4 +45,4 @@ Examples
 
 ## Default Status
 
-You can set a default status from the statuses above. You may want to set the default to 'Not Started' if you choose to keep this status. 
+You can set a default status from the statuses above. You may want to set the default to 'Not Started' if you choose to keep this status.&#x20;

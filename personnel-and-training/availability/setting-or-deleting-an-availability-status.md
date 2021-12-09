@@ -3,10 +3,10 @@
 To set an availability status:
 
 * Go to **Operations** -> **Capability Status**
-* Click** Add Status**
+* Click **Add Status**
 * Select the relevant status and click **Update Status**
 
-Or 
+Or&#x20;
 
 * Select **Update Status** from the dashboard
 * Follow the steps above

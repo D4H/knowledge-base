@@ -18,7 +18,7 @@ An Owner or Editor can set up email alerts for themselves or members of the team
 
 ![](<../../.gitbook/assets/manage email.png>)
 
-* Click into **Equipment Alerts **
+* Click into **Equipment Alerts**&#x20;
 * You can choose who should receive alerts for all locations or for specific locations
 * Click where it says 'Click here to subscribe' and select members from the drop down list\
 

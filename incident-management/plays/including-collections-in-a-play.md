@@ -7,7 +7,7 @@ Within [Incident Management](../getting-started.md), it is possible to create an
 For example, to add a team and the respective roles to your play follow the steps below
 
 * Go to [Plays](./) in the [Admin Area](../admin-area/)
-* Click **Select items **next to the [Personnel](../personnel/) & [Roles](../../personnel-and-training/roles/) module
+* Click **Select items** next to the [Personnel](../personnel/) & [Roles](../../personnel-and-training/roles/) module
 
 ![](<../../.gitbook/assets/including collections in a play.png>)
 
@@ -27,11 +27,11 @@ You can pre-load content in collections for all of the modules shown below. To a
 
 For example, this is how you would pre-assign roles:&#x20;
 
-* Click** Select items **next to the Personnel & Roles module
+* Click **Select items** next to the Personnel & Roles module
 * Expand the team
 * Select an individual from the Assign personnel drop down menu to pre-assign this role to that person
 * Click **Accept**
-* Click **Save **at the bottom of the page
+* Click **Save** at the bottom of the page
 * Whenever this play is selected when opening a new channel, the role will already be assigned to the individual in the Roles module in your channel
 
 {% hint style="info" %}

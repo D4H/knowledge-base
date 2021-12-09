@@ -28,7 +28,7 @@ Danger = Red
 {% endhint %}
 
 * To set the colors based on the status selection, you must use the field ID/name. I.e. the field name for **No Damage** is **no\_damage**, the field name for **Destroyed** is **destroyed** and so on
-* Note, the field ID for the Status field in this example is **status **which you can find by clicking on the **More Options \[⋮]** menu on the field in the template in the admin area
+* Note, the field ID for the Status field in this example is **status** which you can find by clicking on the **More Options \[⋮]** menu on the field in the template in the admin area
 
 ![](<../../.gitbook/assets/field ID for status.png>)
 

@@ -10,6 +10,6 @@ To delete a tag:
 
 ![](<../../.gitbook/assets/deleting tags 1.gif>)
 
-* To delete a bundle, select the **Edit Type **button next to the bundle name
+* To delete a bundle, select the **Edit Type** button next to the bundle name
 
 ![](<../../.gitbook/assets/deleting a tag bundle.gif>)

@@ -1,11 +1,11 @@
 # Updating your on/off-call period
 
-**WEB APP **
+**WEB APP**&#x20;
 
 \
 There are two ways to update your on/off call period in the web application:
 
-* Select the **+Add On-Call** or **+Add Off-Call **button from the dashboard. The button will depend on what default is set in your teams account
+* Select the **+Add On-Call** or **+Add Off-Call** button from the dashboard. The button will depend on what default is set in your teams account
 * From here you can fill in the date, duration, repetition and further details of your on / off call period
 * Select yourself from the Personnel drop down menu
 * Click **Save Changes**\
@@ -17,7 +17,7 @@ There are two ways to update your on/off call period in the web application:
 Or
 
 * Go to Operations -> On-Call Planner
-* Select the **Add On-Call **or **Add Off-Call **button and follow the steps above\
+* Select the **Add On-Call** or **Add Off-Call** button and follow the steps above\
 
 
 #### MOBILE APP 

@@ -2,14 +2,14 @@
 
 The [calendar](./) in D4H can be exported and utilized in a number of popular calendar tools including Google, iCloud, Outlook and many more.
 
-* Go to **Planning** -> **Calendar **
-* Click the** Turn On** icon at the bottom of the page
+* Go to **Planning** -> **Calendar**&#x20;
+* Click the **Turn On** icon at the bottom of the page
 * This will generate a link that can be imported into whichever calendar tool you choose to use
 
 {% hint style="info" %}
-**Google**: [https://support.google.com/calendar/answer/37118?hl=en](https://support.google.com/calendar/answer/37118?hl=en) 
+**Google**: [https://support.google.com/calendar/answer/37118?hl=en](https://support.google.com/calendar/answer/37118?hl=en)&#x20;
 
-**iCloud**: [https://support.apple.com/en-ca/HT202361](https://support.apple.com/en-ca/HT202361) 
+**iCloud**: [https://support.apple.com/en-ca/HT202361](https://support.apple.com/en-ca/HT202361)&#x20;
 
 **Outlook**: [https://support.office.com/en-us/article/Import-or-subscribe-to-a-calendar-in-Outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c](https://support.office.com/en-us/article/Import-or-subscribe-to-a-calendar-in-Outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
 {% endhint %}

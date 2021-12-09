@@ -49,7 +49,7 @@ Set the default format for coordinates in your account
 
 **Incident Reference Template**
 
-Whenever you start a new channel, a reference number will be automatically added to the [Situation](../../situation/) based on the parameters specified in** **this section. Visit the page on [assigning a unique identifier to an incident](../../channels/assigning-a-unique-identifier-to-an-incident/) for more information.
+Whenever you start a new channel, a reference number will be automatically added to the [Situation](../../situation/) based on the parameters specified in **** this section. Visit the page on [assigning a unique identifier to an incident](../../channels/assigning-a-unique-identifier-to-an-incident/) for more information.
 
 **Hide incident name**
 
@@ -62,9 +62,9 @@ This section allows you to specify the what should be done with the data once yo
 **Enable 'Blank' Play**\
 You can turn on / off the ability to start a blank play (i.e. there will be no data pre-loaded into the channel)\
 \
-**Default play **
+**Default play**&#x20;
 
-Setting a default play enables one-click incident creation. Whatever you chose here will be what play you use automatically. You can chose to use a different play when starting an incident by clicking on the down arrow to the right of the start incident button and selecting **+Start New (advanced). **\
+Setting a default play enables one-click incident creation. Whatever you chose here will be what play you use automatically. You can chose to use a different play when starting an incident by clicking on the down arrow to the right of the start incident button and selecting **+Start New (advanced).** \
 
 
 ## Organization Map View

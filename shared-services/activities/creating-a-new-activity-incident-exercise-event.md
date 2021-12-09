@@ -4,16 +4,16 @@
 \
 To create a new activity:
 
-* From the dashboard select** +Add Incident **/ **+Add Exercise **/** +Add Event**
+* From the dashboard select **+Add Incident** / **+Add Exercise** / **+Add Event**
 * Fill out the details and click through the tabs across the top of the activity, clicking on finished at the end
 
 Or
 
 * Go to **Operations** -> select either **Incidents**, **Exercises** or **Events**
-* Select the **Add Incident**, **Add Exercise **or **Add Event** button on the right hand side of the screen
+* Select the **Add Incident**, **Add Exercise** or **Add Event** button on the right hand side of the screen
 
 {% hint style="info" %}
-**Tips** 
+**Tips**&#x20;
 
 * You can add [custom fields](../custom-fields/) to your activity forms to capture further information
 * Statistics from activities are not added to reports until the activity has been [approved](approving-an-activity.md). **Note** draft reports are displayed with an asterisk
@@ -51,7 +51,7 @@ Here you will be able to add the[ K9](../../personnel-and-training/k9-and-handle
 
 ## Resources
 
-On the [resources](../resources/) tab you will be able to record what external agencies / teams attended the activity. 
+On the [resources](../resources/) tab you will be able to record what external agencies / teams attended the activity.&#x20;
 
 * Adding a resource to an activity: \
 
@@ -64,7 +64,7 @@ On the [equipment](../../equipment-management/getting-started.md) tab you will b
 
 ## Involved (incidents only)
 
-Here you can record details regarding the [persons involved](../../incident-reporting/persons-involved/) in the incident. 
+Here you can record details regarding the [persons involved](../../incident-reporting/persons-involved/) in the incident.&#x20;
 
 ## Hazmat (incidents only)
 
@@ -76,11 +76,11 @@ Record [lost person behavior](../../incident-reporting/lost-person-behavior/) he
 
 ## Costing
 
-Here you can edit the [costing](../cost-recovery/) for personnel and equipment if you do not want to apply the defaults that may already be set in your account. 
+Here you can edit the [costing](../cost-recovery/) for personnel and equipment if you do not want to apply the defaults that may already be set in your account.&#x20;
 
 ## Documents
 
-Here you can upload relevant [documents](../documents/). 
+Here you can upload relevant [documents](../documents/).&#x20;
 
 ## Finished
 

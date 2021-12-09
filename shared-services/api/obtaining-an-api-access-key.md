@@ -7,7 +7,7 @@ Remember that API access keys are the equivalent of your username and password. 
 To create a personal API access key:
 
 * Go to **Settings** in the top right of your screen
-* Under **Integrations** select** API Access**
+* Under **Integrations** select **API Access**
 * From here you can label and generate API access keys. You will also be able to view existing access keys and revoke access if required
 
 If you receive a message indicating that the API access module is not activated, contact an Account Owner on your team to have them activate the API module.\

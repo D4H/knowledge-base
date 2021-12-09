@@ -10,7 +10,7 @@ Draft activity reports are displayed with an asterisk, there is no asterisk on a
 
 To approve an activity:
 
-* Go to the activity you want to approve and click **Approve Report **on the right hand side of the screen
+* Go to the activity you want to approve and click **Approve Report** on the right hand side of the screen
 * A confirmation box will appear on the screen with a reminder that no further edits will be possible unless reverted back to a draft
 
 {% hint style="info" %}

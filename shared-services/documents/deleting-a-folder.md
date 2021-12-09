@@ -2,7 +2,7 @@
 
 To delete a folder:
 
-* Go to** Intelligence** -> **Documents**
+* Go to **Intelligence** -> **Documents**
 * Click into the relevant folder
 * Select **Update Details**
 * Click **Delete Folder**

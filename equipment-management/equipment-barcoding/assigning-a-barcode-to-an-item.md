@@ -4,9 +4,9 @@ If the Ref of the item matches the barcode, you do not need to do anything, it w
 
 #### WEB APP
 
-* Go to the item of equipment and click** Update Details**
+* Go to the item of equipment and click **Update Details**
 * Scroll down to the Barcode field and type in the barcode here, or put the cursor in the field and scan it with your USB scanner.
-* Click **Save Changes **at the bottom of the screen\
+* Click **Save Changes** at the bottom of the screen\
 
 
 #### MOBILE APP

@@ -3,7 +3,7 @@
 To add a repair to an item of equipment:
 
 * Go to the item of equipment
-* Click** Add Repair**
+* Click **Add Repair**
 * Enter the repair that is needed
 * Choose what caused the damage (this may be useful to track across your cache)
 * You can assign the repair to a member of your team

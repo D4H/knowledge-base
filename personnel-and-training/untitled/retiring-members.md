@@ -1,7 +1,7 @@
 # Retiring Members
 
 **Access Level Required: Owner, Editor.**\
-**﻿**\
+﻿****﻿\
 Retiring members allows their data to remain in D4H without having them appear in lists with your active members. For this reason, retiring a member is almost always preferred over deleting. \
 \
 To retire a member:

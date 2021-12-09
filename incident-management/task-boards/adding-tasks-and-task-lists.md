@@ -5,7 +5,7 @@ To add tasks and task lists to a [Task Board ](./)within your channel.
 * Click on the orange **Add** button and type in the name of the tasklist you want to create.
 * Double click into the row and click on the red **Add** button
 * Type in the task name
-* Click on the **Add **button to create additional tasks within that list
+* Click on the **Add** button to create additional tasks within that list
 
 #### WEB APP 
 
@@ -19,14 +19,14 @@ To add tasks and task lists to a [Task Board ](./)within your channel.
 
 
 {% hint style="info" %}
-Good task lists will relate to phases or responsibilities. This helps you see how each list is progressing to completion. 
+Good task lists will relate to phases or responsibilities. This helps you see how each list is progressing to completion.&#x20;
 {% endhint %}
 
 \
 Here are some examples of task lists and their respective tasks
 
 {% hint style="info" %}
-**IMT Initial Deployment** 
+**IMT Initial Deployment**&#x20;
 
 * Confirm attendees
 * Decide on equipment to travel
@@ -34,13 +34,13 @@ Here are some examples of task lists and their respective tasks
 * Initiate notification to selected roles
 * Deploy the Comms unit
 
-**Operations** 
+**Operations**&#x20;
 
 * Dispatch team to check on site
 * Initiate action play
 * Feedback to Operations on progress
 
-**Chemical Spill** 
+**Chemical Spill**&#x20;
 
 * Notify the highways agency
 * Notify the roads department
@@ -49,7 +49,7 @@ Here are some examples of task lists and their respective tasks
 * Update traffic signage to warn
 * Contract clean service if required
 
-**Evacuation** 
+**Evacuation**&#x20;
 
 * Identify the Evacuation Zone(s)
 * Identify high risk locations within the evacuation zone
@@ -59,7 +59,7 @@ Here are some examples of task lists and their respective tasks
 * Nominate the Shelters
 * Establish a public information hotline
 
-**Level A Donning Procedure (Hazmat Team)** 
+**Level A Donning Procedure (Hazmat Team)**&#x20;
 
 * Fluid intake
 * Entry and Back up Team seated

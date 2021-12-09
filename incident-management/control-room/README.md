@@ -16,7 +16,7 @@ Within an Incident, click on the speech bubble icon in the top right corner to o
 
 **Enter Channel**
 
-If an incident further evolves and requires more functionality, within an Incident you can press **Enter Channel **to enter the full channel as normal.
+If an incident further evolves and requires more functionality, within an Incident you can press **Enter Channel** to enter the full channel as normal.
 
 ## Updates
 

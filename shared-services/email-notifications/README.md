@@ -15,7 +15,7 @@ Weekly Briefing / Qualification Alerts / Daily Digest\
 
 
 * Click into any of the above and simply tick the name of the individuals you want to subscribe to the alerts
-* Click** Save Changes**\
+* Click **Save Changes**\
 
 
 ![](<../../.gitbook/assets/weekly briefing.gif>)
@@ -25,7 +25,7 @@ Weekly Briefing / Qualification Alerts / Daily Digest\
 A member can choose whether or not to receive these alerts.
 
 * Click on the gear wheel![](<../../.gitbook/assets/gear icon.png>) icon
-* Select** Email Preferences**
+* Select **Email Preferences**
 * Here you can choose what alerts you receive and when you should receive the Weekly Briefing\
 
 

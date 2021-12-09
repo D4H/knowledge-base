@@ -4,7 +4,7 @@ To bulk move items of equipment to a[ location](./), navigate to the Locations t
 
 ![](<../../.gitbook/assets/bulk moving items.png>)
 
-* Click** Move Items**
+* Click **Move Items**
 * If the equipment you want to move does not already have a location set against it, it will be under 'No Location'
 * Expand the 'No Location' section by clicking on the + symbol. Or you can search for an item in the filter box if you know the reference
 * Simply drag and drop the items you want to move over to the box on the right hand side

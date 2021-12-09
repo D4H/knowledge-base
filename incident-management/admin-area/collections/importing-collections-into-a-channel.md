@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Within [Incident Management](../../getting-started.md), it is possible to create and store pre-loaded content in [collections](./). Once you have created your collections in the [Admin Area](../), they become available to use within a [channel](../../channels/). 
+Within [Incident Management](../../getting-started.md), it is possible to create and store pre-loaded content in [collections](./). Once you have created your collections in the [Admin Area](../), they become available to use within a [channel](../../channels/).&#x20;
 
 It is now possible to configure a status board or task board to always suggest adding items from collections rather than adding a blank item. View [this](suggest-from-collections-versus-always-create-a-blank-item.md) article to see how to set this up. \
 \
@@ -25,15 +25,15 @@ To import data from collections:
 
 ## Importing Personnel and Roles from Collections
 
-When adding [Personnel](../../personnel/) and [Roles](../../roles/) to a channel, it will now always suggest from collections when you click the **Add** button. You will still have the option to **Add Blank**. 
+When adding [Personnel](../../personnel/) and [Roles](../../roles/) to a channel, it will now always suggest from collections when you click the **Add** button. You will still have the option to **Add Blank**.&#x20;
 
 ![](<../../../.gitbook/assets/2021-09-16 at 12.16.gif>)
 
 **MOBILE APP**
 
-It is now possible to import from collections in the mobile app. 
+It is now possible to import from collections in the mobile app.&#x20;
 
-* Click the **More Options Menu :** and select** Import from collections**
+* Click the **More Options Menu :** and select **Import from collections**
 
 ![](<../../../.gitbook/assets/import from collections mobile.jpg>)
 

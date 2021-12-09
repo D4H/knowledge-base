@@ -11,11 +11,11 @@ If you have created custom fields in your account, these will appear in the cust
 {% endhint %}
 
 * Once a report has been run you can choose to export the information by selecting **Download as Spreadsheet**
-* To save the custom report for future use click **Save Custom Report **at the bottom of the screen
+* To save the custom report for future use click **Save Custom Report** at the bottom of the screen
 
 When saving a custom report, you must give it a title. If saving a report with date ranges, use the relative dates e.g. 'Within Last 30 Days' rather than absolute dates 'Jan 5th - Feb 4th'. This will save you having to update the dates every time you re-run the report. \
 \
-Now that you have saved the report, you will be able to access the PDF by re-running the report. 
+Now that you have saved the report, you will be able to access the PDF by re-running the report.&#x20;
 
 {% hint style="info" %}
 Member+ and above will be able to run a saved report at any time

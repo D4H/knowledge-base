@@ -4,8 +4,8 @@ This page pertains to the following error message in [D4H Incident Management](.
 
 If your play failed to run, review the areas of your account below:
 
-* **Form Templates: **A play may fail to run because a form template has been deleted for a form that is included in a play.
-* **Collections: **Check to make sure that all the items included in your play are still available in collections. Attempting to import deleted items into a play can cause an error to occur. &#x20;
+* **Form Templates:** A play may fail to run because a form template has been deleted for a form that is included in a play.
+* **Collections:** Check to make sure that all the items included in your play are still available in collections. Attempting to import deleted items into a play can cause an error to occur. &#x20;
 
 Incident Managers can silence the error message by clicking on the exclamation point next to the incident runtime counter and selecting 'Dismiss Error'.&#x20;
 

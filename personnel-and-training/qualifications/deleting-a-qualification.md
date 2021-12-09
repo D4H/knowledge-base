@@ -12,5 +12,5 @@ To delete a qualification itself:
 If you want to delete the awarding of a qualification to a member:
 
 * Click on the person's name within the qualification
-* Click **Edit **on the award
+* Click **Edit** on the award
 * Click the small red Delete button at the bottom the page and enter your password

@@ -6,7 +6,7 @@ To sort your forms alphabetically
 
 * Click on **More Options \[⋮]**
 * Click on **Sort By**
-* Chose **Name **and then select either **Ascending** or **Descending**\
+* Chose **Name** and then select either **Ascending** or **Descending**\
 
 
 ![](<../../.gitbook/assets/sort forms alphabetically.gif>)

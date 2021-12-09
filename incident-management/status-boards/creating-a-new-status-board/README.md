@@ -4,7 +4,7 @@
 
 To create a new [Status Board](../) template, navigate to the [Admin Area](../../admin-area/) in your D4H [Incident Management](../../getting-started.md) account.
 
-* Open **Templates** >** Status Boards**
+* Open **Templates** > **Status Boards**
 * Click on **New Status Board**
 * Fill in the details and create your template using the [Form Builder](../../admin-area/templates/form-builder-and-field-types/)
 * Click **Save** at the bottom of the screen
@@ -46,7 +46,7 @@ The name field is by default set to 'Name' but you could change it to anything y
 The Name Field Template is an optional auto-generation template for the row name field. For example, you might want the name of each row to be automatically filled in with todays date. The following variables are available:\
 
 
-| <p><strong>Variable  </strong><br></p> | <p><strong>Output</strong><br></p>                |
+| <p><strong>Variable</strong>  <br></p> | <p><strong>Output</strong><br></p>                |
 | -------------------------------------- | ------------------------------------------------- |
 | <p>{day}<br></p>                       | <p>Day of Month (DD) e.g. 23<br></p>              |
 | <p>{month}<br></p>                     | <p>Month of Year (MM) e.g. 03<br></p>             |
@@ -76,7 +76,7 @@ D{counter} - {*}
 
 ## "Add" Behavior
 
-Some status boards are suited to long-form entry, some are quick with just a few details. This allows you to choose which option you would like when adding a new item to a status board. 
+Some status boards are suited to long-form entry, some are quick with just a few details. This allows you to choose which option you would like when adding a new item to a status board.&#x20;
 
 ![](<../../../.gitbook/assets/add behavior.png>)
 

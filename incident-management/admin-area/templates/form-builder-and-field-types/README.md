@@ -97,7 +97,7 @@ It is possible to populate a table field with the contents of a [status board](.
 
 
 
-* **Signature: **This adds a field for an electronic signature to your forms. This will allow you to sign status boards, tasks, and forms from both the web and mobile applications. Signing a form will `Lock` it from future edits.
+* **Signature:** This adds a field for an electronic signature to your forms. This will allow you to sign status boards, tasks, and forms from both the web and mobile applications. Signing a form will `Lock` it from future edits.
 
 ![](<../../../../.gitbook/assets/signature field.gif>)
 
