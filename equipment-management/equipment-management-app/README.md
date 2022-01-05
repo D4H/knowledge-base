@@ -12,24 +12,24 @@ The home screen is the first thing you see when opening the app. It shows recent
 
 ## Inspections
 
-View your upcoming [inspections](../inspections/) in the Inspections section. They are automatically sorted by inspection due date. Click the symbol in the upper right corner to show the option to [sort by location](displaying-equipment-data-by-location-in-the-app.md). See instructions below for more information about displaying equipment data by location. 
+View your upcoming [inspections](../inspections/) in the Inspections section. They are automatically sorted by inspection due date. Click the symbol in the upper right corner to show the option to [sort by location](displaying-equipment-data-by-location-in-the-app.md). See instructions below for more information about displaying equipment data by location.&#x20;
 
 ## Repairs
 
-View and complete [repairs ](../repairs/)in the Repairs section. Repairs are sorted into Incomplete, Due, and Mine. Click into a repair to see more information or mark it as complete. 
+View and complete [repairs ](../repairs/)in the Repairs section. Repairs are sorted into Incomplete, Due, and Mine. Click into a repair to see more information or mark it as complete.&#x20;
 
 ## Browse
 
-Browse equipment by [category and kind](../untitled/) in the Browse section. The first area shown is a list of all equipment categories. Click on a category to view the kinds within it. Clicking on a kind will take you to a list of individual items. Select one to view an item overview. More details can be seen by clicking **view item**. \
+Browse equipment by [category and kind](../categories\&kinds/) in the Browse section. The first area shown is a list of all equipment categories. Click on a category to view the kinds within it. Clicking on a kind will take you to a list of individual items. Select one to view an item overview. More details can be seen by clicking **view item**. \
 
 
 ## Search
 
-Search for equipment in the search section. A search history is displayed below the search bar. 
+Search for equipment in the search section. A search history is displayed below the search bar.&#x20;
 
 ## Settings
 
-Customize the app under settings. Select a method of scanning and chose whether to lock the app when not in use. 
+Customize the app under settings. Select a method of scanning and chose whether to lock the app when not in use.&#x20;
 
 {% content-ref url="displaying-equipment-data-by-location-in-the-app.md" %}
 [displaying-equipment-data-by-location-in-the-app.md](displaying-equipment-data-by-location-in-the-app.md)

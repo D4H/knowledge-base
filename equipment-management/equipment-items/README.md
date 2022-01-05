@@ -1,6 +1,6 @@
 # Equipment Items
 
-These are your physical items of equipment. See below examples of [Categories and Kinds](../untitled/) and the items of equipment in each. 
+These are your physical items of equipment. See below examples of [Categories and Kinds](../categories\&kinds/) and the items of equipment in each.&#x20;
 
 | <p> Category<br></p>       | <p> Kind<br></p>               | <p> Item<br></p>     |
 | -------------------------- | ------------------------------ | -------------------- |

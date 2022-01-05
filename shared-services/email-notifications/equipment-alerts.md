@@ -6,7 +6,7 @@ The system sends an automatic email notification when:
 * you are assigned a repair
 * a repair has been marked as in progress / completed (email sent to member that created the repair)
 * an inspection is due
-* supply of a kind drops below its designated [required supply level](../../equipment-management/untitled/disposable-equipment/supply-levels/required-supply-levels.md)
+* supply of a kind drops below its designated [required supply level](../../equipment-management/categories\&kinds/disposable-equipment/supply-levels/required-supply-levels.md)
 
 ## Equipment Alerts
 

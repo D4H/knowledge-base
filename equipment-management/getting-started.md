@@ -14,8 +14,8 @@
 [equipment-items](equipment-items/)
 {% endcontent-ref %}
 
-{% content-ref url="untitled/" %}
-[untitled](untitled/)
+{% content-ref url="categories&kinds/" %}
+[categories\&kinds](categories\&kinds/)
 {% endcontent-ref %}
 
 {% content-ref url="equipment-locations/" %}
