@@ -36,13 +36,13 @@ Our help desk is monitored by our technical support experts 24/7. When emailing,
 
 ### Open A Support Ticket
 
-If you need individual help, please create a support ticket by emailing the D4H Help Desk at [support@d4h.org](mailto:support@d4h.org). We will respond promptly.
+If you need individual help, please create a support ticket by emailing the D4H Help Desk at [support@d4h.com](mailto:support@d4h.com). We will respond promptly.
 
 ### Add Products And Upgrade Your Plan
 
-For pricing, sales, demos, and upgrades please contact your account manager directly, or email [sales@d4h.org](mailto:sales@d4h.org) to reach our Commercial Team.
+For pricing, sales, demos, and upgrades please contact your account manager directly, or email [sales@d4h.com](mailto:sales@d4h.com) to reach our Commercial Team.
 
 ### Billing & Finance
 
-If you have a question about your bill payments, invoicing, purchase order or finance, please contact [finance@d4h.org](mailto:finance@d4h.org).
+If you have a question about your bill payments, invoicing, purchase order or finance, please contact [finance@d4h.com](mailto:finance@d4h.com).
 
