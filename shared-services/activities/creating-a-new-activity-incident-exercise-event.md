@@ -45,6 +45,12 @@ On the attendance tab you will be able to select who should be added to the acti
 
 * You can [set individual and multi-period attendances](setting-attendance-periods-on-an-activity.md) for members on an activity and [assign roles](../../personnel-and-training/roles/)
 
+{% hint style="warning" %}
+If a member does not appear in the attendance drop down, please check their Joined Date. You may need to edit their Joined Date on their Member Profile if it is after the date of the Activity.
+
+e.g. Member Joined Date: January 3, 2022; Activity Date: January 1, 2022
+{% endhint %}
+
 ## K9
 
 Here you will be able to add the[ K9](../../personnel-and-training/k9-and-handlers/) that attended the activity, assuming you have first added the [handler](../../personnel-and-training/k9-and-handlers/adding-k9-and-handlers-to-an-activity.md) in the attendance tab.

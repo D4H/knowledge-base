@@ -10,7 +10,7 @@ To add or change a member's profile photo:
 
 ![](<../../.gitbook/assets/adding a members profile photo.gif>)
 
-After initially adding a member's profile photo you can change the photo by going directly to a member's folder:
+You can also change the members profile photo by going directly to a member's folder:
 
 * Go to **Intelligence** > **Documents**
 * Find the folder called Members and click into it
