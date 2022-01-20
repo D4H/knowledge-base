@@ -44,6 +44,19 @@ If you already have a D4H [Personnel & Training](../../personnel-and-training/ge
 
 {% embed url="https://youtu.be/HdstwennlSA" %}
 
+## Connect all Existing Personnel to their Personnel & Training Account
+
+Go to Collections in the Admin Area\
 
 
-\
+* Open **Personnel**&#x20;
+* Click on the dropdown arrow next to the **Add** button
+* Select **Import** from the dropdown menu
+* Click on **D4H Personnel** on the left hand menu in the pop up window
+* Select **Click Here** to link, without updating, all existing personnel to D4H [Personnel & Training](https://support.d4h.org/personnel-and-training/getting-started)
+
+![](<../../.gitbook/assets/Screenshot 2022-01-20 at 15.09.41.png>)
+
+{% hint style="info" %}
+Only existing Personnel will be linked if they have a Member Profile in Personnel & Training.
+{% endhint %}
