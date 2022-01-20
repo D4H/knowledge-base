@@ -95,7 +95,11 @@ It is possible to populate a table field with the contents of a [status board](.
 
 {% embed url="https://youtu.be/SKFMof54_gQ" %}
 
+In addition you can rearrange table field columns by clicking the **arrows** next to each column title.
 
+![](<../../../../.gitbook/assets/Screen Recording 2022-01-19 at 11.58.37.gif>)
+
+![Zoomed in from above video of the table field column.](<../../../../.gitbook/assets/Screenshot 2022-01-20 at 15.30.01.png>)
 
 * **Signature:** This adds a field for an electronic signature to your forms. This will allow you to sign status boards, tasks, and forms from both the web and mobile applications. Signing a form will `Lock` it from future edits.
 
