@@ -64,9 +64,26 @@ You can turn on / off the ability to start a blank play (i.e. there will be no d
 \
 **Default play**&#x20;
 
-Setting a default play enables one-click incident creation. Whatever you chose here will be what play you use automatically. You can chose to use a different play when starting an incident by clicking on the down arrow to the right of the start incident button and selecting **+Start New (advanced).** \
+Setting a default play enables one-click incident creation. Whatever you chose here will be what play you use automatically. You can chose to use a different play when starting an incident by clicking on the down arrow to the right of the start incident button and selecting **+Start New (advanced).**&#x20;
+
+**Announcements Notifications**
+
+For [announcements](../../updates/creating-an-announcement.md), you can set the default notification settings in the **Admin Area** > **Settings** > **Preferences.** This is for both Push Notifications and Email Notifications. \
 
 
-## Organization Map View
+![](../../../.gitbook/assets/preview-full-Admin\_Area\_\_\_D4H\_Incident\_Management\_-\_Home.png)
+
+* If **Notify by Default** is configured as the notification setting, when creating an announcement within an incident the following pop up appears.  This gives the user the option to uncheck the box to stop notifications being sent.&#x20;
+
+![](../../../.gitbook/assets/preview-lightbox-2021-ERT-060\_Yo\_yo\_2\_-\_Response\_Team\_\_\_D4H\_Incident\_Management.png)
+
+* If **Don't Notify by Default** is configured as the notification setting, when creating an announcement within an incident the following pop up appears. &#x20;
+
+![This is Don't Notify by Default as the notification setting.](<../../../.gitbook/assets/preview-lightbox-2021-ERT-060\_Yo\_yo\_2\_-\_Response\_Team\_\_\_D4H\_Incident\_Management (1).png>)
+
+* If **Always Notify** is configured as the notification setting, a notification will always be sent when an announcement is created.  No pop up box appears.
+* If **Never Notify** is configured as the notification setting, a notification is never sent when an announcement is created. No pop up box appears.
+
+## NOrganization Map View
 
 This is where you will set the [map](../../map/) view that will be shown in the channels list page.&#x20;
