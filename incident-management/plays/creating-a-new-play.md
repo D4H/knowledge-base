@@ -33,10 +33,21 @@ Select an icon for the play. This icon will be used to represent the play in the
 ## Channel Status
 
 These are the different [statuses](../status-boards/) or alert levels you can use to categorize an incident. They can be defined in Settings.\
-\
-This is also where you can set the default for alerting users that a channel has been created. Note, this can be overridden when starting a [channel](../channels/).&#x20;
 
-![](<../../.gitbook/assets/creating a new play.png>)
+
+## Alert all invited users that this incident was created
+
+\
+This is where you can set the default for alerting users that a [channel](../channels/) has been created.&#x20;
+
+![](<../../.gitbook/assets/Screenshot 2022-01-26 at 14.55.38.png>)
+
+![](<../../.gitbook/assets/Screenshot 2022-01-26 at 14.56.31.png>)
+
+* If **Enabled by Default** is configured as the alert setting, when creating a new channel an alert notification will be sent to invited users. Note, this can be overridden when starting a [channel](../channels/).&#x20;
+* If **Disabled by Default** is configured as the alert setting, when creating a new channel no alert notification will be sent to invited users. Note, this can be overridden when starting a [channel](../channels/).&#x20;
+* If **Always Enabled** is configured as the alert setting, when creating a new channel an alert notification will always be sent to invited users.&#x20;
+* If **Always Disabled** is configured as the alert setting, when creating a new channel no alert notification will be sent to invited users.
 
 ## Modules
 
