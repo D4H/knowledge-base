@@ -20,8 +20,12 @@
 
 * [D4H Personnel & Training Guide](personnel-and-training/getting-started.md)
 * [Members](personnel-and-training/untitled/README.md)
+  * [Member Profile Fields](personnel-and-training/untitled/member-profile-fields.md)
   * [Granting Access to Members](personnel-and-training/untitled/granting-access-to-members.md)
   * [Bulk import Members from a spreadsheet](personnel-and-training/untitled/bulk-import-members-from-a-spreadsheet.md)
+  * [Member Statuses](personnel-and-training/untitled/member-statuses/README.md)
+    * [Retirement Reasons](personnel-and-training/untitled/member-statuses/retirement-reasons.md)
+    * [Customize Member Statuses](personnel-and-training/untitled/member-statuses/customize-member-statuses.md)
   * [Updating my Personal Profile](personnel-and-training/untitled/updating-my-personal-profile.md)
   * [Retiring Members](personnel-and-training/untitled/retiring-members.md)
   * [Adding a Member's Profile Photo](personnel-and-training/untitled/adding-a-members-profile-photo.md)

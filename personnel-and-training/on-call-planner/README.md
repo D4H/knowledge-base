@@ -13,6 +13,10 @@ The default setting in your account will be Off-Call. To change this to on-call:
 
 ![](<../../.gitbook/assets/changing on-call status.gif>)
 
+{% hint style="info" %}
+It is not possible to report on On/Off-Call data.  A true measure of a Member's availability is their Attendance.&#x20;
+{% endhint %}
+
 {% content-ref url="updating-your-on-off-call-period.md" %}
 [updating-your-on-off-call-period.md](updating-your-on-off-call-period.md)
 {% endcontent-ref %}
