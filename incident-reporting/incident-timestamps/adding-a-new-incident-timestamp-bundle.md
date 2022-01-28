@@ -14,3 +14,5 @@ To add a new bundle:
 * Input the labels for the timestamps and click **Add Timestamp** underneath it
 * Set a Start timestamp and an End timestamp
 * Click **Save Changes**
+
+{% embed url="https://loom.com/share/ca13ec88392448138dd0aad471a239e3" %}
