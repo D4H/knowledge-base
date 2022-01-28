@@ -2,13 +2,13 @@
 
 ## Personnel & Training, Equipment Management, Incident Reporting
 
-Below are instructions for adding one or a few members to your accounts and granting them permission profiles. For information on how to bulk upload a large number of members all at once, go to the [members](../personnel-and-training/untitled/) article.&#x20;
+Below are instructions for adding one or a few members to your accounts and granting them permission profiles. For information on how to bulk upload a large number of members all at once, go to the [members](../personnel-and-training/members/) article.&#x20;
 
 To invite a member into your account:
 
 * Go to **Access**
 * Click the **+ Add Members** button
-* Add the member's name and their email address and any other relevant [Member Profile details](../personnel-and-training/untitled/member-profile-fields.md)
+* Add the member's name and their email address and any other relevant [Member Profile details](../personnel-and-training/members/member-profile-fields.md)
 * If you wish to add multiple members at the same time you can simply click **+ Add Another** for each and enter their details
 * Next, click **Import All Members**
 * Now that the member has been added you will need to grant them access

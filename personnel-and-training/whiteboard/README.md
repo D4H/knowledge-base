@@ -1,14 +1,20 @@
 # Whiteboard
 
-[Members](../untitled/) can write notes on your team whiteboard which appears on the team dashboard and within the mobile app. This whiteboard can be used for important notes to members and will automatically clear after a pre-defined period.
+[Members](../members/) can write notes on your team whiteboard which appears on the team dashboard and within the mobile app. This whiteboard can be used for important notes to members and will automatically clear after a pre-defined period.
 
-{% page-ref page="adding-a-note-to-the-whiteboard.md" %}
+{% content-ref url="adding-a-note-to-the-whiteboard.md" %}
+[adding-a-note-to-the-whiteboard.md](adding-a-note-to-the-whiteboard.md)
+{% endcontent-ref %}
 
-{% page-ref page="clearing-a-note-from-the-whiteboard-before-its-expiry.md" %}
+{% content-ref url="clearing-a-note-from-the-whiteboard-before-its-expiry.md" %}
+[clearing-a-note-from-the-whiteboard-before-its-expiry.md](clearing-a-note-from-the-whiteboard-before-its-expiry.md)
+{% endcontent-ref %}
 
-{% page-ref page="turning-off-the-whiteboard.md" %}
+{% content-ref url="turning-off-the-whiteboard.md" %}
+[turning-off-the-whiteboard.md](turning-off-the-whiteboard.md)
+{% endcontent-ref %}
 
-{% page-ref page="controlling-who-can-write-on-the-whiteboard.md" %}
-
-
+{% content-ref url="controlling-who-can-write-on-the-whiteboard.md" %}
+[controlling-who-can-write-on-the-whiteboard.md](controlling-who-can-write-on-the-whiteboard.md)
+{% endcontent-ref %}
 

@@ -1,12 +1,14 @@
 # Availability
 
-View a list of all [personnel](../untitled/) and their availability on a specific date or time. For each person, you’ll have their current location, if they are attending an activity, and the ability to see if all their [qualifications](../qualifications/) are still valid on this date.
+View a list of all [personnel](../members/) and their availability on a specific date or time. For each person, you’ll have their current location, if they are attending an activity, and the ability to see if all their [qualifications](../qualifications/) are still valid on this date.
 
-{% page-ref page="enabling-the-availability-module.md" %}
+{% content-ref url="enabling-the-availability-module.md" %}
+[enabling-the-availability-module.md](enabling-the-availability-module.md)
+{% endcontent-ref %}
 
-{% page-ref page="setting-or-deleting-an-availability-status.md" %}
-
-
+{% content-ref url="setting-or-deleting-an-availability-status.md" %}
+[setting-or-deleting-an-availability-status.md](setting-or-deleting-an-availability-status.md)
+{% endcontent-ref %}
 
 
 

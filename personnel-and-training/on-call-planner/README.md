@@ -1,6 +1,6 @@
 # On-Call Planner
 
-Your personnel can mark themselves on-call and off-call through our mobile app or through the web application. The on-call planner helps you to monitor available resources day-by-day and set required levels of [personnel](../untitled/) or [qualifications](../qualifications/) to ensure the right complement of skills are always available on-call and ready to respond.
+Your personnel can mark themselves on-call and off-call through our mobile app or through the web application. The on-call planner helps you to monitor available resources day-by-day and set required levels of [personnel](../members/) or [qualifications](../qualifications/) to ensure the right complement of skills are always available on-call and ready to respond.
 
 \
 The default setting in your account will be Off-Call. To change this to on-call:

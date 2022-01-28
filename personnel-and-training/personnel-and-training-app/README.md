@@ -24,7 +24,7 @@ Shows all [qualifications](../qualifications/) for your team. Click into a quali
 
 ### Members
 
-Lists all of your [members](../untitled/). Use the tabs along the top to sort by On-call status. Use the search bar to look up individual members.
+Lists all of your [members](../members/). Use the tabs along the top to sort by On-call status. Use the search bar to look up individual members.
 
 ### Whiteboard
 
