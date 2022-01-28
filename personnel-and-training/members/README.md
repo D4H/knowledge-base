@@ -4,16 +4,16 @@ Lookup personnel information within one central database with contact details, p
 \
 In order to invite a new team member to your account, you must first [add them as a member](../../user-access/inviting-new-users.md).
 
-{% content-ref url="granting-access-to-members.md" %}
-[granting-access-to-members.md](granting-access-to-members.md)
+{% content-ref url="../untitled/granting-access-to-members.md" %}
+[granting-access-to-members.md](../untitled/granting-access-to-members.md)
 {% endcontent-ref %}
 
-{% content-ref url="bulk-import-members-from-a-spreadsheet.md" %}
-[bulk-import-members-from-a-spreadsheet.md](bulk-import-members-from-a-spreadsheet.md)
+{% content-ref url="../untitled/bulk-import-members-from-a-spreadsheet.md" %}
+[bulk-import-members-from-a-spreadsheet.md](../untitled/bulk-import-members-from-a-spreadsheet.md)
 {% endcontent-ref %}
 
-{% content-ref url="retiring-members.md" %}
-[retiring-members.md](retiring-members.md)
+{% content-ref url="../untitled/retiring-members.md" %}
+[retiring-members.md](../untitled/retiring-members.md)
 {% endcontent-ref %}
 
 

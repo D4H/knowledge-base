@@ -8,7 +8,7 @@ To invite a member into your account:
 
 * Go to **Access**
 * Click the **+ Add Members** button
-* Add the member's name and their email address and any other relevant [Member Profile details](../personnel-and-training/members/member-profile-fields.md)
+* Add the member's name and their email address and any other relevant [Member Profile details](broken-reference)
 * If you wish to add multiple members at the same time you can simply click **+ Add Another** for each and enter their details
 * Next, click **Import All Members**
 * Now that the member has been added you will need to grant them access

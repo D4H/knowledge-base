@@ -28,7 +28,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 
 * View your team [calendar](../../personnel-and-training/calendar/).
 * Change your availability in the [on-call planner](../../personnel-and-training/on-call-planner/).
-* [Update your profile](../../personnel-and-training/members/updating-my-personal-profile.md) on Personnel & Training.
+* [Update your profile](../../personnel-and-training/untitled/updating-my-personal-profile.md) on Personnel & Training.
 * Add your [calendar to your mobile phone](../../personnel-and-training/calendar/exporting-my-d4h-calendar-to-my-personal-calendar.md).
 
 ### ![](../../.gitbook/assets/EM-rounded.png) Equipment Management
