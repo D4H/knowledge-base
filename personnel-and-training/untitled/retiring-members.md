@@ -1,7 +1,9 @@
 # Retiring Members
 
-**Access Level Required: Owner, Editor.**\
-﻿****﻿\
+{% hint style="info" %}
+[Owner or Editor](../../user-access/permissions.md) permission level is required.
+{% endhint %}
+
 Retiring members allows their data to remain in D4H without having them appear in lists with your active members. For this reason, retiring a member is almost always preferred over deleting. \
 \
 To retire a member:
@@ -13,5 +15,5 @@ To retire a member:
 * Click Finished to save your changes
 
 {% hint style="info" %}
-Owners can configure retirement reasons under Settings by going to Modules>Members and then selecting to add or edit Retirement Reasons
+Owners can configure retirement reasons under Settings by going to Modules > Members and then selecting to add or edit [Retirement Reasons](https://support.d4h.org/personnel-and-training/members/member-statuses/retirement-reasons).
 {% endhint %}

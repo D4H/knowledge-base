@@ -1,7 +1,9 @@
 # Bulk import Members from a spreadsheet
 
-**Access Level Required: Owner, Editor.**\
-\
+{% hint style="info" %}
+[Owner or Editor](../../user-access/permissions.md) permission level is required.
+{% endhint %}
+
 You have the ability to bulk-add members by uploading a spreadsheet. Spreadsheet files should be exported to CSV format from your spreadsheet software before upload.\
 \
 We recommend you use our Bulk-Upload Template. Make sure all your rows match our sample, including date format DD/MM/YYYY. To download the template and to then import the spreadsheet with member details:

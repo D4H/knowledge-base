@@ -1,10 +1,8 @@
 # Granting Access to Members
 
-**Access Level Required: Owner, Editor.**\
-\
-Once you have [added members](../../user-access/inviting-new-users.md) to the account you will want to grant some of them access and assign them a [permission level](../../shared-services/access-and-permissions/).\
-\
-To grant members access to your account:
+{% hint style="info" %}
+[Owner or Editor](../../user-access/permissions.md) permission level is required.
+{% endhint %}
 
 * Go to ![](../../.gitbook/assets/access.png) **Access**
 * In the **Username** column click **Send Invite** for the member you want to grant access

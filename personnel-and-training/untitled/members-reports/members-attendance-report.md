@@ -1,5 +1,9 @@
 # Members Attendance Report
 
+{% hint style="info" %}
+[Owner, Editor and Member+](../../../user-access/permissions.md) permission level required
+{% endhint %}
+
 To create a members attendance report:
 
 * Go to **Planning** -> **Members**

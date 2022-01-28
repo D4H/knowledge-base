@@ -1,5 +1,9 @@
 # Deleted Members Report
 
+{% hint style="info" %}
+[Owner or Editor](../../../user-access/permissions.md) permission level is required.
+{% endhint %}
+
 To create a deleted members report:
 
 * Go to **Planning** -> **Members**
