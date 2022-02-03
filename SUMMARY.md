@@ -133,7 +133,7 @@
   * [Linking an item to a Funding Source](equipment-management/funding-sources/linking-an-item-to-a-funding-source.md)
   * [Updating a Funding Source](equipment-management/funding-sources/updating-a-funding-source.md)
 * [Manufacturers and Models](equipment-management/manufacturers-and-models/README.md)
-  * [Adding Manufacturer & Model details to an item](equipment-management/manufacturers-and-models/adding-manufacturer-and-model-details-to-an-item.md)
+  * [Adding/Editing Manufacturer & Model details to an item](equipment-management/manufacturers-and-models/adding-manufacturer-and-model-details-to-an-item.md)
   * [Documents & Attachments for Equipment Models](equipment-management/manufacturers-and-models/documents-and-attachments-for-equipment-models.md)
 * [Equipment Barcoding](equipment-management/equipment-barcoding/README.md)
   * [Assigning A Barcode To An Item](equipment-management/equipment-barcoding/assigning-a-barcode-to-an-item.md)
