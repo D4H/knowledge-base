@@ -23,4 +23,4 @@ To edit existing manufacturer and model details:
 * Click ![](../../.gitbook/assets/907-9077140\_png-file-svg-transparent-background-edit-icons-png.png) **Edit** to update the details
 * Type in the updated details and click **Edit Manufacturer** or **Edit Model**
 
-{% embed url="https://www.loom.com/share/3a3a5395c568484b914d2a55df7b3929" %}
+{% embed url="https://youtu.be/9S_so-7IsZ0" %}

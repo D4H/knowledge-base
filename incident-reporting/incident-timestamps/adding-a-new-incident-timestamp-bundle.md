@@ -15,4 +15,4 @@ To add a new bundle:
 * Set a Start timestamp and an End timestamp
 * Click **Save Changes**
 
-{% embed url="https://loom.com/share/ca13ec88392448138dd0aad471a239e3" %}
+{% embed url="https://youtu.be/64SfhXhlx54" %}
