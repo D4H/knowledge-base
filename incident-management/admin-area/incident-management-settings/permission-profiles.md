@@ -45,7 +45,7 @@ You can either **Allow** or **Deny** to any of the following organization-level 
 Note: _Module level permissions do not apply to users who have a "Manage any incident" or "Manage an incident if invited" permissions._
 {% endhint %}
 
-You can grant one of the following access levels to any of the modules:
+You can either **Allow** or **Deny** the following access levels to any of the modules:
 
 * Read
 * Write
