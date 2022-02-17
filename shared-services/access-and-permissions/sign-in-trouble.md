@@ -28,7 +28,7 @@ We store and manage your email address in two locations within the software for 
 To change your account email, select the D4H logo in the top left of the screen once logged in, scroll to the bottom of the page and under "Your Account" select "Update Email Address".\
 \
 **Team Email:** Your team email is used for all communications within D4H specific to your team, like qualification alerts, the weekly digest emails and messages sent using the Communications Module. \
-To change your account password, select the Settings icon in the top right, select "Update Profile", then update the Email field. \
+To change your team email, select the Settings icon in the top right, select "Update Profile", then update the Email field. \
 \
 For most users, the Account Email and Team Email will/should be the same. Some users who have access to multiple teams may want different emails used in each team but should remember the email address associated with their D4H Account & Username.
 
