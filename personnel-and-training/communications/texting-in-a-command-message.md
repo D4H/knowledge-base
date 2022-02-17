@@ -1,6 +1,6 @@
 # Texting in a "Command Message"?
 
-**Access Level Required: Owner, Editor, Member.**
+**Access Level Required: Owner, Editor, Member+.**
 
 {% hint style="info" %}
 If you receive a text message from your team account and want to reply, simply reply as normal.
@@ -31,7 +31,7 @@ If you want to send a text message to a particular group, you firstly need to en
 
 * D TO OP → Send a text message to all operational team members\
 
-* D TO GROUP_SMSCODE → Send a message to a group, using their shortcode
+* D TO GROUP\_SMSCODE → Send a message to a group, using their shortcode
 
 {% hint style="info" %}
 New vs Old. We have introduced a new [Communications](./) module, which allows your response team’s messaging to be managed with ease. If you used our old SMS module, it is important to note that you no longer need to use your pin with the new Communications module.
