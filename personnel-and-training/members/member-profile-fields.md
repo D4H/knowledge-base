@@ -20,6 +20,10 @@ Any fields that have a padlock icon are considered private information and canno
 
 **Contact Details** This section shows the member's Primary Email, Phone Numbers and Notes.  Any detail with a ![](<../../.gitbook/assets/padlock icon.png>)padlock icon is considered private information and cannot be seen by anyone with [Member level permission](../../user-access/permissions.md).
 
+* Phone Numbers must be entered in the proper format in order for the [Personnel & Training Integrations ](../personnel-and-training-integrations/)SMS notifications to work successfully.
+
+![](<../../.gitbook/assets/Screen Shot 2022-02-16 at 12.40.34 PM.png>)
+
 **Costing** If you have set [costing](../../shared-services/cost-recovery/) for your personnel, this will display here.&#x20;
 
 **Groups** This will list the [Groups](../groups/) the Member is apart of.
