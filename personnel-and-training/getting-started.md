@@ -31,8 +31,8 @@
 [communications](communications/)
 {% endcontent-ref %}
 
-{% content-ref url="availability/" %}
-[availability](availability/)
+{% content-ref url="availability.md" %}
+[availability.md](availability.md)
 {% endcontent-ref %}
 
 {% content-ref url="roles/" %}
