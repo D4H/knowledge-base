@@ -1,6 +1,6 @@
 # Activities
 
-[Incidents](../../incident-reporting/incident-reports.md), [Exercises and Events](../../personnel-and-training/exercises-and-events/) are all called activities within D4H. 
+[Incidents](../../incident-reporting/incident-reports.md), [Exercises and Events](../../personnel-and-training/exercises-and-events/) are all called activities within D4H.&#x20;
 
 ### Exercises
 
@@ -14,17 +14,29 @@ Log activities such as meetings, maintenance, public events, and any other activ
 
 Automatically generate insightful [incident reports ](../../incident-reporting/incident-reports.md)with [Charts](../charts/), visualizations, and statistics. Access game-changing data to re-evaluate operations, make better decisions, and demonstrate the value of your organization to donors.
 
-{% page-ref page="creating-a-new-activity-incident-exercise-event.md" %}
+{% content-ref url="creating-a-new-activity-incident-exercise-event.md" %}
+[creating-a-new-activity-incident-exercise-event.md](creating-a-new-activity-incident-exercise-event.md)
+{% endcontent-ref %}
 
-{% page-ref page="setting-attendance-periods-on-an-activity.md" %}
+{% content-ref url="setting-attendance-periods-on-an-activity.md" %}
+[setting-attendance-periods-on-an-activity.md](setting-attendance-periods-on-an-activity.md)
+{% endcontent-ref %}
 
-{% page-ref page="track-equipment-usage.md" %}
+{% content-ref url="activity-attendance-sheet/" %}
+[activity-attendance-sheet](activity-attendance-sheet/)
+{% endcontent-ref %}
 
-{% page-ref page="viewing-the-audit-history-of-an-activity.md" %}
+{% content-ref url="track-equipment-usage.md" %}
+[track-equipment-usage.md](track-equipment-usage.md)
+{% endcontent-ref %}
 
-{% page-ref page="approving-an-activity.md" %}
+{% content-ref url="viewing-the-audit-history-of-an-activity.md" %}
+[viewing-the-audit-history-of-an-activity.md](viewing-the-audit-history-of-an-activity.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="approving-an-activity.md" %}
+[approving-an-activity.md](approving-an-activity.md)
+{% endcontent-ref %}
 
 
 
