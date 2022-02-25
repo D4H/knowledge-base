@@ -4,20 +4,27 @@ You can sync your [Situation](../../../situation/) form in [Incident Management]
 
 To set up syncing, go to the [Admin Area ](../../)and follow the steps below:
 
-* Go to **Settings** > D4H **Products Integration**
+* Go to **Settings** > **D4H Products Integration**
 * Under **D4H Team** click **Select team** and sign into your Incident Reporting account
 * Under **Incident Data Synchronization** click **Enable Synchronization**
 * Enter your Incident Reporting username and password and click **Login**
 * The synchronization is now enabled
-* Click **IM Situation <-> IR Incident** to bring up the Situation field mapping options
-* Select which fields on the Situation report will be pushed across to the corresponding Incident Reporting fields
-* Click **Save**
 
 {% hint style="info" %}
 You will first need to add [custom fields](../../../../shared-services/custom-fields/) to your Incident Reporting account to be able to map the fields across from your Situation
 {% endhint %}
 
-Only one member needs to configure the synchronization. Once field mapping has been set up, synchronization will occur automatically. There will no longer be the option to choose what to do with the data when shutting down an incident as the default is now to push it to Incident Reporting as a new draft.&#x20;
+* Click **IM Situation <-> IR Incident** to bring up the Situation field mapping options
+* Select which fields on the Situation report will be pushed across to the corresponding Incident Reporting fields
+* Click **Save**
+
+Only one member needs to configure the synchronization. Once field mapping has been set up, synchronization will occur automatically. There will no longer be the option to choose what to do with the data when shutting down an incident as the default is now to push it to Incident Reporting as a new draft.
+
+{% hint style="warning" %}
+It's important to note that once this integration is enabled, the next time you create a new Incident in Incident Management a Draft Incident Report will automatically be created. &#x20;
+
+_See below how to turn this off._
+{% endhint %}
 
 If adding test incidents to your account, you can choose to turn off the creation of a draft incident report when you initially start a new incident. Expand **Advanced Settings** and check the box to turn off this setting:
 
