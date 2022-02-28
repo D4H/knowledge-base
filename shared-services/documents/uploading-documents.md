@@ -1,11 +1,15 @@
 # Uploading Documents
 
+{% hint style="info" %}
+[Permission level](../../user-access/permissions.md) required is ‘Member+’ with the documents checkbox enabled.
+{% endhint %}
+
 To upload a document:
 
 * Go to **Intelligence** -> **Documents**
 * Click into a folder or create a new folder
 * Click **Add document**
-* Upload the file or simply drag and drop it into the box 
+* Upload the file or simply drag and drop it into the box&#x20;
 * You can set the document as 'Shared With Team' or 'Private'
 * Click **Upload Files**
 
