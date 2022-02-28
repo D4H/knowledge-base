@@ -7,3 +7,6 @@
 * To the right of the custom field click **Edit**
 * In the pop-up box which appears, click **Delete** at the bottom lefthand side
 
+{% hint style="warning" %}
+Deleting a Custom Field will permanently delete all data stored in that custom field for all past and future data. &#x20;
+{% endhint %}
