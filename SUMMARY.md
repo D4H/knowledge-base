@@ -139,6 +139,8 @@
 * [Equipment Management App](equipment-management/equipment-management-app/README.md)
   * [Displaying Equipment Data by Location in the App](equipment-management/equipment-management-app/displaying-equipment-data-by-location-in-the-app.md)
   * [Completing an Inspection in the App](equipment-management/equipment-management-app/completing-an-inspection-in-the-app.md)
+  * [Issuing Equipment to a Team Member in the App](equipment-management/equipment-management-app/issuing-equipment-to-a-team-member-in-the-app.md)
+  * [Moving an Item of Equipment in the App](equipment-management/equipment-management-app/moving-an-item-of-equipment-in-the-app.md)
 
 ## Incident Management
 
