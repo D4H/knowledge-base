@@ -7,7 +7,7 @@ description: >-
 
 # Tasks
 
-### Creating a Task
+### Creating Tasks
 
 To create a Task:
 
