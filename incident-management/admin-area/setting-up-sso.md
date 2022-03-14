@@ -1,7 +1,3 @@
----
-description: DRAFT
----
-
 # Setting Up SSO
 
 {% hint style="info" %}

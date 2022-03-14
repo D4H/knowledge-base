@@ -5,11 +5,11 @@
 The Personnel module in your [Incident Management](../getting-started.md) account is where you will see a list of all your personnel who have access to that channel. You can see who is currently online from this screen. Anyone who is online will have a ![Image Placeholder](<../../.gitbook/assets/green dot.png>) green dot next to their name and anyone who is offline will have a ![Image Placeholder](<../../.gitbook/assets/grey dot.png>) grey dot.
 
 \
-You can also assign a role to a member during an event / incident from this screen. 
+You can also assign a role to a member during an event / incident from this screen.&#x20;
 
 ## Templates
 
-Personnel have a [Template](../admin-area/templates/) which outlines the layout of the form behind it, and which columns should display on the [list view](../admin-area/templates/list-layout-columns.md). There is only one Personnel template for all of your channels across your Incident Management account. 
+Personnel have a [Template](../admin-area/templates/) which outlines the layout of the form behind it, and which columns should display on the [list view](../admin-area/templates/list-layout-columns.md). There is only one Personnel template for all of your channels across your Incident Management account.&#x20;
 
 {% content-ref url="configuring-the-personnel-template.md" %}
 [configuring-the-personnel-template.md](configuring-the-personnel-template.md)
@@ -29,7 +29,7 @@ Personnel have a [Template](../admin-area/templates/) which outlines the layout 
 
 ## Collections
 
-[Collections](../admin-area/collections/) are used to pre-load data into the Personnel module. This is where you will add your personnel to create their D4H Incident Management account and assign them a permission profile. 
+[Collections](../admin-area/collections/) are used to pre-load data into the Personnel module. This is where you will add your personnel to create their D4H Incident Management account and assign them a permission profile.&#x20;
 
 {% content-ref url="../admin-area/collections/creating-collections.md" %}
 [creating-collections.md](../admin-area/collections/creating-collections.md)
@@ -61,6 +61,10 @@ When you open a new [channel](../channels/) you can add in teams and roles on th
 
 {% content-ref url="searching-personnel.md" %}
 [searching-personnel.md](searching-personnel.md)
+{% endcontent-ref %}
+
+{% content-ref url="sorting-personnel.md" %}
+[sorting-personnel.md](sorting-personnel.md)
 {% endcontent-ref %}
 
 {% content-ref url="../situation/printing-to-pdf.md" %}
