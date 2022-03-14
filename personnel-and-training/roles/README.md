@@ -14,3 +14,6 @@ Roles are used to help track positions held by [members](../members/) of your te
 [setting-up-costing-for-roles.md](setting-up-costing-for-roles.md)
 {% endcontent-ref %}
 
+{% content-ref url="assigning-a-members-role-in-an-activity.md" %}
+[assigning-a-members-role-in-an-activity.md](assigning-a-members-role-in-an-activity.md)
+{% endcontent-ref %}
