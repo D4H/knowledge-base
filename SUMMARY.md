@@ -145,6 +145,8 @@
 ## Incident Management
 
 * [D4H Incident Management Guide](incident-management/getting-started.md)
+* [User Settings](incident-management/user-settings/README.md)
+  * [Two-Factor Authentication](incident-management/user-settings/two-factor-authentication.md)
 * [Channels](incident-management/channels/README.md)
   * [Starting a New Channel](incident-management/channels/starting-a-new-channel.md)
   * [Shutting Down a Channel](incident-management/channels/shutting-down-a-channel.md)
