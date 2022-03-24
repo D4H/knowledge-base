@@ -327,6 +327,7 @@
   * [Creating a new Activity (Incident / Exercise / Event)](shared-services/activities/creating-a-new-activity-incident-exercise-event.md)
   * [Approving an Activity](shared-services/activities/approving-an-activity.md)
   * [Setting Attendance Periods on an Activity](shared-services/activities/setting-attendance-periods-on-an-activity.md)
+  * [Bulk Updating Attendance on an Activity](shared-services/activities/bulk-updating-attendance-on-an-activity.md)
   * [Activity Attendance Sheet](shared-services/activities/activity-attendance-sheet/README.md)
     * [Printing Attendance Sheet](shared-services/activities/activity-attendance-sheet/printing-attendance-sheet.md)
     * [Customizing Attendance PDF Column Labels](shared-services/activities/activity-attendance-sheet/customizing-attendance-pdf-column-labels.md)

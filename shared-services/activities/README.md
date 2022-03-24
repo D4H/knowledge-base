@@ -22,6 +22,10 @@ Automatically generate insightful [incident reports ](../../incident-reporting/i
 [setting-attendance-periods-on-an-activity.md](setting-attendance-periods-on-an-activity.md)
 {% endcontent-ref %}
 
+{% content-ref url="bulk-updating-attendance-on-an-activity.md" %}
+[bulk-updating-attendance-on-an-activity.md](bulk-updating-attendance-on-an-activity.md)
+{% endcontent-ref %}
+
 {% content-ref url="activity-attendance-sheet/" %}
 [activity-attendance-sheet](activity-attendance-sheet/)
 {% endcontent-ref %}
