@@ -9,7 +9,7 @@ description: >-
 
 ## Enabl**ing** Two-Factor Authentication
 
-Only a member can enable 2FA in their account.&#x20;
+Only a Member can enable 2FA in their account.&#x20;
 
 * The Member must log into their Incident Management account
 * Click on the **green** ⇅ in the top right hand corner
@@ -24,17 +24,27 @@ Only a member can enable 2FA in their account.&#x20;
 
 * Type in your Incident Management account password
 * Click **Authorize** and follow these steps:
-  * Download an Authenticator App like Authy ([Google Play](https://play.google.com/store/apps/details?id=com.authy.authy), [App Store](https://itunes.apple.com/ie/app/authy/id494168017)) or Google Authenticator ([Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [App Store](https://itunes.apple.com/ie/app/google-authenticator/id388497605))
-  * Save the Two-Factor Authenticator password (this is not your log-in password)
+  * Download an Authenticator App. E.g. Authy ([Google Play Store](https://play.google.com/store/apps/details?id=com.authy.authy), [Apple Store](https://itunes.apple.com/ie/app/authy/id494168017), Google Authenticator ([Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [Apple Store](https://itunes.apple.com/ie/app/google-authenticator/id388497605)) or Microsoft Authenticator ([Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator), [Apple Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458))
+  * Save the Two-Factor Authenticator recovery code
   * Open the Authenticator App you downloaded and scan the QR Code or manually enter the unique key into your 2FA app manually
   * Type in the unique code you get from the Authenticator App in the number 4 space in your Incident Management Account
   * Click **Enable 2FA**
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-21 at 4.35.25 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-03-29 at 9.36.32 AM.png>)
 
 ## Disabling Two-Factor Authentication
 
-Only an [Owner](../../user-access/permissions.md) can disable 2FA for a user.
+Either the Member or an [Owner](../../user-access/permissions.md) can disable 2FA
+
+Member instructions:
+
+* Log into their Incident Management account
+* Click on the **green** ⇅ in the top right hand corner
+* Go to **User Settings**
+* Click on **Two-Factor Authentication** ![](<../../.gitbook/assets/cell phone.png>)tab
+* Click **Disable**
+
+Owner instructions:
 
 * Click on the **green** ⇅ in the top right hand corner
 * Go to the **Admin Area > Collections > Personnel**
