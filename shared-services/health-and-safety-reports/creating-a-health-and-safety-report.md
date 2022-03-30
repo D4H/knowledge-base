@@ -1,6 +1,6 @@
 # Creating a Health & Safety Report
 
-To create a Health & Safety report:
+## Creating a Health & Safety report:
 
 * Go to Intelligence -> Health & Safety
 * Click **+Add Report**
@@ -14,6 +14,8 @@ To create a Health & Safety report:
 * Click **Save Changes**
 
 ![](<../../.gitbook/assets/creating health and safety reports.gif>)
+
+## Adding Corrective Action Tasks
 
 * Once you have saved the report you can add your [tasks](../tasks/) in the _Corrective Actions_ section, these are your set of tasks to mitigate this&#x20;
 * Click **+Add Task** and fill in the the details
