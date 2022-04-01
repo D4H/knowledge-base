@@ -84,6 +84,6 @@ For [announcements](../../updates/creating-an-announcement.md), you can set the 
 * If **Always Notify** is configured as the notification setting, a notification will always be sent when an announcement is created.  No pop up box appears.
 * If **Never Notify** is configured as the notification setting, a notification is never sent when an announcement is created. No pop up box appears.
 
-## NOrganization Map View
+## Organization Map View
 
 This is where you will set the [map](../../map/) view that will be shown in the channels list page.&#x20;
