@@ -11,7 +11,7 @@ Go to the [Admin Area](../../)
 * Open **Settings** > **D4H Products Integration**
 * Turn on Integration Enabled by clicking the box
 * The **D4H Server Location** will already be set for you
-* Click ![Image Placeholder](<../../../../.gitbook/assets/crayon icon.png>)**Select team**
+* Click <img src="../../../../.gitbook/assets/crayon icon.png" alt="Image Placeholder" data-size="line">**Select team**
 * Log in with the username and password that you use to log into your Personnel & Training / Incident Reporting account (this is not your Incident Management account login)
 * Choose your team and click **Select**
 

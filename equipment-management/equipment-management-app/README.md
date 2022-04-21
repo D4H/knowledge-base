@@ -2,7 +2,7 @@
 
 Use the [D4H Equipment Management](../getting-started.md) app to track, repair, and inspect your equipment. Barcoding your items allows you to look them up instantly with an in-app scanner. All D4H apps allow for the use of [biometric authentication](../../shared-services/biometric-authentication.md) to secure your data.\
 \
-Switch between areas of the app by clicking the white ![](<../../.gitbook/assets/more options.png>) in the upper left hand corner of the main screen. The main sections of the Equipment Management app are:\
+Switch between areas of the app by clicking the white <img src="../../.gitbook/assets/more options.png" alt="" data-size="line"> in the upper left hand corner of the main screen. The main sections of the Equipment Management app are:\
 
 
 ## Home

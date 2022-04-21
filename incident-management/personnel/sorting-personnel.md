@@ -7,7 +7,7 @@ You have the ability to always show online [Personnel](https://support.d4h.com/i
 To disable this sort by filter:
 
 * Within an incident click on **Personnel** on the left hand menu
-* Click on the three dots menu ![](<../../.gitbook/assets/Three Dots.png>) at the top right
+* Click on the three dots menu <img src="../../.gitbook/assets/Three Dots.png" alt="" data-size="line"> at the top right
 * Click on **Sort By**
 * Select the **Don't sort by online status** button
 
@@ -18,7 +18,7 @@ To disable this sort by filter:
 To sort Personnel by [Role](../roles/):&#x20;
 
 * Within an incident click on **Personnel** on the left hand menu
-* Click on the three dots menu ![](<../../.gitbook/assets/Three Dots.png>) at the top right
+* Click on the three dots menu <img src="../../.gitbook/assets/Three Dots.png" alt="" data-size="line"> at the top right
 * Click on **Sort By**
 * Select **Role**
 

@@ -10,8 +10,8 @@ You can pin any field from the [Situation ](../situation/)to the [Dashboard](./)
 * Open the Situation template
 * Hover your mouse over the field you wish to pin and further options will appear on the right hand side of the field
 * Click the ⋮ menu
-* Select ![Image Placeholder](<../../.gitbook/assets/pin icon.png>) Show on the dashboard
-* It will now say ![](<../../.gitbook/assets/pin icon.png>) This field will be shown on the dashboard\
+* Select <img src="../../.gitbook/assets/pin icon.png" alt="Image Placeholder" data-size="line"> Show on the dashboard
+* It will now say <img src="../../.gitbook/assets/pin icon.png" alt="" data-size="line"> This field will be shown on the dashboard\
 
 
 ![](<../../.gitbook/assets/pinning a field to the dashboard 2.png>)

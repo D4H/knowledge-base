@@ -5,7 +5,7 @@ To print an Attendance Sheet:
 * Open the [Activity](../) you wish to print an attendance sheet for &#x20;
 * Scroll down to the Attendance section
 * Click on either the **All Requested** or **Confirmed PDF**
-* Once the PDF opens you can either click on the Download icon ![](../../../.gitbook/assets/6080-200.png) or the Printer icon ![](../../../.gitbook/assets/images.png)
+* Once the PDF opens you can either click on the Download icon <img src="../../../.gitbook/assets/6080-200.png" alt="" data-size="line"> or the Printer icon <img src="../../../.gitbook/assets/images.png" alt="" data-size="line">
 
 _Alternatively_:
 

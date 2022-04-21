@@ -5,7 +5,7 @@
 \
 In order to set up Costing, the Costing module must be activated. **** To do this:
 
-* Go to ![](../../.gitbook/assets/wrench.png) **Settings**
+* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> **Settings**
 * Under **Modules** select Costing
 * Turn ON or OFF
 

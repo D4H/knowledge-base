@@ -9,7 +9,7 @@ To set up costing based on Equipment Items:
 
 To set up costing based on Equipment Kinds:
 
-* Go to ![](../../.gitbook/assets/wrench.png) Settings
+* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> Settings
 * Under **Equipment** select Categories & Kinds
 * Click the [kind](../../equipment-management/categories\&kinds/) you want to apply costing values to
 * Select **Edit** and enter the appropriate costing

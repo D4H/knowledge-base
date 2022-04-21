@@ -2,7 +2,7 @@
 
 **Access Level Required: Owner**
 
-* Go to ![](../../.gitbook/assets/wrench.png)**Settings** -> **Whiteboard**
+* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line">**Settings** -> **Whiteboard**
 * Set the **Write Notes** option to **Only Editors**\
 
 

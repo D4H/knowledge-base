@@ -2,7 +2,7 @@
 
 To create a Task:
 
-* Go to **Logistics,** click on **Tasks** ![](../../.gitbook/assets/Tasks.png) **** and **Add a Task** to the right
+* Go to **Logistics,** click on **Tasks** <img src="../../.gitbook/assets/Tasks.png" alt="" data-size="line"> **** and **Add a Task** to the right
   * _Or_ click on **Dashboard** and **Add a Task** from the **Task** widget
 * Type in the title of the Task
 * Give a brief description as to what the Task is or give specific steps in order to complete the Task

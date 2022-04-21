@@ -8,7 +8,7 @@ To display the [Situation ](../situation/)on the [Map](./), you must complete th
 
 * Click into the location field on your SITREP
 * Search for an address by clicking on the magnifying glass or drag and drop the pin to the location
-* When you click on the map icon ![](<../../.gitbook/assets/map icon.png>) it will open the map on screen where you can see the pinned location for your event / incident
+* When you click on the map icon <img src="../../.gitbook/assets/map icon.png" alt="" data-size="line"> it will open the map on screen where you can see the pinned location for your event / incident
 * Go to the Map module to view it in fullscreen mode
 
 {% embed url="https://youtu.be/isTHdSwn5tQ" %}

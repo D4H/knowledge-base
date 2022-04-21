@@ -15,7 +15,7 @@ In Updates, you are able to filter the log posts to display only posts relating 
 
 You can also filter the log from the task board directly. To do this go to your task board
 
-* Click on the **log**![Image Placeholder](<../../.gitbook/assets/speech box icon.png>) to open the Tasks log
+* Click on the **log**<img src="../../.gitbook/assets/speech box icon.png" alt="Image Placeholder" data-size="line"> to open the Tasks log
 * You will see all log posts against this task board\
 
 

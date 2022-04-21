@@ -10,7 +10,7 @@ To add a note to the [whiteboard](./):
 
 #### **MOBILE APP**&#x20;
 
-* Click on More Options![Image Placeholder](<../../.gitbook/assets/more options.png>)to access the whiteboard\
+* Click on More Options<img src="../../.gitbook/assets/more options.png" alt="Image Placeholder" data-size="line">to access the whiteboard\
 
 
 ![](<../../.gitbook/assets/adding a note to the whiteboard.png>)

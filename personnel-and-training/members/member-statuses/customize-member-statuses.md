@@ -10,7 +10,7 @@ description: Add customized statuses under Operational and/or Non-Operational St
 
 To add/update Customized Member Statuses:
 
-* Go to ![](../../../.gitbook/assets/wrench.png) **Settings**
+* Go to <img src="../../../.gitbook/assets/wrench.png" alt="" data-size="line"> **Settings**
 * Scroll to **Modules** click on **Members**
 * Type in a New Status and click **Add New**
 * Continue to **Add New** until you have listed all of the desired statuses

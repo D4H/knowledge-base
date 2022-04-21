@@ -4,7 +4,7 @@ description: Welcome to our knowledge base and documentation.
 
 # Introduction 👋
 
-Welcome to the D4H Knowledge Base. This is a repository for informational and support articles relating to our four products: [Personnel & Training](personnel-and-training/getting-started.md), [Equipment Management](equipment-management/getting-started.md), [Incident Management](incident-management/getting-started.md), and [Incident Reporting](incident-reporting/getting-started.md). If you are looking for a particular topic, use the ![](.gitbook/assets/3134345-200.png)**Search** function in the top right. For general information, check out our guides below.&#x20;
+Welcome to the D4H Knowledge Base. This is a repository for informational and support articles relating to our four products: [Personnel & Training](personnel-and-training/getting-started.md), [Equipment Management](equipment-management/getting-started.md), [Incident Management](incident-management/getting-started.md), and [Incident Reporting](incident-reporting/getting-started.md). If you are looking for a particular topic, use the <img src=".gitbook/assets/3134345-200.png" alt="" data-size="line">**Search** function in the top right. For general information, check out our guides below.&#x20;
 
 You have a duty to respond to emergencies; we have a duty to _innovate_ - to keep improving our software using the latest technologies available. We are regularly updating our software to meet the complex and ever-evolving needs of emergency response groups, so check back regularly for information on how to use these new features as they are added.
 
@@ -12,19 +12,19 @@ You have a duty to respond to emergencies; we have a duty to _innovate_ - to kee
 
 It is easy for new users to get started with D4H. If you have received an invite from your organization to join D4H, read our [Quick Start Guide](user-accounts/quick-start-guide/) to learn how to set up your account.
 
-### ![](.gitbook/assets/emaillogo.png) [Quick Start Guide](user-accounts/quick-start-guide/)
+### <img src=".gitbook/assets/emaillogo.png" alt="" data-size="line"> [Quick Start Guide](user-accounts/quick-start-guide/)
 
 ## Administrator Guides
 
 If you are an administrator for your organization, check out the product guides below to find information about configuring and using your account.&#x20;
 
-### ![](.gitbook/assets/PT-rounded.png) **** [**Personnel & Training Administrators**](personnel-and-training/getting-started.md)****
+### <img src=".gitbook/assets/PT-rounded.png" alt="" data-size="line"> **** [**Personnel & Training Administrators**](personnel-and-training/getting-started.md)****
 
-### ****![](.gitbook/assets/EM-rounded.png) **** [**Equipment Management Administrators**](equipment-management/getting-started.md)****
+### ****<img src=".gitbook/assets/EM-rounded.png" alt="" data-size="line"> **** [**Equipment Management Administrators**](equipment-management/getting-started.md)****
 
-### ****![](.gitbook/assets/IM-rounded.png) **** [**Incident Management Administrators**](incident-management/getting-started.md) ****&#x20;
+### ****<img src=".gitbook/assets/IM-rounded.png" alt="" data-size="line"> **** [**Incident Management Administrators**](incident-management/getting-started.md) ****&#x20;
 
-### ****![](.gitbook/assets/IR-rounded.png) **** [**Incident Reporting Administrators**](incident-reporting/getting-started.md)****
+### ****<img src=".gitbook/assets/IR-rounded.png" alt="" data-size="line"> **** [**Incident Reporting Administrators**](incident-reporting/getting-started.md)****
 
 ## Product Updates & Release Notes
 

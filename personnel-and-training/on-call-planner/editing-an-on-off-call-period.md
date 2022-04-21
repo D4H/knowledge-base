@@ -15,13 +15,13 @@ To edit or delete your on/off call:
 
 To edit or delete your on/off call:
 
-* Log into![](../../.gitbook/assets/PT-rounded.png) [D4H Personnel & Training Mobile App](editing-an-on-off-call-period.md#undefined).
+* Log into<img src="../../.gitbook/assets/PT-rounded.png" alt="" data-size="line"> [D4H Personnel & Training Mobile App](editing-an-on-off-call-period.md#undefined).
 * Locate the period you wish to edit. &#x20;
   * If the dates are within the same month you will see the scheduled time on the landing page.
-  * If the dates are outside of the current month you will need to find the scheduled time using the ![Image Placeholder](<../../.gitbook/assets/more options.png>)**Hamburger Menu** > **Calendar** then the **<> arrows** until you find the month.
+  * If the dates are outside of the current month you will need to find the scheduled time using the <img src="../../.gitbook/assets/more options.png" alt="Image Placeholder" data-size="line">**Hamburger Menu** > **Calendar** then the **<> arrows** until you find the month.
 * From either the landing page or from the calendar view click on the scheduled date.
-* Click on the ![Image Placeholder](<../../.gitbook/assets/more options.png>)**Hamburger Menu** on the top left of the screen.
-* Select ![](<../../.gitbook/assets/pngtree-trash-glyph-black-icon-png-image\_1503544 (1).jpeg>) **Trash** and then **Confirm.**
+* Click on the <img src="../../.gitbook/assets/more options.png" alt="Image Placeholder" data-size="line">**Hamburger Menu** on the top left of the screen.
+* Select <img src="../../.gitbook/assets/pngtree-trash-glyph-black-icon-png-image_1503544 (1).jpeg" alt="" data-size="line"> **Trash** and then **Confirm.**
 * Add new dates by going back to the main menu on the mobile app and clicking on **Update** next to **Your Availability**.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-28 at 11.01.56 AM.png>)

@@ -12,7 +12,7 @@ To assign a member's role in an activity:
 
 To assign multiple roles to a member on an activity:
 
-* Select the ![](../../.gitbook/assets/duplicate.png) **Duplicate** icon on the far right hand side of their name
+* Select the <img src="../../.gitbook/assets/duplicate.png" alt="" data-size="line"> **Duplicate** icon on the far right hand side of their name
 * You will now be able to add an additional role for that member on that activity\
 
 

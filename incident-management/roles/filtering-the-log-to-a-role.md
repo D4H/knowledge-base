@@ -15,7 +15,7 @@ In [Updates](../updates/), you are able to filter the log posts to display only 
 
 You can also filter the log from the [Roles](./) module directly. To do this go to Roles
 
-* Click on the **log**![](<../../.gitbook/assets/speech box icon.png>) to open the Roles log
+* Click on the **log**<img src="../../.gitbook/assets/speech box icon.png" alt="" data-size="line"> to open the Roles log
 * You will see all log posts against all roles\
 
 

@@ -19,7 +19,7 @@ If you wish to restrict documents from a Member, create a private folder.
 
 To make the document private:
 
-* When uploading the document select the option to restrict the document's privacy to ![](<../../.gitbook/assets/padlock icon.png>)Private. This will apply the restrictions to the document\
+* When uploading the document select the option to restrict the document's privacy to <img src="../../.gitbook/assets/padlock icon.png" alt="" data-size="line">Private. This will apply the restrictions to the document\
 
 
 ![](<../../.gitbook/assets/making a document private.png>)

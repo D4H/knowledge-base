@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/personnel.png)
 
-The Personnel module in your [Incident Management](../getting-started.md) account is where you will see a list of all your personnel who have access to that channel. You can see who is currently online from this screen. Anyone who is online will have a ![Image Placeholder](<../../.gitbook/assets/green dot.png>) green dot next to their name and anyone who is offline will have a ![Image Placeholder](<../../.gitbook/assets/grey dot.png>) grey dot.
+The Personnel module in your [Incident Management](../getting-started.md) account is where you will see a list of all your personnel who have access to that channel. You can see who is currently online from this screen. Anyone who is online will have a <img src="../../.gitbook/assets/green dot.png" alt="Image Placeholder" data-size="line"> green dot next to their name and anyone who is offline will have a <img src="../../.gitbook/assets/grey dot.png" alt="Image Placeholder" data-size="line"> grey dot.
 
 \
 You can also assign a role to a member during an event / incident from this screen.&#x20;

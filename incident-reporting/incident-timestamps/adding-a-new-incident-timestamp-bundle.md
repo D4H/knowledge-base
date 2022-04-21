@@ -5,7 +5,7 @@ You can add your own custom incident timestamps to your incident report.\
 \
 To add a new bundle:
 
-* Go to ![](../../.gitbook/assets/wrench.png) Settings
+* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> Settings
 * Under **Custom Fields and Timestamps** click into **Incident Timestamps**
 * Select **Add Bundle**
 * Add a title for the bundle

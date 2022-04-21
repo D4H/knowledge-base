@@ -6,7 +6,7 @@ To create an inspection go to the Inspections tab:
 * Give your inspection a title such as 'Annual Rope Inspection'
 * You can add your inspection to a bundle to group inspections together. E.g. 'Rescue'
 * Click **Add Inspection** and your new inspection will appear at the bottom of the list
-* You will see the inspection is paused![Image Placeholder](<../../.gitbook/assets/pause icon.png>)
+* You will see the inspection is paused<img src="../../.gitbook/assets/pause icon.png" alt="Image Placeholder" data-size="line">
 * Click into the inspection and click **Update Details** to add further details and update the due date (see below for more information about these fields)
 * Click **Save Changes** at the bottom of the screen
 
@@ -14,7 +14,7 @@ To create an inspection go to the Inspections tab:
 The first time you look at the inspection you'll see that all the items are due immediately. As the system will not know when the items were last inspected you may need to update this.&#x20;
 {% endhint %}
 
-* To set the correct due dates click on the green tick ![Image Placeholder](<../../.gitbook/assets/green tick.png>) next to each item
+* To set the correct due dates click on the green tick <img src="../../.gitbook/assets/green tick.png" alt="Image Placeholder" data-size="line"> next to each item
 * Select the due date from the calendar picker
 * Click **Save Changes**
 * You will need to do this for all items so that the inspection due dates are correct going forward

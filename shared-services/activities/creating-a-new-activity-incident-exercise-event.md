@@ -35,7 +35,7 @@ The attendance type field allows you to specify whether or not you want all team
 
 * Selecting Full-Team Incident invites all team members to the activity. New team members will automatically be invited to future full-team activities
 * Selective-Team Incident means you can choose who to invite to the activity. You will be able to do this on the Attendance tab
-* To set the default for this field go to ![](../../.gitbook/assets/wrench.png) **Settings**
+* To set the default for this field go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> **Settings**
   * Under **Modules** select **Attendance**
   * Set your preference under the **Defaults** section
 

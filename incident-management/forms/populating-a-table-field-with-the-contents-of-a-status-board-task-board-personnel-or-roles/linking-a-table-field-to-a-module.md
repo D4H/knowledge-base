@@ -6,10 +6,10 @@ Navigate to the [Admin Area](../../admin-area/) in your D4H [Incident Management
 
 * Open **Templates** > select the module that has the table, such as **Forms** for example
 * Click into the form containing the table field or click on **New form template** to create a new form and add a table field
-* To link the table to a module click **More Options \[⋮]** and select  ![](<../../../.gitbook/assets/chainlink icon.png>) **Link table** to module
+* To link the table to a module click **More Options \[⋮]** and select  <img src="../../../.gitbook/assets/chainlink icon.png" alt="" data-size="line"> **Link table** to module
 * Select the module you wish to link the table to, the table will be populated with data from this module
-* You can add your own fields to the table and map them to fields on the linked module by selecting ![](<../../../.gitbook/assets/chainlink icon.png>) **\<No mapping>**
-* Or you can import fields from the linked module by selecting ![](<../../../.gitbook/assets/chainlink icon.png>) **Import field**
+* You can add your own fields to the table and map them to fields on the linked module by selecting <img src="../../../.gitbook/assets/chainlink icon.png" alt="" data-size="line"> **\<No mapping>**
+* Or you can import fields from the linked module by selecting <img src="../../../.gitbook/assets/chainlink icon.png" alt="" data-size="line"> **Import field**
 
 {% hint style="info" %}
 Any fields added to the table must match the [field type](../../admin-area/templates/form-builder-and-field-types/) of the field you want to map it to

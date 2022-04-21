@@ -6,7 +6,7 @@ You can tag tasks against a log post. This makes it easy to see exactly what eac
 
 * Click on the **+Tag** icon and start typing in the name of the task you wish to tag
 * Select the task from the drop down
-* Type your message and hit the **Enter** key or press the![Image Placeholder](<../../.gitbook/assets/paper airplane icon.png>) icon
+* Type your message and hit the **Enter** key or press the<img src="../../.gitbook/assets/paper airplane icon.png" alt="Image Placeholder" data-size="line"> icon
 * Your post will now show in the log with the task tagged against it
 
 {% embed url="https://youtu.be/gy9Q2cbmJgA" %}

@@ -4,12 +4,12 @@ You can display your tasks on the map which makes it easy to see the location sp
 
 #### WEB APP
 
-To display tasks on the [Map](./), you must have a [location field](../admin-area/templates/form-builder-and-field-types/) on your [Tasks](../task-boards/) form 
+To display tasks on the [Map](./), you must have a [location field](../admin-area/templates/form-builder-and-field-types/) on your [Tasks](../task-boards/) form&#x20;
 
 * Click into the location field on your task
 * Search for an address by clicking on the magnifying glass or drag and drop the pin to the location
 * Continue doing this for your other tasks
-* When you click on the map icon ![Image Placeholder](<../../.gitbook/assets/map icon.png>) it will open the map on screen where you can see all pinned locations for your tasks
+* When you click on the map icon <img src="../../.gitbook/assets/map icon.png" alt="Image Placeholder" data-size="line"> it will open the map on screen where you can see all pinned locations for your tasks
 * Go to the Map module and you will see all pinned task locations here too
 
 {% embed url="https://youtu.be/QfVG7ojDb1s" %}

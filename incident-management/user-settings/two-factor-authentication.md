@@ -17,7 +17,7 @@ Only a Member can enable 2FA in their account.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-24 at 10.18.53.png>)
 
-* Click on **Two-Factor Authentication** ![](<../../.gitbook/assets/cell phone.png>)tab
+* Click on **Two-Factor Authentication** <img src="../../.gitbook/assets/cell phone.png" alt="" data-size="line">tab
 * Click **Enable**
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-21 at 4.34.31 PM.png>)
@@ -41,7 +41,7 @@ Member instructions:
 * Log into their Incident Management account
 * Click on the **green** ⇅ in the top right hand corner
 * Go to **User Settings**
-* Click on **Two-Factor Authentication** ![](<../../.gitbook/assets/cell phone.png>)tab
+* Click on **Two-Factor Authentication** <img src="../../.gitbook/assets/cell phone.png" alt="" data-size="line">tab
 * Click **Disable**
 
 Owner instructions:

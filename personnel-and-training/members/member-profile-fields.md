@@ -18,7 +18,7 @@ Any fields that have a padlock icon are considered private information and canno
 
 **Activities** This section shows the member's Previous, Current and Scheduled Activities.  For more information visit the [Activities Articles](https://support.d4h.org/shared-services/activities). Click **View All Attendance** to access the [members attendance report](../untitled/members-reports/members-attendance-report.md).&#x20;
 
-**Contact Details** This section shows the member's Primary Email, Phone Numbers and Notes.  Any detail with a ![](<../../.gitbook/assets/padlock icon.png>)padlock icon is considered private information and cannot be seen by anyone with [Member level permission](../../user-access/permissions.md).
+**Contact Details** This section shows the member's Primary Email, Phone Numbers and Notes.  Any detail with a <img src="../../.gitbook/assets/padlock icon.png" alt="" data-size="line">padlock icon is considered private information and cannot be seen by anyone with [Member level permission](../../user-access/permissions.md).
 
 * Phone Numbers must be entered in the proper format in order for the [Personnel & Training Integrations ](../personnel-and-training-integrations/)SMS notifications to work successfully.
 

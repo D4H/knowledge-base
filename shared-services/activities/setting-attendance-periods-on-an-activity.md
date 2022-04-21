@@ -17,7 +17,7 @@ Multiple attendance periods can be created for individual members or multiple me
 Additional attendance period for an individual member:
 
 * On the attendance tab select the check box next to the members name
-* Then select the ![](../../.gitbook/assets/duplicate.png) **duplicate** icon
+* Then select the <img src="../../.gitbook/assets/duplicate.png" alt="" data-size="line"> **duplicate** icon
 * A second attendance period will be created for that member and you can update the From/To period as usual
 
 ![](<../../.gitbook/assets/setting attendance periods (1).gif>)
@@ -25,7 +25,7 @@ Additional attendance period for an individual member:
 Additional attendance period for multiple members:
 
 * Select the members using the checkbox beside each name
-*  Select **Duplicate** from the bulk action drop down menu
+* &#x20;Select **Duplicate** from the bulk action drop down menu
 * This will create an additional attendance period for each member selected\
 
 
