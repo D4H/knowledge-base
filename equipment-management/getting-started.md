@@ -22,6 +22,10 @@
 [equipment-locations](equipment-locations/)
 {% endcontent-ref %}
 
+{% content-ref url="equipment-checklists/" %}
+[equipment-checklists](equipment-checklists/)
+{% endcontent-ref %}
+
 {% content-ref url="inspections/" %}
 [inspections](inspections/)
 {% endcontent-ref %}
