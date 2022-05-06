@@ -27,9 +27,7 @@ Browse equipment by [category and kind](../categories\&kinds/) in the Browse sec
 
 Search for equipment in the search section. A search history is displayed below the search bar.&#x20;
 
-## Settings
 
-Customize the app under settings. Select a method of scanning and chose whether to lock the app when not in use.&#x20;
 
 {% content-ref url="displaying-equipment-data-by-location-in-the-app.md" %}
 [displaying-equipment-data-by-location-in-the-app.md](displaying-equipment-data-by-location-in-the-app.md)
@@ -39,7 +37,14 @@ Customize the app under settings. Select a method of scanning and chose whether 
 [completing-an-inspection-in-the-app.md](completing-an-inspection-in-the-app.md)
 {% endcontent-ref %}
 
+{% content-ref url="issuing-equipment-to-a-team-member-in-the-app.md" %}
+[issuing-equipment-to-a-team-member-in-the-app.md](issuing-equipment-to-a-team-member-in-the-app.md)
+{% endcontent-ref %}
 
+{% content-ref url="moving-an-item-of-equipment-in-the-app.md" %}
+[moving-an-item-of-equipment-in-the-app.md](moving-an-item-of-equipment-in-the-app.md)
+{% endcontent-ref %}
 
-
-
+{% content-ref url="equipment-app-settings.md" %}
+[equipment-app-settings.md](equipment-app-settings.md)
+{% endcontent-ref %}

@@ -30,10 +30,6 @@ Lists all of your [members](../members/). Use the tabs along the top to sort by 
 
 [Whiteboard ](../whiteboard/)messages are displayed on both the whiteboard tab and on the Home page. You can add items to the whiteboard by clicking the writing pad symbol in the bottom right.&#x20;
 
-### Settings&#x20;
-
-Update your app settings here. Select a Scanning Device and chose whether to lock the app when not in use.&#x20;
-
 {% content-ref url="updating-your-attendance-in-the-app.md" %}
 [updating-your-attendance-in-the-app.md](updating-your-attendance-in-the-app.md)
 {% endcontent-ref %}
@@ -42,5 +38,7 @@ Update your app settings here. Select a Scanning Device and chose whether to loc
 [setting-your-on-call-status-in-the-app.md](setting-your-on-call-status-in-the-app.md)
 {% endcontent-ref %}
 
-
+{% content-ref url="personnel-app-settings.md" %}
+[personnel-app-settings.md](personnel-app-settings.md)
+{% endcontent-ref %}
 
