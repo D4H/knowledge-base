@@ -20,6 +20,10 @@ Everbridge\
 
 ![](<../../.gitbook/assets/everbridge integration.png>)
 
+{% hint style="warning" %}
+If you receive an error message after entering your Everbridge Username and Password and clicking Next>, you will need to reach out to Everbridge for assistance.  This is likely due to an issue with your Everbridge login credentials.&#x20;
+{% endhint %}
+
 ## World Text
 
 Enter your World Text account ID and API key\
