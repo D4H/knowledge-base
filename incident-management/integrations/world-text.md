@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/worldtext.png)
 
-[https://www.world-text.com](https://www.world-text.com)
+[https://www.world-text.com](https://www.world-text.com/)
 
 Specialist inbound and two way bulk text messaging experts.
 
@@ -34,7 +34,7 @@ World Text can be configured as a mass notifications provider within [Incident M
 **Using World Text**
 
 * To use the integration, follow the instructions to send a new message through our [Mass Notifications](../mass-notifications/) module.
-* When you send a new mass-notification, you will be presented with a list of your Address Book Groups created in World Text. You will be able to select an address book group as a recipient and enter a message, and we will initiate it as mass notification SMS / Email within World Text. 
+* When you send a new mass-notification, you will be presented with a list of your Address Book Groups created in World Text. You will be able to select an address book group as a recipient and enter a message, and we will initiate it as mass notification SMS / Email within World Text.&#x20;
 * Your World Text address book contacts are not accessed by D4H.
 
 See all Incident Management [Integrations](./).

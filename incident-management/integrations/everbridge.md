@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/everbridge.png)
 
-[https://www.everbridge.com/](https://www.everbridge.com)
+[https://www.everbridge.com/](https://www.everbridge.com/)
 
 ## D4H Incident Management
 

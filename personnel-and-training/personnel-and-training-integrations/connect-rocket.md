@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/connect rocket.png>)
 
-[https://www.connectrocket.com/](https://www.connectrocket.com)\
+[https://www.connectrocket.com/](https://www.connectrocket.com/)\
 \
 Team Emergency Paging, Conference Calls, SMS Text Messages
 

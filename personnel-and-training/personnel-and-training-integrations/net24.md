@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/Net24.png)
 
-[https://www.net24.co.nz/](https://www.net24.co.nz)\
+[https://www.net24.co.nz/](https://www.net24.co.nz/)\
 \
 SMS, New Zealand
 

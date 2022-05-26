@@ -49,10 +49,10 @@ We have servers around the world and you may be trying to log in to an incorrect
 Every team has its own web address to sign in with. You should find yours and bookmark it. If you are unable to remember your team URL there is a generic login page that can assist you with accessing your account. \
 Remember, even though you are physically located in one of these regions, your team account may not be on the local server.&#x20;
 
-* Asia-Pacific: [**https://go.ap.d4h.org**](https://go.ap.d4h.org)\
+* Asia-Pacific: [**https://go.ap.d4h.org**](https://go.ap.d4h.org/)\
 
-* Canada: [**https://go.ca.d4h.org**](https://go.ca.d4h.org)\
+* Canada: [**https://go.ca.d4h.org**](https://go.ca.d4h.org/)\
 
-* European Union:[**https://go.eu.d4h.org**](https://go.eu.d4h.org)\
+* European Union:[**https://go.eu.d4h.org**](https://go.eu.d4h.org/)\
 
-* Global / United States: [**https://go.d4h.org**](https://go.d4h.org)
+* Global / United States: [**https://go.d4h.org**](https://go.d4h.org/)

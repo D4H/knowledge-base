@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/twilio logo.png>)
 
-[https://www.twilio.com/](https://www.twilio.com)\
+[https://www.twilio.com/](https://www.twilio.com/)\
 \
 SMS Text Messages, Voice Calls
 

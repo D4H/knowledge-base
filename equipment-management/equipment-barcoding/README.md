@@ -14,7 +14,7 @@ Barcode types available to use are Code128, QR or ITF. To change the type:
 ## What Hardware Do I Need?
 
 \
-You can buy pre-made barcode or QR stickers codes from [https://www.myassettag.com](https://www.myassettag.com). You can buy them to match your Refs or just get random digits on them. Please make sure if you are selecting random that they do not match any of your existing Refs e.g. start from a high number such as 5000001, 5000002, 5000003 etc.\
+You can buy pre-made barcode or QR stickers codes from [https://www.myassettag.com](https://www.myassettag.com/). You can buy them to match your Refs or just get random digits on them. Please make sure if you are selecting random that they do not match any of your existing Refs e.g. start from a high number such as 5000001, 5000002, 5000003 etc.\
 \
 For scanning you have two options. You can either use the camera on your smartphone and our Equipment Management mobile app, or you can use a USB barcode scanner attached to your laptop/desktop computer.\
 \

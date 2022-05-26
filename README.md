@@ -28,7 +28,15 @@ If you are an administrator for your organization, check out the product guides 
 
 ## Product Updates & Release Notes
 
-See our [release notes](https://updates.d4htechnologies.com) for information about product updates and new features.
+See our [release notes](https://updates.d4htechnologies.com/) for information about product updates and new features.
+
+## Live Status Page
+
+See our [status page](https://status.d4h.com/) to see a live status of the operational status of all our products and regions.
+
+To subscribe to the Service Status scroll to the bottom of the page. Here you can enter your email to get an email update every-time the service goes down / resolves, and also get updates on any manually reported service degradation or maintenance periods.
+
+![](<.gitbook/assets/Screenshot 2022-05-26 at 12.48.29.png>)
 
 ## Help Desk
 

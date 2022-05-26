@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/singlewire informacast logo.png>)
 
-[https://www.singlewire.com/](https://www.singlewire.com)\
+[https://www.singlewire.com/](https://www.singlewire.com/)\
 \
 A mass notification system that sends audio, text and images to mobile and on-premises devices.
 
