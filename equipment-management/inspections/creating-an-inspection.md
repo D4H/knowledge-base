@@ -24,7 +24,7 @@ The first time you look at the inspection you'll see that all the items are due 
 \
 **Performed Every:** Set the frequency of your inspection based on Days, Months or Years.\
 \
-**Remind Before Due:** Set the number of days before the due date a reminder notification should be sent. Select members will receive this notification.\
+**Remind Before Due:** Set the number of days/months/years before the due date a reminder notification should be sent. Select members will receive this notification.\
 \
 **Auto-Out of Service:** If the inspection is not completed on time, the applicable equipment will be marked as unserviceable.\
 \
