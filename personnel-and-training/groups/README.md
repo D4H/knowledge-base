@@ -1,3 +1,7 @@
+---
+description: D4H Personnel & Training
+---
+
 # Groups
 
 Groups are used to organize [members](../members/) of your team for [communications](../communications/) and other management functions. \
