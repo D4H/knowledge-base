@@ -1,6 +1,6 @@
 # Documents
 
-Upload training materials, manuals, and resources to a shared document repository. Attach photos to training exercises, [member's profiles](../../personnel-and-training/members/), items of equipment and ensure security by adding permissions to folders. This enables you to access important documents from any location and device.
+Upload training materials, manuals, and resources to a shared document repository. Attach photos to training exercises, [member's profiles](../../personnel-and-training/untitled/), items of equipment and ensure security by adding permissions to folders. This enables you to access important documents from any location and device.
 
 Options are available to set the privacy of documents uploaded to your account.
 
@@ -12,23 +12,15 @@ Documents and photos can only be uploaded and edited by Owners, Editors and Memb
 The maximum file size of uploaded documents is 50mb.
 {% endhint %}
 
-{% content-ref url="uploading-documents.md" %}
-[uploading-documents.md](uploading-documents.md)
-{% endcontent-ref %}
+{% page-ref page="uploading-documents.md" %}
 
-{% content-ref url="adding-a-new-revision-of-a-document.md" %}
-[adding-a-new-revision-of-a-document.md](adding-a-new-revision-of-a-document.md)
-{% endcontent-ref %}
+{% page-ref page="adding-a-new-revision-of-a-document.md" %}
 
-{% content-ref url="deleting-a-document.md" %}
-[deleting-a-document.md](deleting-a-document.md)
-{% endcontent-ref %}
+{% page-ref page="deleting-a-document.md" %}
 
-{% content-ref url="creating-a-folder.md" %}
-[creating-a-folder.md](creating-a-folder.md)
-{% endcontent-ref %}
+{% page-ref page="creating-a-folder.md" %}
 
-{% content-ref url="deleting-a-folder.md" %}
-[deleting-a-folder.md](deleting-a-folder.md)
-{% endcontent-ref %}
+{% page-ref page="deleting-a-folder.md" %}
+
+
 

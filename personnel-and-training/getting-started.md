@@ -11,8 +11,8 @@
 [signing-in-1.md](../user-accounts/quick-start-guide/signing-in-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="members/" %}
-[members](members/)
+{% content-ref url="untitled/" %}
+[untitled](untitled/)
 {% endcontent-ref %}
 
 {% content-ref url="qualifications/" %}
@@ -31,8 +31,8 @@
 [communications](communications/)
 {% endcontent-ref %}
 
-{% content-ref url="availability.md" %}
-[availability.md](availability.md)
+{% content-ref url="availability/" %}
+[availability](availability/)
 {% endcontent-ref %}
 
 {% content-ref url="roles/" %}
