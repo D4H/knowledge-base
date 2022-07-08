@@ -1,7 +1,5 @@
 ---
 description: Welcome to our knowledge base and documentation.
-cover: .gitbook/assets/d4h-city.jpg
-coverY: 0
 ---
 
 # Introduction 👋

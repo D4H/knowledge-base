@@ -314,7 +314,7 @@
 * [Location Bookmarks](incident-reporting/location-bookmarks.md)
 * [Lost Person Behavior](incident-reporting/lost-person-behavior/README.md)
   * [Entering Lost Person Behavior details](incident-reporting/lost-person-behavior/entering-lost-person-behavior-details.md)
-  * [Export Lost Person Behavior Data](incident-reporting/lost-person-behavior/export-lost-person-behavior-data.md)
+  * [Exporting Lost Person Behavior Data](incident-reporting/lost-person-behavior/export-lost-person-behavior-data.md)
 * [Persons Involved](incident-reporting/persons-involved/README.md)
   * [Turning on the Persons Involved module](incident-reporting/persons-involved/turning-on-the-persons-involved-module.md)
   * [Entering Persons Involved details](incident-reporting/persons-involved/entering-persons-involved-details.md)
