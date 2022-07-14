@@ -7,7 +7,7 @@ There are 4 access permissions: Member, Member+, Editor, and Owner. Within these
 
 * Read-only account
 * Good for normal members as they may edit their own basic details
-* Members can not see private data (marked with a ![Image Placeholder](<../../.gitbook/assets/padlock icon.png>) padlock icon)
+* Members can not see private data (marked with a <img src="../../.gitbook/assets/padlock icon.png" alt="Image Placeholder" data-size="line"> padlock icon)
 
 ## Member+
 

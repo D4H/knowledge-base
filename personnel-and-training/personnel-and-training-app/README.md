@@ -42,3 +42,10 @@ Lists all of your [members](../members/). Use the tabs along the top to sort by 
 [personnel-app-settings.md](personnel-app-settings.md)
 {% endcontent-ref %}
 
+{% content-ref url="assigning-an-nfc-tag-to-a-member-in-the-app.md" %}
+[assigning-an-nfc-tag-to-a-member-in-the-app.md](assigning-an-nfc-tag-to-a-member-in-the-app.md)
+{% endcontent-ref %}
+
+{% content-ref url="scanning-an-nfc-tag-in-the-app.md" %}
+[scanning-an-nfc-tag-in-the-app.md](scanning-an-nfc-tag-in-the-app.md)
+{% endcontent-ref %}
