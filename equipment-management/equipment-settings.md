@@ -10,16 +10,18 @@ Here you can turn on or off certain modules within Equipment Management:\
 \
 **Auto-Out of Service:** If this is set to On and an item of equipment expires, the item will automatically change status to be out of service\
 \
-**Show in Lists:** tick the boxes if you want this information displayed in the list view
+**Show in Lists:** Tick the boxes if you want this information displayed in the list view
 
 ![](<../.gitbook/assets/show in lists.png>)
 
 \
 \
-**Barcode Type:** here you can select the [barcode](equipment-barcoding/) type you wish to use\
-\
-**Labels:** You can change the labels that appear in your account\
-\
+**Barcode Type:** Here you can select the [barcode](equipment-barcoding/) type you wish to use
+
+**Activity Usage:** Enable this to include [nested items](equipment-locations/nesting-items-of-equipment-within-other-items.md) by default in your [activities](../shared-services/activities/creating-a-new-activity-incident-exercise-event.md). This can always be toggled off for individual activities under the equipment tab
+
+**Labels:** You can change the labels that appear in your account
+
 
 
 Categories & Kinds, Manufacturers, and Suppliers\

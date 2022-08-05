@@ -16,6 +16,7 @@ When adding or editing an activity, you will be able to track the equipment used
 * Use the filter box on the left to filter the results to quickly find what you need
 * Change the amount of hours on the right side before you drag & drop to pre-set them for everything
 * Tick 'Include Contents' on the right side to also bulk-add all the contents of the item, e.g. a vehicle where everything stored in the vehicle was used on the activity
+  * In order to always include [nested items](../../equipment-management/equipment-locations/nesting-items-of-equipment-within-other-items.md) of equipment you must configure this in [Equipment Settings](../../equipment-management/equipment-settings.md)
 {% endhint %}
 
 * Click finished on the [activity](./) report to save it and then approve it
