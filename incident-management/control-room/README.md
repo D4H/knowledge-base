@@ -51,6 +51,10 @@ It is now possible to [assign a unique ref](../channels/assigning-a-unique-ident
 [creating-an-announcement.md](../updates/creating-an-announcement.md)
 {% endcontent-ref %}
 
+{% content-ref url="add-filter-values-to-a-new-incident.md" %}
+[add-filter-values-to-a-new-incident.md](add-filter-values-to-a-new-incident.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 Don't see the control button? Contact us at support@d4h.org to request it.&#x20;
 {% endhint %}

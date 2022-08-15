@@ -255,6 +255,7 @@
 * [Control Room](incident-management/control-room/README.md)
   * [Filter Control Room Incidents by Situation field](incident-management/control-room/filter-control-room-incidents-by-situation-field.md)
   * [Setting a Default Play for Control Room](incident-management/control-room/setting-a-default-play-for-control-room.md)
+  * [Add Filter Values to a New Incident](incident-management/control-room/add-filter-values-to-a-new-incident.md)
 * [Admin Area](incident-management/admin-area/README.md)
   * [Templates](incident-management/admin-area/templates/README.md)
     * [List Layout Columns](incident-management/admin-area/templates/list-layout-columns.md)
