@@ -1,7 +1,7 @@
 # Adding a Member's Profile Photo
 
 {% hint style="info" %}
-[Owner or Editor](../../user-access/permissions.md) permission level is required.
+[Owner or Editor](../../user-access/permissions/) permission level is required.
 {% endhint %}
 
 Members Profile pictures can only be uploaded by Owners or Editors (Members should contact their D4H administrator to upload profile photos).\

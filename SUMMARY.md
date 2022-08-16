@@ -6,15 +6,25 @@
 
 * [D4H Quick Start Guide](user-accounts/quick-start-guide/README.md)
   * [Signing-in](user-accounts/quick-start-guide/signing-in-1.md)
-  * [Password Reset](user-accounts/quick-start-guide/password-reset.md)
   * [Switching Teams](user-accounts/quick-start-guide/switching-teams.md)
 
 ## User Access
 
 * [Inviting New Users](user-access/inviting-new-users.md)
-* [User Permissions](user-access/permissions.md)
+* [User Permission Levels](user-access/permissions/README.md)
+  * [Assigning more Granular Permissions](user-access/permissions/assigning-more-granular-permissions.md)
+  * [Setting up a User Agreement](user-access/permissions/setting-up-a-user-agreement.md)
+  * [Viewing the Access Logs](user-access/permissions/viewing-the-access-logs.md)
+  * [Viewing the Change Logs](user-access/permissions/viewing-the-change-logs.md)
 * [Resetting Passwords](user-access/reseting-passwords.md)
 * [Unblocking Users](user-access/unblocking-users.md)
+* [Sign-In Issues & Troubleshooting](user-access/sign-in-trouble/README.md)
+  * [Confirm Correct Server URL](user-access/sign-in-trouble/confirm-correct-server-url.md)
+  * [Forgotten Password](user-access/sign-in-trouble/forgotten-password.md)
+  * [Unable To Sign-In After Resetting Your Password](user-access/sign-in-trouble/unable-to-sign-in-after-resetting-your-password.md)
+  * [Not Receiving Password Reset Emails](user-access/sign-in-trouble/not-receiving-password-reset-emails.md)
+  * [Merging Multiple Team Accounts](user-access/sign-in-trouble/setting-up-a-single-sign-in-for-multiple-accounts.md)
+  * [Browser Upgrade Required](user-access/sign-in-trouble/browser-upgrade-required.md)
 
 ## Personnel & Training
 
@@ -270,7 +280,7 @@
     * [D4H Products Integration](incident-management/admin-area/incident-management-settings/d4h-products-integration/README.md)
       * [Syncing Incident Management 'Situation Form' to Incident Reporting](incident-management/admin-area/incident-management-settings/d4h-products-integration/syncing-incident-management-situation-form-to-incident-reporting.md)
     * [Export Settings](incident-management/admin-area/incident-management-settings/export-settings.md)
-    * [Permission Profiles](incident-management/admin-area/incident-management-settings/permission-profiles.md)
+    * [Configuring Permission Profiles](incident-management/admin-area/incident-management-settings/permission-profiles.md)
     * [Preferences](incident-management/admin-area/incident-management-settings/preferences.md)
   * [Setting Up SSO](incident-management/admin-area/setting-up-sso.md)
 * [Incident Management App](incident-management/incident-management-app/README.md)
@@ -326,12 +336,7 @@
 
 ## Shared Services
 
-* [Access & Permissions](shared-services/access-and-permissions/README.md)
-  * [Setting up a User Agreement](shared-services/access-and-permissions/setting-up-a-user-agreement.md)
-  * [Viewing the access logs](shared-services/access-and-permissions/viewing-the-access-logs.md)
-  * [Viewing the Change Logs](shared-services/access-and-permissions/viewing-the-change-logs.md)
-  * [Setting up a single sign-in for multiple accounts](shared-services/access-and-permissions/setting-up-a-single-sign-in-for-multiple-accounts.md)
-  * [Sign-In Trouble](shared-services/access-and-permissions/sign-in-trouble.md)
+* [Access & Permissions](shared-services/access-and-permissions.md)
 * [Activities](shared-services/activities/README.md)
   * [Creating a new Activity (Incident / Exercise / Event)](shared-services/activities/creating-a-new-activity-incident-exercise-event.md)
   * [Approving an Activity](shared-services/activities/approving-an-activity.md)

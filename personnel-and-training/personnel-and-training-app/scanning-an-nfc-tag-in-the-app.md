@@ -5,7 +5,7 @@ Once you have assigned an NFC Tag to a Member you can use your [Personnel Mobile
 * Click on the scan icon on the bottom of the screen of the mobile app
 * Once the Ready to Scan screen pops up hold the NFC tag close to the phone to scan
 * This will open the member's profile
-* You can then click on [Qualifications](../qualifications/), [Groups,](../groups/) their Schedule ([On-Call Planner](../on-call-planner/) or [Activities](../../shared-services/activities/)) or View Member to view details of that member's profile (with the proper [User Permission](../../user-access/permissions.md)).
+* You can then click on [Qualifications](../qualifications/), [Groups,](../groups/) their Schedule ([On-Call Planner](../on-call-planner/) or [Activities](../../shared-services/activities/)) or View Member to view details of that member's profile (with the proper [User Permission](../../user-access/permissions/)).
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-28 at 4.49.56 PM.png>)
 

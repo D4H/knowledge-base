@@ -1,7 +1,7 @@
 # Retirement Reasons
 
 {% hint style="info" %}
-[Owner](../../../user-access/permissions.md) permission level is required.&#x20;
+[Owner](../../../user-access/permissions/) permission level is required.&#x20;
 {% endhint %}
 
 To add/update Retirement Reasons:

@@ -8,7 +8,7 @@ After logging into the app, a page will appear displaying all of the ongoing inc
 
 ## Situation
 
-The [Situation ](../situation/)provides the latest updates on an event / incident. Depending on your [permission profile](../../user-access/permissions.md), you can click on the fields to make changes to the situation report.&#x20;
+The [Situation ](../situation/)provides the latest updates on an event / incident. Depending on your [permission profile](../../user-access/permissions/), you can click on the fields to make changes to the situation report.&#x20;
 
 ## Roles
 

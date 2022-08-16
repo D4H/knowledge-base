@@ -1,7 +1,7 @@
 # Uploading Documents
 
 {% hint style="info" %}
-[Permission level](../../user-access/permissions.md) required is ‘Member+’ with the documents checkbox enabled.
+[Permission level](../../user-access/permissions/) required is ‘Member+’ with the documents checkbox enabled.
 {% endhint %}
 
 To upload a document:

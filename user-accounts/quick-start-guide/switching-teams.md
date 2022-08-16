@@ -8,7 +8,7 @@ _Incident Reporting is only available on web app._
 
 #### WEB APP
 
-To switch teams, you will first need to have linked your accounts together. To do this, follow the instructions on our page for [setting up single sign on for multiple accounts. ](../../shared-services/access-and-permissions/setting-up-a-single-sign-in-for-multiple-accounts.md)Once your accounts have been linked, you can switch between them by clicking the alternating arrows **⤭** in the upper right corner and selecting a different team.&#x20;
+To switch teams, you will first need to have linked your accounts together. To do this, follow the instructions on our page for [setting up single sign on for multiple accounts. ](../../user-access/sign-in-trouble/setting-up-a-single-sign-in-for-multiple-accounts.md)Once your accounts have been linked, you can switch between them by clicking the alternating arrows **⤭** in the upper right corner and selecting a different team.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-20 at 1.35.16 PM.png>)
 
@@ -23,7 +23,7 @@ You can also reach your accounts page by using the link below that corresponds t
 
 Download the Personnel, or Equipment Management mobile apps.  To do this, follow the instructions on our pages for [Personnel & Training App ](../../personnel-and-training/personnel-and-training-app/)and/or [Equipment Management App](../../equipment-management/equipment-management-app/).&#x20;
 
-To switch teams, it is recommended you first need to have linked your accounts together on the web application. To do this, follow the instructions on our page for [setting up single sign on for multiple accounts. ](../../shared-services/access-and-permissions/setting-up-a-single-sign-in-for-multiple-accounts.md)
+To switch teams, it is recommended you first need to have linked your accounts together on the web application. To do this, follow the instructions on our page for [setting up single sign on for multiple accounts. ](../../user-access/sign-in-trouble/setting-up-a-single-sign-in-for-multiple-accounts.md)
 
 To add new teams from your mobile app:
 

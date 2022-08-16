@@ -1,7 +1,7 @@
 # Granting Access to Members
 
 {% hint style="info" %}
-[Owner or Editor](../../user-access/permissions.md) permission level is required.
+[Owner or Editor](../../user-access/permissions/) permission level is required.
 {% endhint %}
 
 * Go to <img src="../../.gitbook/assets/access.png" alt="" data-size="line"> **Access**

@@ -34,7 +34,7 @@ Only a Member can enable 2FA in their account.&#x20;
 
 ## Disabling Two-Factor Authentication
 
-Either the Member or an [Owner](../../user-access/permissions.md) can disable 2FA
+Either the Member or an [Owner](../../user-access/permissions/) can disable 2FA
 
 Member instructions:
 

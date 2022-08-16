@@ -1,4 +1,10 @@
-# Setting up a single sign-in for multiple accounts
+---
+description: >-
+  This allows you to use one username and password to access the multiple teams
+  you have access to.
+---
+
+# Merging Multiple Team Accounts
 
 **Access Level Required: Owner, Editor, Member**
 
@@ -6,7 +12,9 @@
 This article applies to the products D4H [Personnel & Training](../../personnel-and-training/getting-started.md), [Equipment Management](../../equipment-management/getting-started.md), and [Incident Reporting](../../incident-reporting/getting-started.md).&#x20;
 {% endhint %}
 
-If you are a member of multiple teams, you can merge them to a single sign in.
+If you are unable to see an account you have access to after logging into your D4H account this may be because you have two separate usernames and passwords.
+
+If you are a member of multiple teams, you can merge them allowing you to use single sign on credentials:
 
 * Sign into the account you wish to keep the sign in for
 * Click on the **D4H logo** at the top left of the dashboard
@@ -15,10 +23,10 @@ If you are a member of multiple teams, you can merge them to a single sign in.
 
 To log in using your single sign in, use any one of your team's URL's or use the generic URL that matches the server your team is on:
 
-* US/International: [https://go.d4h.org/](https://go.d4h.org/memberships)
-* Asia Pacific: [https://go.ap.d4h.org/](https://go.ap.d4h.org/memberships)
-* Europe: [https://go.eu.d4h.org/](https://go.eu.d4h.org/memberships)
-* Canada: [https://go.ca.d4h.org/](https://go.ca.d4h.org/memberships)
+* US/International: [**https://go.d4h.org/**](https://go.d4h.org/memberships)****
+* Asia Pacific: [**https://go.ap.d4h.org/**](https://go.ap.d4h.org/memberships)****
+* Europe: [**https://go.eu.d4h.org/**](https://go.eu.d4h.org/memberships)****
+* Canada: [**https://go.ca.d4h.org/**](https://go.ca.d4h.org/memberships)****
 
 {% hint style="info" %}
 It will not be possible to merge your accounts if they are on different servers

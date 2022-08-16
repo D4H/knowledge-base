@@ -22,7 +22,7 @@ You can download the D4H mobile apps [from the app store](https://d4htechnologie
 
 ## _Step 4_ - Ideas how you can use your D4H
 
-Depending on the product you are using and the [Permission](../../user-access/permissions.md) level you have been granted, you may wish to do different things. Here are some examples of the information you can access and update:
+Depending on the product you are using and the [Permission](../../user-access/permissions/) level you have been granted, you may wish to do different things. Here are some examples of the information you can access and update:
 
 ### <img src="../../.gitbook/assets/PT-rounded.png" alt="" data-size="line"> Personnel & Training
 

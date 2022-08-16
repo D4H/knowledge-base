@@ -18,7 +18,7 @@ To grant members access to your account:
 * Go to **Access**
 * In the **Username** column click **Send Invite** for the member you want to grant access
 * Each member must have a valid email address to which the system can send an invite
-* Select the [permission level](permissions.md) you wish to grant the member
+* Select the [permission level](permissions/) you wish to grant the member
 * Click **Send Invite**
 * This member will now receive an email invite asking them to create their D4H account
 
@@ -33,6 +33,6 @@ To invite a member to your account
 * Click on the orange **Add** button
 * You will need a name and an email address to create an account
 * Click the orange button **Create a D4H Incident Management Account**
-* Under [**Permission Profiles**](permissions.md) select a profile from the drop down list
+* Under [**Permission Profiles**](permissions/) select a profile from the drop down list
 * Click **Save** at the bottom of the screen
 * Your personnel will now receive an email invitation to access the account

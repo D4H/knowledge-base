@@ -16,7 +16,7 @@ To approve an activity:
 {% hint style="info" %}
 If you are unable to approve an activity it may be for one of the following reasons
 
-* You do not have the correct [permissions](../../user-access/permissions.md), only someone with Editor permissions and above can approve a report
+* You do not have the correct [permissions](../../user-access/permissions/), only someone with Editor permissions and above can approve a report
 * There are members with an 'Unconfirmed' attendance status, you will need to update their status to 'Attended' or 'Absent'
 * The end date/time of the activity is in the future
 {% endhint %}

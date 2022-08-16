@@ -1,7 +1,7 @@
 # Retiring Members
 
 {% hint style="info" %}
-[Owner or Editor](../../user-access/permissions.md) permission level is required.
+[Owner or Editor](../../user-access/permissions/) permission level is required.
 {% endhint %}
 
 Retiring members allows their data to remain in D4H without having them appear in lists with your active members. For this reason, retiring a member is almost always preferred over deleting. \

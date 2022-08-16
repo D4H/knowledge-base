@@ -5,7 +5,7 @@ description: Add customized statuses under Operational and/or Non-Operational St
 # Customize Member Statuses
 
 {% hint style="info" %}
-[Owner](../../../user-access/permissions.md) permission level is required.&#x20;
+[Owner](../../../user-access/permissions/) permission level is required.&#x20;
 {% endhint %}
 
 To add/update Customized Member Statuses:

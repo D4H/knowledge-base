@@ -90,4 +90,4 @@ Here you can upload relevant [documents](../documents/).&#x20;
 
 ## Finished
 
-By clicking on the finished tab, your activity will be saved as a draft activity report. Only someone with Editor or Owner [permission levels](../../user-access/permissions.md) will be able to approve the report. \
+By clicking on the finished tab, your activity will be saved as a draft activity report. Only someone with Editor or Owner [permission levels](../../user-access/permissions/) will be able to approve the report. \
