@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-Follow the below instructions to add a Communication provider to your [Personnel & Training](../getting-started.md) account. 
+Follow the below instructions to add a Communication provider to your [Personnel & Training](../getting-started.md) account.&#x20;
 
 * Click on **Settings**
 * Under **Modules** select Communications
@@ -21,9 +21,3 @@ The Account SID and Auth Token must be entered on the registration page in the C
 Once this information has been inputted, select the country in which your team operates from the dropdown list and input the area code, if applicable. Then click **Search Available Numbers...**. This will give a list of the available numbers and one can be selected. Next, click **Purchase Number**.\
 \
 Select the channels which you would like to use Twilio for and set a prefix that your team will recognize.
-
-## Net24
-
-Ensure Net24 provides all the services you require, and operates in your area. More details can be found on the [Net24 Website](https://www.net24.co.nz/iSMS-gateway/api-sms.php)\
-\
-Follow the instructions onscreen to register Net24 as a communication provider. 

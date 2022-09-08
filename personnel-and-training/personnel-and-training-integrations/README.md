@@ -8,10 +8,6 @@ You can connect a communication provider which will allow you to target communic
 [connect-rocket.md](connect-rocket.md)
 {% endcontent-ref %}
 
-{% content-ref url="net24.md" %}
-[net24.md](net24.md)
-{% endcontent-ref %}
-
 {% content-ref url="twilio.md" %}
 [twilio.md](twilio.md)
 {% endcontent-ref %}

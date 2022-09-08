@@ -98,7 +98,6 @@
   * [Scanning an NFC Tag in the App](personnel-and-training/personnel-and-training-app/scanning-an-nfc-tag-in-the-app.md)
 * [Personnel & Training Integrations](personnel-and-training/personnel-and-training-integrations/README.md)
   * [Twilio](personnel-and-training/personnel-and-training-integrations/twilio.md)
-  * [Net24](personnel-and-training/personnel-and-training-integrations/net24.md)
   * [Connect Rocket](personnel-and-training/personnel-and-training-integrations/connect-rocket.md)
 
 ## Equipment Management
