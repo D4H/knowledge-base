@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/incident reporting.png>)
 
-[D4H Incident Reporting](https://d4htechnologies.com/incident-reporting) is our re-evaluation software which allows you to automatically generate insightful incident reports with charts, visualizations, and statistics. 
+[D4H Incident Reporting](https://d4htechnologies.com/incident-reporting) is our re-evaluation software which allows you to automatically generate insightful incident reports with charts, visualizations, and statistics.&#x20;
 
 **Getting Started Guide**
 
@@ -12,6 +12,10 @@
 
 {% content-ref url="incident-reports.md" %}
 [incident-reports.md](incident-reports.md)
+{% endcontent-ref %}
+
+{% content-ref url="../personnel-and-training/exercises-and-events/duplicating-activities.md" %}
+[duplicating-activities.md](../personnel-and-training/exercises-and-events/duplicating-activities.md)
 {% endcontent-ref %}
 
 {% content-ref url="location-bookmarks.md" %}
