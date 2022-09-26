@@ -15,3 +15,7 @@ Attachments will not appear within Intelligence > Documents
 {% content-ref url="adding-a-new-revision-of-a-document.md" %}
 [adding-a-new-revision-of-a-document.md](adding-a-new-revision-of-a-document.md)
 {% endcontent-ref %}
+
+{% content-ref url="deleting-a-document.md" %}
+[deleting-a-document.md](deleting-a-document.md)
+{% endcontent-ref %}
