@@ -1,6 +1,6 @@
 # Setting Attendance Periods on an Activity
 
-#### Setting individual attendance hours on an activity
+### Setting individual attendance hours on an activity
 
 Attendance hours for an individual member can be edited for an [activity](./) from the **Attendance** tab.
 

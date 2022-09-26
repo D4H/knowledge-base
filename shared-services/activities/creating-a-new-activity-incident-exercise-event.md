@@ -84,9 +84,9 @@ Record [lost person behavior](../../incident-reporting/lost-person-behavior/) he
 
 Here you can edit the [costing](../cost-recovery/) for personnel and equipment if you do not want to apply the defaults that may already be set in your account.&#x20;
 
-## Documents
+## Attachments
 
-Here you can upload relevant [documents](../documents/).&#x20;
+Here you can upload relevant [attachments](../attachments/).&#x20;
 
 ## Finished
 
