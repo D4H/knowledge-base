@@ -8,7 +8,7 @@ Attendance hours for an individual member can be edited for an [activity](./) fr
 * Click on the attendance period to edit the number of hours that member was in attendance
 * Click **Update Selected**
 
-![](<../../.gitbook/assets/setting attendance periods.gif>)
+<figure><img src="../../.gitbook/assets/Setting Attendance Periods on an Activity.gif" alt=""><figcaption></figcaption></figure>
 
 ## Adding multi-period attendances
 

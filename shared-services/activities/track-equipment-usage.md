@@ -2,6 +2,8 @@
 
 When adding or editing an activity, you will be able to track the equipment used on the activity. You can do this from the [Equipment](../../equipment-management/equipment-items/) tab highlighted below in green:
 
+<figure><img src="../../.gitbook/assets/Track Equipment Usage.png" alt=""><figcaption></figcaption></figure>
+
 ![](<../../.gitbook/assets/track equipment usage.png>)
 
 **To select items as used:**

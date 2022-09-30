@@ -14,9 +14,7 @@ To convert an activity, follow the steps below:
 * You will see an option to **Convert this Exercise to an Event**
 * Click **Convert**&#x20;
 
-![](<../../.gitbook/assets/Nov-12-2021 11-54-33.gif>)
-
-
+<figure><img src="../../.gitbook/assets/Converting an Exercise to an Event or vice versa.gif" alt=""><figcaption></figcaption></figure>
 
 To convert an Event to an Exercise, follow the same steps above.&#x20;
 

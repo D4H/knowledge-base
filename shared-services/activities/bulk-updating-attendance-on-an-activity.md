@@ -21,7 +21,7 @@ description: >-
 You can use the **Bulk Action** tool to update a members role / status / set the period / clear from list or duplicate on the Attendance tab of an activity
 {% endhint %}
 
-![](<../../.gitbook/assets/Mar-24-2022 11-46-57.gif>)
+<figure><img src="../../.gitbook/assets/Bulk Updating Attendance on an Activity.gif" alt=""><figcaption></figcaption></figure>
 
 ## Bulk Updating all Unconfirmed members
 

@@ -1,4 +1,4 @@
-# Adding K9 & Handlers to an activity
+# Adding K9 & Handlers to an Activity
 
 To add K9s & Handlers to an activity:
 
@@ -6,4 +6,4 @@ To add K9s & Handlers to an activity:
 * Next go to the K9 tab
 * The K9 associated with that handler will be listed here
 
-![](<../../.gitbook/assets/adding k9 to activity.gif>)
+<figure><img src="../../.gitbook/assets/Adding K9 _ Handlers to an Activity.gif" alt=""><figcaption></figcaption></figure>
