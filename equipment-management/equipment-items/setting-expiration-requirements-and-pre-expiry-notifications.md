@@ -23,5 +23,9 @@ To set the custom expiration reminder for an item:
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-10-11 at 9.22.39 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
+You can also set a [Default Expiry Notification under Settings](../equipment-settings.md).&#x20;
+{% endhint %}
+
+{% hint style="info" %}
 For Vehicles you will have an odometer reading field to configure the expiration requirement and set the notification.
 {% endhint %}
