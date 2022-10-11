@@ -10,6 +10,8 @@ To set an expiration date on an item of equipment:
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-10-11 at 9.25.28 AM.png" alt=""><figcaption></figcaption></figure>
 
+
+
 To set the custom expiration reminder for an item:
 
 * Navigate to the item of equipment that you want to update
@@ -21,5 +23,5 @@ To set the custom expiration reminder for an item:
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-10-11 at 9.22.39 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-For Vehicles you will have an odometer reading field to configure the expiration requirements and set the notifications.
+For Vehicles you will have an odometer reading field to configure the expiration requirement and set the notification.
 {% endhint %}
