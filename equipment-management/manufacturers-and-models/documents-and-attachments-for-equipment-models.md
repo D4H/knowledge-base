@@ -11,5 +11,5 @@ You can upload user manuals to models of equipment, to do this go to an individu
 * Click **Upload Files**
 
 {% hint style="info" %}
-Private data marked with a padlock icon <img src="../../.gitbook/assets/image.png" alt="" data-size="line">is only viewable by users that have[ Member + and above permissions](../../user-access/permissions/).
+Private data marked with a padlock icon <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">is only viewable by users that have[ Member + and above permissions](../../user-access/permissions/).
 {% endhint %}

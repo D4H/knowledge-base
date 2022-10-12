@@ -4,8 +4,7 @@
 
 To select which basemaps to display:
 
-* Click on the<img src="../../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
-* Go to **Admin Area**
+* Go to [**Admin Area**](../../admin-area/)****
 * Navigate to **Settings** > **Preferences** on the left side bar
 * Scroll down to **Map** > **Available Basemaps**
 

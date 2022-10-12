@@ -6,10 +6,10 @@ If you haven't created a [Status Board ](./)yet, see [Creating a new Status Boar
 \
 To add your status board to your channel for all users:
 
-* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
-* Go to **Channel Settings**
+* Within an open [Channel](../channels/)&#x20;
+* Go to **Incident Settings** <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> icon **** on the bottom left hand corner
 * Select which status boards you wish to appear in your channel.&#x20;
 
-{% embed url="https://youtu.be/KWW2E9iu-cY" %}
+<figure><img src="../../.gitbook/assets/incident settings.gif" alt=""><figcaption></figcaption></figure>
 
 You can also use [Plays](../plays/) to automatically add a Status Board to your channel when you start it.
