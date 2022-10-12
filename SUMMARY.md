@@ -283,6 +283,8 @@
     * [Configuring Permission Profiles](incident-management/admin-area/incident-management-settings/permission-profiles.md)
     * [Preferences](incident-management/admin-area/incident-management-settings/preferences.md)
   * [Setting Up SSO](incident-management/admin-area/setting-up-sso.md)
+* [Navigation Bar](incident-management/navigation-bar/README.md)
+  * [Complete System Diagnostics](incident-management/navigation-bar/complete-system-diagnostics.md)
 * [Incident Management App](incident-management/incident-management-app/README.md)
   * [Long Tap to Show Available Actions in App](incident-management/incident-management-app/long-tap-to-show-available-actions-in-app.md)
   * [Completing a Task List in the App](incident-management/incident-management-app/completing-a-task-list-in-the-app.md)

@@ -2,9 +2,9 @@
 
 Our [Incident Management](../getting-started.md) platform is accessible from any internet connected device and data synchronized remains accessible and operational on off-line mode for times of limited connectivity. \
 \
-Connectivity is indicated on the top right hand side of the screen. When fully connected to our server you will see a green data transfer icon. When offline, you will see a red offline icon.
+Connectivity is indicated on the top right hand side of the screen. When offline, you will see a red offline icon.
 
-![](<../../.gitbook/assets/offline capabilties.gif>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-12 at 1.37.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 While offline, you can continue to access and update data within the channel.\
 \
