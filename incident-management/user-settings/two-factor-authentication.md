@@ -12,10 +12,10 @@ description: >-
 Only a Member can enable 2FA in their account.&#x20;
 
 * The Member must log into their Incident Management account
-* Click on the **green** ⇅ in the top right hand corner
+* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to **User Settings**
 
-![](<../../.gitbook/assets/Screenshot 2022-03-24 at 10.18.53.png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-12 at 12.56.13 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Click on **Two-Factor Authentication** <img src="../../.gitbook/assets/cell phone.png" alt="" data-size="line">tab
 * Click **Enable**
@@ -39,14 +39,14 @@ Either the Member or an [Owner](../../user-access/permissions/) can disable 2FA
 Member instructions:
 
 * Log into their Incident Management account
-* Click on the **green** ⇅ in the top right hand corner
+* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to **User Settings**
 * Click on **Two-Factor Authentication** <img src="../../.gitbook/assets/cell phone.png" alt="" data-size="line">tab
 * Click **Disable**
 
 Owner instructions:
 
-* Click on the **green** ⇅ in the top right hand corner
+* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to the **Admin Area > Collections > Personnel**
 * Open the Member Profile which you are disabling the Two-Factor Authentication for
 * The only way to disable 2FA is to **Revoke access** for that member

@@ -4,9 +4,9 @@
 
 To select which basemaps to display:
 
-* Click on the **green ⇅** in the top right hand corner.
+* Click on the<img src="../../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to **Admin Area**
-* Navigate to **Settings** > **Preferences** on the left side bar.
+* Navigate to **Settings** > **Preferences** on the left side bar
 * Scroll down to **Map** > **Available Basemaps**
 
 Here you can select which basemaps should be displayed in your account, or add your own custom basemaps.\

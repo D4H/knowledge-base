@@ -9,10 +9,10 @@ description: >-
 To access the User Settings:
 
 * The Member must log into their Incident Management account
-* Click on the **green** ⇅ in the top right hand corner.
+* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to **User Settings**
 
-![](<../../.gitbook/assets/Screenshot 2022-03-24 at 10.18.53.png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-12 at 12.56.13 PM.png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-24 at 10.16.54.png>)
 

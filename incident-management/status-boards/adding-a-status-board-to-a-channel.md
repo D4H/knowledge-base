@@ -6,9 +6,9 @@ If you haven't created a [Status Board ](./)yet, see [Creating a new Status Boar
 \
 To add your status board to your channel for all users:
 
-* Click on the **green ⇅** in the top right hand corner.
+* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to **Channel Settings**
-* Select which status boards you wish to appear in your channel. 
+* Select which status boards you wish to appear in your channel.&#x20;
 
 {% embed url="https://youtu.be/KWW2E9iu-cY" %}
 
