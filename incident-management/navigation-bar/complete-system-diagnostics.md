@@ -12,7 +12,7 @@ If you receive any other icon indication it could mean the following:
 
 * D4H Software is not up to date and may require a browser refresh
 * You do not have sufficient internet connection and the data is currently being[ stored locally as the product is designed to have offline capabilities](../channels/offline-capability.md).  The account will update once sufficient internet connection is established.
-* You no longer have sufficient storage and may require additional purchase of storage.  Reach out to sales@d4h.com to get in touch with Sales.&#x20;
+* You no longer have sufficient local storage on your device.  Please note without sufficient storage you will not be able to store data via [Offline Capabilities.](../channels/offline-capability.md)&#x20;
 
 ## Server Status
 

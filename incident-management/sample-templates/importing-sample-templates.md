@@ -53,4 +53,4 @@ Ideas for possible edits
 
 ## Sharing Your Own Templates
 
-Do you have templates of your own that you want to share with the Bravo Zulu community? Contact [support@d4h.org](mailto:support@d4h.org) to learn more about how to share. \
+Do you have templates of your own that you want to share with the Bravo Zulu community? Contact [support@d4h.com](mailto:support@d4h.com) to learn more about how to share. \

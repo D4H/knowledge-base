@@ -250,7 +250,7 @@
     * [Add new items to status board from relationship field](incident-management/status-boards/creating-a-new-status-board/add-new-items-to-status-board-from-relationship-field.md)
   * [Set Colors with Item Status Expressions](incident-management/status-boards/set-colors-with-item-status-expressions.md)
   * [Module Header Stats](incident-management/status-boards/module-header-stats.md)
-  * [Adding a Status Board to a Channel](incident-management/status-boards/adding-a-status-board-to-a-channel.md)
+  * [Enabling/Disabling a Status Board](incident-management/status-boards/adding-a-status-board-to-a-channel.md)
   * [Grouping and Sorting Rows](incident-management/status-boards/grouping-and-sorting-rows.md)
   * [Archiving Status Board Items](incident-management/status-boards/archiving-status-board-items.md)
   * [Searching a Status Board](incident-management/status-boards/searching-a-status-board.md)
