@@ -1,8 +1,14 @@
 # Admin Area
 
+{% hint style="info" %}
+[Proper Permission Level](../../user-access/permissions/) is required to access the Admin Area.
+{% endhint %}
+
+The Admin Area is where you configure your [Incident Management](broken-reference) account. Lets you create plays and forms, populate status boards, and change general settings.
+
 #### WEB APP
 
-The admin area can only be accessed by users with permission to do so.
+To access the admin area:
 
 * Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Go to **Admin Area**

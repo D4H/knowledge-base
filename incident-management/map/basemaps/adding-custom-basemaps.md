@@ -8,7 +8,7 @@ A custom basemap has a **Name** and can have multiple imagery **Layers** associa
 
 To add a custom basemap:
 
-* Go to [**Admin Area**](../../admin-area/)****
+* Go to [Admin Area](../../admin-area/)
 * Navigate to **Settings** > **Preferences** on the left side bar.
 * Scroll down to **Map** > **Custom Basemaps**
 * Press **+ Add Custom Basemap**

@@ -16,7 +16,7 @@ Be connected to the Knowledge Base, D4H's repository for informational and suppo
 
 ### Ask for Help
 
-Be connected directly to one of our product experts via the Help Desk.
+Be connected directly to one of our product experts via the [Help Desk](mailto:support@d4h.com).
 
 ### System Diagnostics
 

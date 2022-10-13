@@ -4,8 +4,20 @@
 
 [D4H Incident Management](http://d4htechnologies.com/incident-management) is our real-time platform for managing an incident or event in real-time.
 
+{% content-ref url="user-settings/" %}
+[user-settings](user-settings/)
+{% endcontent-ref %}
+
 {% content-ref url="channels/" %}
 [channels](channels/)
+{% endcontent-ref %}
+
+{% content-ref url="navigation-bar/" %}
+[navigation-bar](navigation-bar/)
+{% endcontent-ref %}
+
+{% content-ref url="admin-area/" %}
+[admin-area](admin-area/)
 {% endcontent-ref %}
 
 {% content-ref url="dashboard/" %}
@@ -40,6 +52,10 @@
 [task-boards](task-boards/)
 {% endcontent-ref %}
 
+{% content-ref url="plays/" %}
+[plays](plays/)
+{% endcontent-ref %}
+
 {% content-ref url="personnel/" %}
 [personnel](personnel/)
 {% endcontent-ref %}
@@ -48,22 +64,22 @@
 [library](library/)
 {% endcontent-ref %}
 
-{% content-ref url="mass-notifications/" %}
-[mass-notifications](mass-notifications/)
-{% endcontent-ref %}
-
 {% content-ref url="weather.md" %}
 [weather.md](weather.md)
+{% endcontent-ref %}
+
+{% content-ref url="mass-notifications/" %}
+[mass-notifications](mass-notifications/)
 {% endcontent-ref %}
 
 {% content-ref url="integrations/" %}
 [integrations](integrations/)
 {% endcontent-ref %}
 
-{% content-ref url="admin-area/" %}
-[admin-area](admin-area/)
-{% endcontent-ref %}
-
 {% content-ref url="incident-management-app/" %}
 [incident-management-app](incident-management-app/)
+{% endcontent-ref %}
+
+{% content-ref url="sample-templates/" %}
+[sample-templates](sample-templates/)
 {% endcontent-ref %}

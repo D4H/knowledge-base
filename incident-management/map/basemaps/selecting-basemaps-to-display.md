@@ -4,7 +4,7 @@
 
 To select which basemaps to display:
 
-* Go to [**Admin Area**](../../admin-area/)****
+* Go to [Admin Area](../../admin-area/)
 * Navigate to **Settings** > **Preferences** on the left side bar
 * Scroll down to **Map** > **Available Basemaps**
 

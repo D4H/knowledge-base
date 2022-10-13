@@ -10,20 +10,20 @@
 [signing-in-1.md](../user-accounts/quick-start-guide/signing-in-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="equipment-items/" %}
-[equipment-items](equipment-items/)
+{% content-ref url="equipment-dashboard.md" %}
+[equipment-dashboard.md](equipment-dashboard.md)
 {% endcontent-ref %}
 
 {% content-ref url="categories&kinds/" %}
 [categories\&kinds](categories\&kinds/)
 {% endcontent-ref %}
 
-{% content-ref url="equipment-locations/" %}
-[equipment-locations](equipment-locations/)
+{% content-ref url="equipment-items/" %}
+[equipment-items](equipment-items/)
 {% endcontent-ref %}
 
-{% content-ref url="equipment-checklists/" %}
-[equipment-checklists](equipment-checklists/)
+{% content-ref url="equipment-locations/" %}
+[equipment-locations](equipment-locations/)
 {% endcontent-ref %}
 
 {% content-ref url="inspections/" %}
@@ -36,6 +36,10 @@
 
 {% content-ref url="funding-sources/" %}
 [funding-sources](funding-sources/)
+{% endcontent-ref %}
+
+{% content-ref url="equipment-checklists/" %}
+[equipment-checklists](equipment-checklists/)
 {% endcontent-ref %}
 
 {% content-ref url="manufacturers-and-models/" %}
