@@ -7,7 +7,7 @@ A Status Board is a visualization of information within [Incident Management](..
 You can add as many Status Boards as you like. Here's some examples you could create in your account.=
 
 {% hint style="info" %}
-**Ideas for your Status Boards:** There is no limit as to what you can represent in a status board. Here are some ideas from other customers to get you started. 
+**Ideas for your Status Boards:** There is no limit as to what you can represent in a status board. Here are some ideas from other customers to get you started.&#x20;
 
 * Shelters
 * Risks
@@ -47,8 +47,8 @@ Each Status Board has a [Template](../admin-area/templates/) which outlines the 
 [list-layout-columns.md](../admin-area/templates/list-layout-columns.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-colors-with-item-status-expressions.md" %}
-[set-colors-with-item-status-expressions.md](set-colors-with-item-status-expressions.md)
+{% content-ref url="setting-colors-with-item-expressions/set-colors-with-item-status-expressions.md" %}
+[set-colors-with-item-status-expressions.md](setting-colors-with-item-expressions/set-colors-with-item-status-expressions.md)
 {% endcontent-ref %}
 
 {% content-ref url="../dashboard/dashboard-module-stats.md" %}
