@@ -31,6 +31,14 @@ An organization may create [Status Boards](../) to help track the checks of gene
 
 The organization's desire is to visualize the Success, Warning and Danger colors indicated when a generator is past its' check in requirement.  Additionally, this organization has also created a [Status Option Selection field](set-colors-with-item-status-expressions.md) to indicate if during the check the generator was found Operational or Not Operational.
 
+{% hint style="info" %}
+Success = Green
+
+Warning = Amber
+
+Danger = Red
+{% endhint %}
+
 **Success:**
 
 ```
