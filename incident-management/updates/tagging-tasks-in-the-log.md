@@ -1,6 +1,6 @@
 # Tagging Tasks in the Log
 
-#### WEB APP
+WEB APP
 
 You can tag tasks against a log post. This makes it easy to see exactly what each post relates to. Once it is tagged you are able to click on the tag and it takes you directly to that task. Go to [Updates](./)
 
@@ -13,11 +13,9 @@ You can tag tasks against a log post. This makes it easy to see exactly what eac
 
 #### MOBILE APP
 
-* Open the Mobile App
+* Open the [Mobile App](../incident-management-app/)
 * Go to [Updates](./)
 * Click on the **+Tag** icon and start typing in the name of the task you wish to tag
 * Select the task from the drop down
 * Type your message and hit the **Enter** key or press the<img src="../../.gitbook/assets/paper airplane icon.png" alt="Image Placeholder" data-size="line"> icon
 * Your post will now show in the log with the task tagged against it
-
-{% embed url="https://www.loom.com/share/fae2d4ca3bb54982ab79c8f3a3e88f6b" %}
