@@ -31,3 +31,6 @@ You can also filter the log from the task board directly. To do this go to your 
 
 {% embed url="https://youtu.be/He6PqV1YJMk" %}
 
+{% hint style="info" %}
+At present, it is not possible to filter the Log in the mobile app.
+{% endhint %}

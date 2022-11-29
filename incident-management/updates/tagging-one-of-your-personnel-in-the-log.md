@@ -17,3 +17,7 @@ Alternatively
 * The member is now automatically tagged
 * Type your message and hit the **Enter** key or press the<img src="../../.gitbook/assets/paper airplane icon.png" alt="" data-size="line"> icon
 * Your post will now show in the log with the member tagged against it
+
+{% hint style="info" %}
+At present, it is not possible to tag one of your Personnel in the Log in the mobile app.
+{% endhint %}

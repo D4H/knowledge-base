@@ -10,4 +10,6 @@ To print the audit trail:
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-19 at 3.17.32 PM.png>)
 
-\
+{% hint style="info" %}
+At present, it is not possible to print the Audit Trail in the mobile app.
+{% endhint %}

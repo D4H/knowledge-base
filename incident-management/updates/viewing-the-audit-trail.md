@@ -20,3 +20,7 @@ Every change in [Incident Management](../getting-started.md) is recorded in the 
 * Click on the **All** tab to see the audit trail for the item.
 
 ![](<../../.gitbook/assets/viewing the audit trail.png>)
+
+{% hint style="info" %}
+At present, it is not possible to view the Audit Trail in the mobile app.
+{% endhint %}

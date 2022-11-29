@@ -37,3 +37,6 @@ You can also filter the log from the status board directly. To do this go to you
 
 {% embed url="https://youtu.be/JSPcI2y2vz0" %}
 
+{% hint style="info" %}
+At present, it is not possible to filter Updates in the mobile app.
+{% endhint %}
