@@ -1,6 +1,6 @@
 # Tagging Tasks in the Log
 
-WEB APP
+#### WEB APP
 
 You can tag tasks against a log post. This makes it easy to see exactly what each post relates to. Once it is tagged you are able to click on the tag and it takes you directly to that task. Go to [Updates](./)
 
