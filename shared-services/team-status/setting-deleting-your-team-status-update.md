@@ -2,7 +2,7 @@
 
 To set an availability status:
 
-* Go to **Operations** **>** **Capability Status**
+* Go to **Operations** > **Capability Status**
 * Click **Add Status**
 * Select the relevant status and click **Update Status**
 

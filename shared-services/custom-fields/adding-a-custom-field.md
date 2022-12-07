@@ -4,7 +4,8 @@
 \
 To add a custom field:
 
-* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> **Settings**
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
 * Under **Custom Fields and Timestamps** click into the area you want to add a custom field to
 * Click **Add Field**
 * Fill in the details

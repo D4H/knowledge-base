@@ -4,8 +4,9 @@ An Owner or Editor can specify who should receive email notifications for the We
 \
 To set up email alerts for yourself or members of your team:
 
-* Click on <img src="../../.gitbook/assets/access.png" alt="Image Placeholder" data-size="line"> **Access**
-* Switch tabs to Manage Email\
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Access Control**
+* Select **Manage Email** tab\
 
 
 ![](<../../.gitbook/assets/manage email.png>)
@@ -24,7 +25,8 @@ Weekly Briefing / Qualification Alerts / Daily Digest\
 
 A member can choose whether or not to receive these alerts.
 
-* Click on the gear wheel![](<../../.gitbook/assets/gear icon.png>) icon
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **My Settings**
 * Select **Email Preferences**
 * Here you can choose what alerts you receive and when you should receive the Weekly Briefing\
 

@@ -4,7 +4,7 @@
 
 To delete a tag:
 
-* Go to **Intelligence** -> **Tags**
+* Go to **Intelligence** > **Tags**
 * Click into the tag you wish to delete then select **Update Details**
 * Click the red **delete** button in the bottom right hand side of the screen
 

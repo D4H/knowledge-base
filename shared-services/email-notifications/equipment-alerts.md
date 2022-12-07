@@ -12,8 +12,9 @@ The system sends an automatic email notification when:
 
 An Owner or Editor can set up email alerts for themselves or members of the team:
 
-* Click on <img src="../../.gitbook/assets/access.png" alt="" data-size="line"> **Access**
-* Switch tabs to Manage Email\
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Access Control**
+* Select **Manage Email** tab\
 
 
 ![](<../../.gitbook/assets/manage email.png>)

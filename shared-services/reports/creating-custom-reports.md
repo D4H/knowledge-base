@@ -1,7 +1,8 @@
 # Creating Custom Reports
 
-To create a custom report, go to **Intelligence** and select **Reports:**
+To create a custom report**:**
 
+* Go to **Intelligence** > **Reports**
 * Click **Create New Report**
 * Select the type of report you wish to create from the drop down menu
 * Fill in the applicable information then select **Run Report**

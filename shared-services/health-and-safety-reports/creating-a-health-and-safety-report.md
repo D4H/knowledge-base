@@ -2,13 +2,13 @@
 
 ## Creating a Health & Safety report
 
-* Go to Intelligence -> Health & Safety
+* Go to **Intelligence** > **Health & Safety**
 * Click **+Add Report**
 * To link the report to an event / exercise / incident switch **On Activity** to Yes and search for the activity
   * If you are linking the report to an event / exercise / incident, the pin on the map is set to the location on the activity, as are the start time and date
 * If you are not linking the report to an activity click **Select On Map** to add the location information. Click into the magnifying glass on the map to search for a specific address
 * Fill in the date and time information
-* Select from the [Category and Severity](configuring-the-categories-and-severities.md) dropdowns
+* Select from the [Category and Severity](configuring-the-categories-and-severities.md) drop downs
 * Add any relevant information to the _What Happened_ and _Cause_ sections
 * Add any measures that should be taken to mitigate this in the _Measures_ text field
 * Click **Save Changes**

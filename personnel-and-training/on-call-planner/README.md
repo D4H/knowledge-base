@@ -5,7 +5,7 @@ Your personnel can mark themselves on-call and off-call through our mobile app o
 \
 The default setting in your account will be Off-Call. To change this to on-call:
 
-* Go to Operations and On-Call Planner
+* Go to **Operations** > **On-Call Planner**
 * Select **Defaults**
 * Change the **Default Status** to On-Call
 * Click **Save Changes** at the bottom of the page\

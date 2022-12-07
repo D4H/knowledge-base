@@ -8,7 +8,9 @@ You have the ability to bulk-add members by uploading a spreadsheet. Spreadsheet
 \
 We recommend you use our Bulk-Upload Template. Make sure all your rows match our sample, including date format DD/MM/YYYY. To download the template and to then import the spreadsheet with member details:
 
-* From the <img src="../../.gitbook/assets/access.png" alt="" data-size="line"> **Access** menu click the **+ Add Members** button
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Access Control**
+* Click the **Add Members** button
 * Click **Upload Spreadsheet**
 * Download the Bulk-Upload Template
 * Once populated, go back to this screen

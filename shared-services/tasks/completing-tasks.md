@@ -2,7 +2,7 @@
 
 To open and complete Tasks:
 
-* Go to **Logistics,** click on **Tasks** <img src="../../.gitbook/assets/Tasks.png" alt="" data-size="line"> ****&#x20;
+* Go to **Logistics** > **Tasks** &#x20;
 * Once you have accessed the list of existing Tasks; click on the title of the Task you wish to complete
 * Click on **Update Details** if you are making any changes to the Task
 * Update the **Status** of the Task to either **In Progress** or **Completed**

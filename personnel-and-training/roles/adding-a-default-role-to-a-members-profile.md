@@ -2,9 +2,9 @@
 
 **Permission Required: Editor**\
 \
-To set a default role for a member: 
+To set a default role for a member:&#x20;
 
-* Go to **Planning** -> **Members**
+* Go to **Planning** > **Members**
 * Select the member to be updated and click **Update Details**
 * On the **General Details** tab you will see a drop down list **Default Role** which will contain all roles created in your account
 * Select a role

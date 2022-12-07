@@ -43,9 +43,10 @@ Following any of the procedures above, restart your browser. D4H™ DECISIONS sh
 
 **Access Level Required: Editor, Owner.**\
 \
-This applies to the entire team or organi**z**ation.
+This applies to the entire team or organization.
 
-* In the top right menu, click on Settings&#x20;
-* Under **Custom Fields and Timestamps**, select **Timestamp Seconds**
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Custom Fields and Timestamps** select **Timestamp Seconds**
 * Under **Timestamp Seconds** select **on** or **off**
 * Click **Save Changes**

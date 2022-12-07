@@ -2,10 +2,15 @@
 
 **Access Level Required: Owner**
 
-* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line">**Settings** -> **Whiteboard**
-* Set the **Write Notes** option to **Only Editors**\
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Under **Modules** select **Whiteboard**
+* Click on **Team Settings**
+* Set the **Write Notes** option to **Only Editors**
+* Click **Save Changes**\
 
 
 ![](<../../.gitbook/assets/controlling who can write on the whiteboard.png>)
 
-* This will hide the **+ Add Note** button to Members and Member+
+{% hint style="info" %}
+This will hide the **+ Add Note** button to Members and Member+
+{% endhint %}

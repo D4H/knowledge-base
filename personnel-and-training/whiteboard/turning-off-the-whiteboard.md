@@ -4,8 +4,11 @@
 
 To turn off the [whiteboard](./):
 
-* Go to Settings and under **Modules** select Whiteboard
-* Select ON or OFF
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Modules** select **Whiteboard**
+* Select **ON** or **OFF**
+* Click **Save Changes**
 
 ![](<../../.gitbook/assets/turn off whiteboard.png>)
 

@@ -2,7 +2,8 @@
 
 To customize the column labels on the Attendance Sheet:
 
-* Go to **Settings** at the top right of the screen
+* Go to the<img src="../../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
 * Scroll down to the **Modules** section
 * Select **Attendance**
 * Scroll down to Attendance PDF Column Labels&#x20;

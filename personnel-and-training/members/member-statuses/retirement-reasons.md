@@ -6,7 +6,8 @@
 
 To add/update Retirement Reasons:
 
-* Go to <img src="../../../.gitbook/assets/wrench.png" alt="" data-size="line"> **Settings**
+* Go to the<img src="../../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
 * Scroll to **Modules** click on **Members**
 * Type in Retirement Reason and click **Add New**
 * Continue to **Add New** until you have listed all of the valid Retirement Reasons

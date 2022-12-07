@@ -8,7 +8,7 @@ description: >-
 
 A user will be blocked in [D4H Incident Management](../incident-management/getting-started.md) if they exceed the number of available log in attempts. To unblock a user as an admin:&#x20;
 
-* Go to the **Admin Area**
+* Go to the [**Admin Area**](../incident-management/admin-area/)****
 * Select **Collections**&#x20;
 * Click on **Personnel**&#x20;
 * Click on the name of the user that is blocked

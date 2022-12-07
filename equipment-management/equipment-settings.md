@@ -1,6 +1,10 @@
 # Equipment Settings
 
-To find additional equipment settings navigate to  <img src="../.gitbook/assets/wrench.png" alt="" data-size="line"> Settings and scroll down to the Equipment section.
+To find additional equipment settings&#x20;
+
+* Go to the<img src="../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under the Equipment section select **Equipment Settings**
 
 Here you can turn on or off certain modules within Equipment Management:\
 

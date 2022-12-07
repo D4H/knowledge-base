@@ -8,10 +8,11 @@ Retiring members allows their data to remain in D4H without having them appear i
 \
 To retire a member:
 
+* Go to **Planning** > **Members**
 * Open the member's profile
 * Click **Update Details**
 * Click the Status field on their profile and select Retired
-* Select a retirement reason from the list of options
+* Select a [retirement reason](../members/member-statuses/retirement-reasons.md) from the list of options
 * Click Finished to save your changes
 
 {% hint style="info" %}

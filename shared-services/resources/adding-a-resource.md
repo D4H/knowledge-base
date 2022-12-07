@@ -4,7 +4,7 @@ Resources are external teams, crews, agencies, and organizations that you coordi
 \
 To add a resource:
 
-* Go to **Intelligence** -> **Resources**
+* Go to **Intelligence** > **Resources**
 * Select **Add Resource** on the right-hand side of the screen
 * Fill in the details and click **Save Changes**
 

@@ -4,8 +4,9 @@
 
 Follow the below instructions to add a Communication provider to your [Personnel & Training](../getting-started.md) account.&#x20;
 
-* Click on **Settings**
-* Under **Modules** select Communications
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under[ **Modules** select **Com**](#user-content-fn-1)[^1]**munications**
 * Click **Add Provider**
 
 ## Connect Rocket
@@ -21,3 +22,5 @@ The Account SID and Auth Token must be entered on the registration page in the C
 Once this information has been inputted, select the country in which your team operates from the dropdown list and input the area code, if applicable. Then click **Search Available Numbers...**. This will give a list of the available numbers and one can be selected. Next, click **Purchase Number**.\
 \
 Select the channels which you would like to use Twilio for and set a prefix that your team will recognize.
+
+[^1]: 

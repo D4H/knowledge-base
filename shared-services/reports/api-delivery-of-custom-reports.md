@@ -4,7 +4,7 @@ Custom reports that you have created can be set to automatically send by webhook
 \
 To set up API delivery:
 
-* Go to **Intelligence** -> **Reports**
+* Go to **Intelligence** > **Reports**
 * Click into the custom report that has been created
 * Click **Update Details**
 * Set **API Delivery** to Yes\

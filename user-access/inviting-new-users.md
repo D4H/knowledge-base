@@ -6,8 +6,9 @@ Below are instructions for adding one or a few members to your accounts and gran
 
 To invite a member into your account:
 
-* Go to **Access**
-* Click the **+ Add Members** button
+* Go to the<img src="../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Access Control**
+* Click the **Add Members** button
 * Add the member's name and their email address and any other relevant [Member Profile details](broken-reference)
 * If you wish to add multiple members at the same time you can simply click **+ Add Another** for each and enter their details
 * Next, click **Import All Members**
@@ -15,7 +16,8 @@ To invite a member into your account:
 
 To grant members access to your account:
 
-* Go to **Access**
+* Go to the<img src="../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Access Control**
 * In the **Username** column click **Send Invite** for the member you want to grant access
 * Each member must have a valid email address to which the system can send an invite
 * Select the [permission level](permissions/) you wish to grant the member

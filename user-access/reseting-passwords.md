@@ -12,7 +12,8 @@ This article applies to the products D4H [Personnel & Training](../personnel-and
 
 To reset the password for one of your members:
 
-* Go to <img src="../.gitbook/assets/access.png" alt="" data-size="line"> **Access**&#x20;
+* Go to the<img src="../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Access Control**
 * Scroll down to the name of the user whose password you want to reset
 * Select **Reset Password** from the username column&#x20;
 

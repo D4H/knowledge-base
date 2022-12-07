@@ -6,7 +6,8 @@ Remember that API access keys are the equivalent of your username and password. 
 \
 To create a personal API access key:
 
-* Go to **Settings** in the top right of your screen
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
 * Under **Integrations** select **API Access**
 * From here you can label and generate API access keys. You will also be able to view existing access keys and revoke access if required
 
