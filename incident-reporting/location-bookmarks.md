@@ -6,8 +6,9 @@ Location bookmarks allow you to add your commonly used locations to the system s
 
 To add location bookmarks:
 
-* Go to **Settings**
-* At the bottom of the page under **Maps** select **Location Bookmarks**
+* Go to the<img src="../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Maps** select **Location Bookmarks**
 * Click **Add Location**
 * Give the location a title
 * Select the address on the map by entering the address, coordinates, or moving the pin on the map\

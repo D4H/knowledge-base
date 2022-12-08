@@ -1,7 +1,10 @@
 # Editing an incident timestamp
 
-In <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> Settings and Incident Timestamps:
+To edit an existing Incident Timestamps:
 
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Custom Fields and Timestamps** click into **Incident Timestamps**
 * Click **Edit Bundle** on the timestamp bundle you want to edit
 * Change a timestamp label by simply typing in a new label over the existing label
 * To add an additional timestamp, select **Add Timestamp** at the bottom
