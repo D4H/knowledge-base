@@ -21,8 +21,11 @@ Your team email is used for all communications within D4H specific to your team,
 
 To change your team email:&#x20;
 
-* Select the **Settings** icon in the top right,&#x20;
-* Select **Update Profile**, and then update the **Email** field&#x20;
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **My Settings**
+* Select **Update Profile**
+* Update the **Email** field&#x20;
+* Click **Finished**
 
 {% hint style="info" %}
 For most users, the Account Email and Team Email will/should be the same. Some users who have access to multiple teams may want different emails used in each team but should remember the email address associated with their D4H Account & Username.
