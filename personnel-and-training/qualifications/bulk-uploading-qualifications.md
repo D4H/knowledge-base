@@ -2,7 +2,8 @@
 
 Follow the steps below to bulk upload qualifications. First, you will need to download our Bulk-Upload Template from the Qualifications page:
 
-* Click into the qualification you wish to update
+* Go to **Planning** > **Qualifications**
+* Click into the qualification you wish to bulk qualify members
 * Click **Qualify Members**
 * Click **upload spreadsheet**
 * Download our Bulk-Upload Template

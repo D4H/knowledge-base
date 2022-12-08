@@ -2,9 +2,14 @@
 
 To delete a kind of equipment:
 
-* Navigate to the kind you wish to delete
-* Click **Update Details**
-* You will be brought to the Team Settings page for Categories & Kind
+* Go to the<img src="../../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Equipment** select **Categories & Kinds**
+* Expand the Category the Kind is located under
+* Hover over the Kind you wish to delete
+* Click **Delete**
+* Enter the password you use to log into the account
+* Click **Permanently Delete**
 
 {% hint style="info" %}
 You cannot delete a kind of equipment if you have active equipment items in it, this is to prevent accidental mass deletion. To delete a kind with items in it, you must first delete each item of equipment. There is no bulk delete function for this.

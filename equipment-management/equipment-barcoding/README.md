@@ -4,8 +4,9 @@ Barcodes help you manage your equipment cache. A barcode is a quick way for a co
 \
 Barcode types available to use are Code128, QR or ITF. To change the type:
 
-* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> Settings
-* Select **Equipment Settings** under **Equipment**
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Equipment** select **Equipment Settings**
 * Under Settings you can select the barcode type from the drop down (We would recommend using QR codes if you would like to scan with a camera).\
 
 
@@ -26,4 +27,3 @@ A USB scanner is recognized by your computer as a keyboard, and it types the bar
 {% content-ref url="assigning-a-barcode-to-an-item.md" %}
 [assigning-a-barcode-to-an-item.md](assigning-a-barcode-to-an-item.md)
 {% endcontent-ref %}
-

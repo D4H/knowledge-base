@@ -1,6 +1,6 @@
-# Adding a Handler to a K9
+# Assigning a K9 to a Handler
 
-To add a K9 to a Handler: 
+To assign a K9 to a Handler:&#x20;
 
 * Click into the K9
 * Click **Update handlers**

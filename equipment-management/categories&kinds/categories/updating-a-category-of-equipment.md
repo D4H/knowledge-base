@@ -2,8 +2,10 @@
 
 To update a category of equipment:
 
-* Navigate to the category of equipment that you want to update
-* Click **Update details**
+* Go to the<img src="../../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Equipment** select **Categories & Kinds**
+* Hover over the Category you wish to update
+* Click **Edit**
 * Here you are able to edit the name of the category
-* Click **Save Changes**
-
+* Click **Edit Category**

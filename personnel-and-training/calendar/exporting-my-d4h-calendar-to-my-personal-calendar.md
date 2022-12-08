@@ -2,7 +2,7 @@
 
 The [calendar](./) in D4H can be exported and utilized in a number of popular calendar tools including Google, iCloud, Outlook and many more.
 
-* Go to **Planning** -> **Calendar**&#x20;
+* Go to **Planning** > **Calendar**&#x20;
 * Click the **Turn On** icon at the bottom of the page
 * This will generate a link that can be imported into whichever calendar tool you choose to use
 

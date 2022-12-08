@@ -3,8 +3,8 @@
 **Access Level Required: Owner**
 
 * Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
-* Under **Modules** select **Whiteboard**
 * Click on **Team Settings**
+* Under **Modules** select **Whiteboard**
 * Set the **Write Notes** option to **Only Editors**
 * Click **Save Changes**\
 

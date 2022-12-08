@@ -4,7 +4,7 @@ To find additional equipment settings&#x20;
 
 * Go to the<img src="../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Click on **Team Settings**
-* Under the Equipment section select **Equipment Settings**
+* Under **Equipment** select **Equipment Settings**
 
 Here you can turn on or off certain modules within Equipment Management:\
 

@@ -4,7 +4,7 @@ View a list of all [personnel](members/) and their availability on a specific da
 
 To view this information:
 
-* Go to **Planning > Availability**
+* Go to **Planning** > **Availability**
 * You can change the date and time or filter the report by the **Group** drop down
 * Click **Go** to see the updated information
 

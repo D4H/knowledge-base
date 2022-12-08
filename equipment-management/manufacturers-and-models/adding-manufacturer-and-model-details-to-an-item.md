@@ -17,10 +17,12 @@ To add manufacturer and model details to an item of equipment:
 
 To edit existing manufacturer and model details:
 
-* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> **Settings** and under **Equipment** select **Manufacturers**
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Equipment** select **Manufacturers**
 * Click on the Manufacturer you want to update
-* Hover over the Manufacturer or Model you want to update
-* Click <img src="../../.gitbook/assets/907-9077140_png-file-svg-transparent-background-edit-icons-png.png" alt="" data-size="line"> **Edit** to update the details
+* Or expand the Manufacturer and select the Model you want to update
+* Click **Edit** to update the details
 * Type in the updated details and click **Edit Manufacturer** or **Edit Model**
 
 {% embed url="https://youtu.be/9S_so-7IsZ0" %}

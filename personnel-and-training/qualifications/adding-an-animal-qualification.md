@@ -2,6 +2,7 @@
 
 To add an animal qualification:&#x20;
 
+* Go to **Planning** > **Qualifications**
 * Select the **K9** tab across the top
 * On the righthand side of the page, click **Add Qualification**
 * Input the relevant details

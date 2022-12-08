@@ -2,7 +2,7 @@
 
 To export a PDF version of the calendar:
 
-* Go to **Planning** -> **Calendar**
+* Go to **Planning** > **Calendar**
 * Select the month of interest (if it is not the one currently displayed) by inputting the month on the top righthand side of the calendar
 
 ![](<../../.gitbook/assets/exporting the calendar.png>)

@@ -2,6 +2,7 @@
 
 To delete a qualification itself:
 
+* Go to **Planning** > **Qualifications**
 * Open up the qualification that you wish to delete
 * Click **Update Details**
 * At the bottom of the page there will be a small red Delete button

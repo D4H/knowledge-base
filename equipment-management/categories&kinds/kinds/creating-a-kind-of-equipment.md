@@ -2,7 +2,7 @@
 
 To add a kind to your equipment cache, you must first create a [Category](../categories/) above it.
 
-* Go to Logistics and click on **Equipment**
+* Go to **Logistics** > **Equipment**
 * Go to the **Categories** tab and open the category where you wish to add kinds
 * Click **Add Kind**
 * Give the kind a name and choose the type
