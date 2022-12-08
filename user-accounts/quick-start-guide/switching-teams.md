@@ -10,12 +10,12 @@ _Incident Reporting is only available on web app._
 
 To switch teams, you will first need to have linked your accounts together. To do this, follow the instructions on our page for [setting up single sign on for multiple accounts. ](../../user-access/sign-in-trouble/setting-up-a-single-sign-in-for-multiple-accounts.md)Once your accounts have been linked, you can switch between them:
 
-* Click on  the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
 * Select **Switch Team**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-12-07 at 4.47.28 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-12-07 at 4.49.57 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-12-07 at 4.49.57 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also reach your accounts page by using the link below that corresponds to your team's server location:
 
