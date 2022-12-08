@@ -16,7 +16,7 @@ There are two ways to update your on/off call period in the web application:
 \
 Or
 
-* Go to Operations -> On-Call Planner
+* Go to **Operations** > **On-Call Planner**
 * Select the **Add On-Call** or **Add Off-Call** button and follow the steps above\
 
 
