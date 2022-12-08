@@ -2,11 +2,11 @@
 
 The system sends an automatic email notification when:
 
-* an item is marked as critical and unserviceable
-* you are assigned a repair
-* a repair has been marked as in progress / completed (email sent to member that created the repair)
-* an inspection is due
-* supply of a kind drops below its designated [required supply level](../../equipment-management/categories\&kinds/disposable-equipment/supply-levels/required-supply-levels.md)
+* An item is marked as critical and unserviceable
+* You are assigned a repair
+* A repair has been marked as in progress / completed (email sent to member that created the repair)
+* An inspection is due
+* Supply of a kind drops below its designated [required supply level](../../equipment-management/categories\&kinds/disposable-equipment/supply-levels/required-supply-levels.md)
 
 ## Equipment Alerts
 

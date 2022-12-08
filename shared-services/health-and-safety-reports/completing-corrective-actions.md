@@ -2,7 +2,7 @@
 
 To complete Health & Safety Corrective Actions:
 
-* Go to **Logistics** > [**Tasks**](../tasks/) **** <img src="../../.gitbook/assets/Tasks.png" alt="" data-size="line"> ****&#x20;
+* Go to **Logistics** > [**Tasks**](../tasks/) ****&#x20;
 * Locate the applicable Corrective Action task, they will be listed under the heading _HS-Category (I.e. Injury  / Near Miss)_
 * Click on the task you wish to complete
 * Update the **Status** of the Corrective Action task to either **In Progress** or **Completed**

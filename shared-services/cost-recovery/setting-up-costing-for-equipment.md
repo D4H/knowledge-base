@@ -9,11 +9,13 @@ To set up costing based on Equipment Items:
 
 To set up costing based on Equipment Kinds:
 
-* Go to <img src="../../.gitbook/assets/wrench.png" alt="" data-size="line"> Settings
-* Under **Equipment** select Categories & Kinds
+* Go to the<img src="../../.gitbook/assets/User Icon" alt="" data-size="line">icon in the top right hand corner
+* Click on **Team Settings**
+* Under **Equipment** select&#x20;
 * Click the [kind](../../equipment-management/categories\&kinds/) you want to apply costing values to
 * Select **Edit** and enter the appropriate costing
-* Costs can be set Per Hour, Per Use and Per Distance\
+* Costs can be set Per Hour, Per Use and Per Distance
+* Click **Edit Kind**\
 
 
 ![](<../../.gitbook/assets/equipment kinds costing.gif>)
