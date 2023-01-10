@@ -8,8 +8,8 @@ To delete a kind of equipment:
 * Expand the Category the Kind is located under
 * Hover over the Kind you wish to delete
 * Click **Delete**
-* Enter the password you use to log into the account
-* Click **Permanently Delete**
+* Type in the prompted word in the space to confirm
+* Click **I understand the consequences, delete** and that kind will no longer appear&#x20;
 
 {% hint style="info" %}
 You cannot delete a kind of equipment if you have active equipment items in it, this is to prevent accidental mass deletion. To delete a kind with items in it, you must first delete each item of equipment. There is no bulk delete function for this.

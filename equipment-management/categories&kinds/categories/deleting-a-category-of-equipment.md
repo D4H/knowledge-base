@@ -8,8 +8,8 @@ To delete a category of equipment:
 * Hover over the Category you wish to delete
 * Click **Delete**
 * Click **Delete Category**
-* Enter the password you use to log into the account
-* Click **Permanently Delete**
+* Type in the prompted word in the space to confirm
+* Click **I understand the consequences, delete** and that category will no longer appear&#x20;
 
 {% hint style="info" %}
 You cannot delete a category of equipment if you have active equipment items in it, this is to prevent accidental mass deletion. To delete a category with items in it, you must first delete each item of equipment. There is no bulk delete function for this.&#x20;
