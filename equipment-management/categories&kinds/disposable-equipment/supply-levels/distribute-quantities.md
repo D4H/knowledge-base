@@ -1,6 +1,6 @@
 # Distribute Quantities
 
-Distribute Quantity to Existing Item
+## Distribute Quantity to Existing Item
 
 To distribute quantities of a supply to another item:
 
