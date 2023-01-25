@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-You can tag Personnel against a log post. This makes it easy to see exactly what each post relates to. It also means you can log a post against a member and that member will receive a notification. To do this, go to Updates
+You can tag Personnel against a log post. This makes it easy to see exactly what each post relates to. It also means you can log a post against a member and that member will receive a notification. To do this, go to Logs:
 
 * Click on the **+Tag** icon and start typing in the name of the person you wish to tag
 * Select the member from the drop down

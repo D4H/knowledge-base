@@ -40,7 +40,7 @@ Depending on the product you are using and the [Permission](../../user-access/pe
 ### <img src="../../.gitbook/assets/IM-rounded.png" alt="" data-size="line"> Incident Management
 
 * View the [Situation](../../incident-management/situation/) Report.
-* Post an [update](../../incident-management/updates/) in the log.&#x20;
+* Post an update in the [log](../../incident-management/updates/).&#x20;
 * Mark a [task](../../incident-management/task-boards/) as complete.
 * Fill out a [form](../../incident-management/forms/).
 

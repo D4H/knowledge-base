@@ -18,9 +18,9 @@ Assign [personnel ](../personnel/)to existing [roles](../roles/) in the app by c
 
 Complete existing[ forms](../forms/) in the app by clicking on the forms and then selecting fields to add to. Add new forms by clicking the **+** in the bottom right and selecting a form type from the list of [templates](../admin-area/templates/).
 
-## Updates
+## Logs
 
-View and post [updates](../updates/) in this section. Attach images and videos to messages to share with other team members.&#x20;
+View and post [log communications](./#logs) in this section. Attach images and videos to messages to share with other team members.&#x20;
 
 ## Task Boards
 

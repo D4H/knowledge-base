@@ -235,7 +235,7 @@
     * [Selecting basemaps to display](incident-management/map/basemaps/selecting-basemaps-to-display.md)
     * [Adding Custom Basemaps](incident-management/map/basemaps/adding-custom-basemaps.md)
     * [Using a Basemap](incident-management/map/basemaps/using-a-basemap.md)
-* [Updates](incident-management/updates/README.md)
+* [Logs](incident-management/updates/README.md)
   * [Tagging Items in the Log](incident-management/updates/tagging-items-in-the-log.md)
   * [Filtering the Log to an Item](incident-management/updates/filtering-the-log-to-an-item.md)
   * [Viewing the Audit Trail](incident-management/updates/viewing-the-audit-trail.md)

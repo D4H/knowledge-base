@@ -13,19 +13,19 @@ Every change in [Incident Management](../getting-started.md) is recorded in the 
 **To view the audit trail of a specific item:**
 
 * Navigate to the item you want an audit trail for
-* Click the Updates icon on the top right to open the right side-bar
+* Click the **Logs** icon on the top right to open the right side-bar
 
 ![](<../../.gitbook/assets/to view an aduit trail of a specific item.png>)
 
 * Click on the **All** tab to see the audit trail for the item.\
 
 
-![](<../../.gitbook/assets/viewing the aduit trail.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-25 at 12.03.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Printing The Audit Trail
 
 It is possible to print the Audit Trail.
 
-* Go to **Updates**
+* Go to **Logs**
 * Click on **More Options \[⋮]** on the top right
 * Click **Print to PDF**\

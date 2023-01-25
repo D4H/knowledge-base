@@ -4,7 +4,7 @@
 
 You can tag items from a status board against a log post. This makes it easy to see exactly what each post relates to. Once it is tagged you are able to click on the tag and it takes you directly to that item.\
 \
-To tag an item, go to Updates
+To tag an item, go to Logs:
 
 * Click on the **+Tag** icon and start typing in the name of the item you wish to tag
 * Select the item from the drop down
@@ -16,7 +16,7 @@ To tag an item, go to Updates
 **MOBILE APP**
 
 * Open the [Mobile App](../incident-management-app/)
-* Click on [Updates ](./)
+* Click on [Logs ](./)
 * Click on the **+Tag** icon and start typing in the name of the item you wish to tag
 * Select the item from the drop down
 * Type your message and hit the **Enter** key or press the<img src="../../.gitbook/assets/paper airplane icon.png" alt="" data-size="line"> icon

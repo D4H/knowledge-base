@@ -2,7 +2,7 @@
 
 #### WEB APP
 
-In Updates, you are able to filter the log posts to display only posts relating to a particular task board or task. To do this go to **Updates** in your[ Incident Management ](../getting-started.md)account
+In Updates, you are able to filter the log posts to display only posts relating to a particular task board or task. To do this go to **Logs** in your[ Incident Management ](../getting-started.md)account
 
 * Click the **filter** icon
 * Select your task board from the tag drop down menu
@@ -19,13 +19,13 @@ You can also filter the log from the task board directly. To do this go to your 
 * You will see all log posts against this task board\
 
 
-![](<../../.gitbook/assets/filtering the log to a task 2.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-25 at 12.10.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 * To filter the log to a task click into the task list and then click into the task itself
 * The log will display only posts related to that task\
 
 
-![](<../../.gitbook/assets/filtering the log to a task 3.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-25 at 12.13.42 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Alternatively, if you click directly on the tagged task in the log, it will take you to the task and filtered log
 

@@ -6,20 +6,20 @@ Every change in [Incident Management](../getting-started.md) is recorded in the 
 \
 **To view the complete audit trail**
 
-* Click on **Updates**
-* Select the **All** tab
+* Click on **Logs**
+* Select the **Audit** tab
 
 \
 **To view the audit trail of a specific item:**
 
 * Navigate to the item you want an audit trail for
-* Click the **Updates** icon on the top right to open the right side-bar
+* Click the **Logs** icon on the top right to open the right side-bar
 
 ![](<../../.gitbook/assets/viewing the audit trail of a specific item.png>)
 
 * Click on the **All** tab to see the audit trail for the item.
 
-![](<../../.gitbook/assets/viewing the audit trail.png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-25 at 12.03.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 At present, it is not possible to view the Audit Trail in the mobile app.

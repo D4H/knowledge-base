@@ -1,8 +1,8 @@
-# Updates
+# Logs
 
-Updates is where you will find your chronological log of all posts during an event / incident. It is also where you will find the audit trail showing all changes made in an open channel which are date and time stamped.&#x20;
+Logs is where you will find your chronological log of all posts during an event / incident. It is also where you will find the audit trail showing all changes made in an open channel which are date and time stamped.&#x20;
 
-![](../../.gitbook/assets/updates.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-25 at 11.07.33 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-11-29 at 8.09.08 AM (1).jpeg" alt=""><figcaption></figcaption></figure>
 
