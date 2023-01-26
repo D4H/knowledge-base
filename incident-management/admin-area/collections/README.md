@@ -20,8 +20,8 @@ Collections are designed to allow you to store content to be re-used again & aga
 [including-collections-in-a-play.md](../../plays/including-collections-in-a-play.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../personnel/adding-personnel-in-collections.md" %}
-[adding-personnel-in-collections.md](../../personnel/adding-personnel-in-collections.md)
+{% content-ref url="../../personnel/adding-personnel-in-collections-importing-personnel-from-a-csv-file.md" %}
+[adding-personnel-in-collections-importing-personnel-from-a-csv-file.md](../../personnel/adding-personnel-in-collections-importing-personnel-from-a-csv-file.md)
 {% endcontent-ref %}
 
 ![](<../../../.gitbook/assets/collections overview.png>)

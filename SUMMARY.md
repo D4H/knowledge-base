@@ -270,7 +270,7 @@
   * [Troubleshooting 'A play failed to run'](incident-management/plays/troubleshooting-a-play-failed-to-run.md)
 * [Personnel](incident-management/personnel/README.md)
   * [Configuring the Personnel template](incident-management/personnel/configuring-the-personnel-template.md)
-  * [Adding Personnel in Collections](incident-management/personnel/adding-personnel-in-collections.md)
+  * [Adding Personnel in Collections](incident-management/personnel/adding-personnel-in-collections-importing-personnel-from-a-csv-file.md)
   * [Assigning a permission profile](incident-management/personnel/assigning-a-permission-profile.md)
   * [Searching Personnel](incident-management/personnel/searching-personnel.md)
   * [Sorting Personnel](incident-management/personnel/sorting-personnel.md)

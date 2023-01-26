@@ -35,8 +35,8 @@ Personnel have a [Template](../admin-area/templates/) which outlines the layout 
 [creating-collections.md](../admin-area/collections/creating-collections.md)
 {% endcontent-ref %}
 
-{% content-ref url="adding-personnel-in-collections.md" %}
-[adding-personnel-in-collections.md](adding-personnel-in-collections.md)
+{% content-ref url="adding-personnel-in-collections-importing-personnel-from-a-csv-file.md" %}
+[adding-personnel-in-collections-importing-personnel-from-a-csv-file.md](adding-personnel-in-collections-importing-personnel-from-a-csv-file.md)
 {% endcontent-ref %}
 
 {% content-ref url="../admin-area/collections/importing-collections-into-a-channel.md" %}
