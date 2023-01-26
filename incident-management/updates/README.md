@@ -6,7 +6,7 @@ Logs is where you will find your chronological log of all posts during an event 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-11-29 at 8.09.08 AM (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-### Using Updates
+### Using Logs
 
 {% content-ref url="filtering-the-log-to-an-item.md" %}
 [filtering-the-log-to-an-item.md](filtering-the-log-to-an-item.md)
