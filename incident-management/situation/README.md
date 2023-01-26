@@ -10,7 +10,7 @@ The first 5 fields in the Situation Report (SITREP) are built in.
 
 ![](../../.gitbook/assets/sitrep.png)
 
-* **Event name**: this is the name of the event / incident that you type in when you start a new channel, e.g. Chemical Spill, Severe Winter Storm, Passenger Incident, Air Monitoring, Pipeline Incident etc. 
+* **Event name**: this is the name of the event / incident that you type in when you start a new channel, e.g. Chemical Spill, Severe Winter Storm, Passenger Incident, Air Monitoring, Pipeline Incident etc.&#x20;
 * **Status**: you can configure the statuses in the Admin Area
 * **Start Date**: the clock / timer in your channel is based on this time and date. The system autofills this field when you open the channel
 * **End Date**: the clock / timer in your channel will stop when this field has been filled in
@@ -63,8 +63,8 @@ When you start a new channel, the first thing you will start filling out is the 
 [printing-to-pdf.md](printing-to-pdf.md)
 {% endcontent-ref %}
 
-{% content-ref url="sharing-by-email-and-public-link.md" %}
-[sharing-by-email-and-public-link.md](sharing-by-email-and-public-link.md)
+{% content-ref url="sharing-by-public-link-share-by-public-link.md" %}
+[sharing-by-public-link-share-by-public-link.md](sharing-by-public-link-share-by-public-link.md)
 {% endcontent-ref %}
 
 {% content-ref url="viewing-the-audit-trail.md" %}

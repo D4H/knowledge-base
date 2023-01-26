@@ -202,7 +202,7 @@
   * [Tagging the Situation in the Log](incident-management/situation/tagging-the-situation-in-the-log.md)
   * [Hide Event Name Field on Situation](incident-management/situation/hide-event-name-field-on-situation.md)
   * [Printing to PDF](incident-management/situation/printing-to-pdf.md)
-  * [Sharing by Email and Public Link](incident-management/situation/sharing-by-email-and-public-link.md)
+  * [Sharing by Email and Public Link](incident-management/situation/sharing-by-public-link-share-by-public-link.md)
   * [Viewing the Audit Trail](incident-management/situation/viewing-the-audit-trail.md)
 * [Roles](incident-management/roles/README.md)
   * [Creating Teams and Roles](incident-management/roles/creating-teams-and-roles.md)

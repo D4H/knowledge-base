@@ -131,8 +131,8 @@ When you come to use a Status Board during an event, you should first add it to 
 [printing-to-pdf.md](../situation/printing-to-pdf.md)
 {% endcontent-ref %}
 
-{% content-ref url="../situation/sharing-by-email-and-public-link.md" %}
-[sharing-by-email-and-public-link.md](../situation/sharing-by-email-and-public-link.md)
+{% content-ref url="../situation/sharing-by-public-link-share-by-public-link.md" %}
+[sharing-by-public-link-share-by-public-link.md](../situation/sharing-by-public-link-share-by-public-link.md)
 {% endcontent-ref %}
 
 {% content-ref url="exporting-to-spreadsheet.md" %}
