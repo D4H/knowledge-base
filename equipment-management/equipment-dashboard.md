@@ -8,7 +8,7 @@ This will display any [Inspections](inspections/) that are coming up for your te
 
 ## Low Supply Level
 
-This tracks the [Required Supply Level](categories\&kinds/disposable-equipment/supply-levels/required-supply-levels.md) thresholds you’ve set on your [Consumable Equipment Items](categories\&kinds/disposable-equipment/) and alerts you if you drop below this threshold. E.g. you need 200 medical gloves in your cache, however, you currently only have 150. It will show you that you are 50 below your threshold.
+This tracks the [Required Supply Level](categories-and-kinds/disposable-equipment/supply-levels/required-supply-levels.md) thresholds you’ve set on your [Consumable Equipment Items](categories-and-kinds/disposable-equipment/) and alerts you if you drop below this threshold. E.g. you need 200 medical gloves in your cache, however, you currently only have 150. It will show you that you are 50 below your threshold.
 
 ## Expired Equipment
 

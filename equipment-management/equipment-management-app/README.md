@@ -20,7 +20,7 @@ View and complete [repairs ](../repairs/)in the Repairs section. Repairs are sor
 
 ## Browse
 
-Browse equipment by [category and kind](../categories\&kinds/) in the Browse section. The first area shown is a list of all equipment categories. Click on a category to view the kinds within it. Clicking on a kind will take you to a list of individual items. Select one to view an item overview. More details can be seen by clicking **view item**. \
+Browse equipment by [category and kind](../categories-and-kinds/) in the Browse section. The first area shown is a list of all equipment categories. Click on a category to view the kinds within it. Clicking on a kind will take you to a list of individual items. Select one to view an item overview. More details can be seen by clicking **view item**. \
 
 
 ## Search

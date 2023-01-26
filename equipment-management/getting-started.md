@@ -14,8 +14,8 @@
 [equipment-dashboard.md](equipment-dashboard.md)
 {% endcontent-ref %}
 
-{% content-ref url="categories&kinds/" %}
-[categories\&kinds](categories\&kinds/)
+{% content-ref url="categories-and-kinds/" %}
+[categories-and-kinds](categories-and-kinds/)
 {% endcontent-ref %}
 
 {% content-ref url="equipment-items/" %}

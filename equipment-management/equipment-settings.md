@@ -34,7 +34,7 @@ Categories & Kinds, Manufacturers, and Suppliers\
 
 
 
-You can configure and edit your [categories & kinds](categories\&kinds/), [manufacturers](manufacturers-and-models/), and suppliers.&#x20;
+You can configure and edit your [categories & kinds](categories-and-kinds/), [manufacturers](manufacturers-and-models/), and suppliers.&#x20;
 
 ![](<../.gitbook/assets/categories and kinds settings.png>)
 
